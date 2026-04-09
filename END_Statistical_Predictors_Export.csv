@@ -1,0 +1,104 @@
+﻿display_name,clinical_uni_stats,clinical_multi_stats,radiological_uni_stats,radiological_multi_stats
+Boulenoir et al. 2021,"  • Diabetes mellitus absent: 0% in END vs 21% in no END (P=0.03)
+  • Non-atheromatous iICAo etiology: END in 17/33 (52%) non-atheromatous vs 5/41 (12%) atheromatous (P<0.001)",  • None,"  • Suprabulbar iICAo pre-IVT: 65% in END vs 32% in no END (P=0.01)
+  • Intracranial occlusion post-IVT: 76% in END vs 0% in no END (P<0.001)","  • Suprabulbar iICAo pre-IVT: OR 4.0 (95% CI 1.3–12.2, P=0.015), the only one retained in the model after stepwise variable selection
+  • Post-IVT: none "
+Boulenoir et al. 2022,  • None,"END24h 
+  • IVT: aHR 2.01 (95% CI 1.07–3.92, P=0.03), adjusted for baseline NIHSS and onset-to-imaging time. END24h occurred earlier in IVT group (median imaging-to-END24h: 2.4h IQR 1.8–7.3 vs 8.3h IQR 4.0–15.3, P=0.04)
+  • Non-atheromatous etiology: END24h less frequent in atheromatous cause (14%) vs cardioembolic (50%), dissection (31%), other/undetermined (35%), P<0.01
+
+NB → the study assessed time-to-END (when will END occur), not END occurrence (if END will occur)",  • None,  • None
+Broccolini et al. 2024,"  • AFib: 62.3%  in END vs 25.6% in no END (P<0.001)
+  • Current antiplatelet therapy: 49.0% in END vs 28.1% in no END (P=0.009)
+  • Current anticoagulant therapy: 34.7% in END vs 18.2% in no END (P=0.020)","  • AFib: aOR 3.547 (95% CI 1.014–12.406, P=0.048), adjusted for age, antiplatelet, anticoagulant, dominant M2, Menon score, thrombolysis",  • Dominant M2 division: 64.4% in END vs 43.0% in no END (P=0.002),  • None
+Gwak et al. 2021,"  • Shorter onset-to-door time: 2.50h (IQR 1.09–5.10) in END vs 4.28h (1.58–13.67) in no END (P=0.019)
+  • IVT: 54.1% in END vs 14.0% in no END (P<0.001)","IVT
+  • aOR 7.68 (95% CI 2.52–23.43, P≤0.001) in Model 1, adjusted for Tmax >6 seconds ≥53.73 mL, onset-to-door time, IV tPA, and initial DWI volume
+  • aOR 5.97 (95% CI 2.05–17.40, P≤0.001) in Model 2, adjusted for Tmax >6 seconds – DWI ≥32.77 mL, onset-to-door time, IV tPA, and initial DWI volume
+  • aOR 14.94 (95% CI 4.18–53.33, P≤0.001) in Model 3, adjusted for Tmax 4–6 seconds ≥55.20 mL, onset-to-door time, IV tPA, and initial DWI volume
+","  • Tmax >6s vol ≥53.73 mL (critical hypoperfusion): OR 6.77 (95% CI 2.44–18.77, P<0.001)
+  • Mismatch vol ≥32.77 mL (Tmax >6s - DWI): OR 5.34 (95% CI 2.17–13.11, P<0.001)
+  • Tmax 4–6s vol ≥55.20 mL (mild hypoperfusion): OR 4.21 (95% CI 1.75–10.15, P=0.001). 
+Cutoffs determined by Youden’s index (sens+spec-1) from ROC analysis.","  • Tmax >6s ≥53.73 mL (critical hypoperfusion): aOR 12.78 (95% CI 3.36–48.65, P<0.001); Model 1, adjusted for Tmax >6 seconds ≥53.73 mL, onset-to-door time, IV tPA, and initial DWI volume
+  • Mismatch volume ≥32.77 mL (Tmax >6s - DWI): aOR 5.73 (95% CI 2.04–16.08, P=0.001); Model 2, adjusted for Tmax >6 seconds – DWI ≥32.77 mL, onset-to-door time, IV tPA, and initial DWI volume
+  • Tmax 4–6s ≥55.20 mL (mild hypoperfusion): aOR 9.13 (95% CI 2.76–30.17, P<0.001); Model 3, adjusted for Tmax 4–6 seconds ≥55.20 mL, onset-to-door time, IV tPA, and initial DWI volume"
+Gwak et al. 2022,"  • Shorter onset-to-door time: 2.50h (IQR 1.09–5.10) in END vs 4.28h (1.58–13.67) in no END (P=0.019)
+  • IVT: 54.1% in END vs 14.0% in no END (P<0.001)
+(Same cohort as Gwak et al. 2021)",  • IVT independently associated with END in both Model 1 and Model 2 (exact aOR values not reported in this paper; see Gwak et al. 2021 for statistics),"Poor perfusion profile 
+  • Defined as Wilcoxon-Mann-Whitney generalised OR >1.052 (Model 1): OR 15.87 (95% CI 5.49–45.90, P<0.001)
+  • Defined as Wilcoxon-Mann-Whitney generalised OR >1.000 (Model 2): OR 9.56 (95% CI 3.41–26.76, P<0.001)
+
+Perfusion profile = severity-weighted shift of Tmax strata distribution (Tmax 2–4s, 4–6s, 6–8s, 8–10s, >10s proportions vs Tmax>2s total), calculated via Wilcoxon-Mann-Whitney generalised OR comparing individual to cohort. Cutoffs based on Youden's index.","Poor perfusion profile
+  • Defined as Wilcoxon-Mann-Whitney generalised OR >1.052 (Model 1): aOR 13.42 (95% CI: 4.38–41.15, P<0.001)
+  • Defined as Wilcoxon-Mann-Whitney generalised OR >1.000 (Model 2): aOR 7.31 (95% CI 2.48-21.49, P<0.001)
+
+Perfusion profile = severity-weighted shift of Tmax strata distribution (Tmax 2–4s, 4–6s, 6–8s, 8–10s, >10s proportions vs Tmax>2s total), calculated via Wilcoxon-Mann-Whitney generalised OR comparing individual to cohort. Cutoffs based on Youden's index."
+He et al. 2021,  • Higher baseline glucose: 156.88 ± 43.67 mg/dL in END vs 128.75 ± 39.95 mg/dL in no END (P<0.001),"Higher baseline glucose:
+• aOR 1.02 (95% CI 1.01–1.03, P=0.009) in Model 1 (adjusted for SVS as continuous value, glucose, hypertension, smoking, cardiac embolism, undetermined stroke)
+• aOR 1.01 (95% CI 1.00–1.03, P=0.021) in Model 2 (adjusted for SVS ≥9.45 mm dichotomized, glucose, hypertension, smoking, cardiac embolism, undetermined stroke)","  • Longer SVS: median 10.68 mm (IQR 9.70–13.25) in END vs 9.13 (7.73–10.41) in no END (P<0.001)
+  • SVS ≥9.45 mm: 77.78% in END vs 43.93% in no END, OR 4.47 (95% CI 1.67–11.96, P=0.002)
+  • ROC AUC for SVS: 0.74 (95% CI 0.63–0.84). Cutoff ≥9.45 mm: sensitivity 77.78%, specificity 56.07%, PPV 30.89%, NPV 90.91%","  • Longer SVS: aOR 2.03 (95% CI 1.45–2.84, p<0.001); Model 1, adjusted for SVS value (continuous), baseline glucose, hypertension, current smoking, cardiac embolism, undetermined stroke)
+  • SVS ≥9.45 mm: aOR 5.41 (95% CI 1.00–29.27, p=0.001); Model 2, adjusted for SVS ≥ 9.45 mm (dichotomized), baseline glucose, hypertension, current smoking, cardiac embolism, undetermined stroke)"
+Heitkamp et al. 2025,"  • Higher pre-stroke mRS: IQR 0–1 in END vs 0–0 in no END (P=0.002)
+  • Lower baseline NIHSS: 3 in END vs 4 in no END (P=0.002)
+  • Less AFib: 29% in END vs 37% in no END (P=0.029)
+  • Less tPA administration: 34% in END vs 43% in no END (P=0.017)","  • Higher pre-stroke mRS: aOR 1.42 (95% CI 1.13–1.78, P=0.003), 
+
+Adjusted for NIHSS at admission, pre stroke mRS, AFib, ICA occlusion, time from admission to groin puncture, tPA, general anesthesia, number of passes, successful recanalization TICI 2b-3, adverse events during EVT, ICH after 24h","  • Intracranial ICA: 18% in END vs 10% in no END (P=0.003)
+  • Longer admission-to-groin-puncture time: 90 min in END vs 79 min in no END(P=0.017)
+  • General anesthesia: 74% in END vs 63% in no END (P=0.008)
+  • Higher number of passes: 2 in END vs 1 in no END (P<0.001)
+  • Unsuccessful recanalization (TICI<2b): 26% in END vs 10% in no END (P<0.001)
+  • Adverse events during EVT: 27% in END vs 15% in no END (P<0.001)","  • Longer admission-to-groin-puncture time: aOR 1.04 (95% CI 1.02–1.07, P=0.001) per minute
+  • General anesthesia: aOR 1.68 (95% CI 1.08–2.63, P=0.022)
+  • Higher number of passes: aOR 1.15 (95% CI 1.03–1.29, P=0.012)
+  • Adverse events during EVT: aOR 1.89 (95% CI 1.19–3.01, P=0.007)
+  • ICH within 24h: aOR 3.40 (95% CI 1.90–6.07, P<0.001)
+
+Adjusted for NIHSS, pre-stroke mRS, AFib, ICA occlusion, admission-to-groin time, tPA, general anesthesia, no. of passes, TICI 2b-3, adverse events during EVT, ICH within 24h
+  • Of note, successful recanalization TICI 2b-3 was protective: aOR 0.29 (95% CI 0.17–0.50, P<0.001)"
+Hu et al. 2025,"  • Age: OR 0.78 (95% CI 0.54–0.98, P=0.042)
+  • Delayed antiplatelet therapy (>24h after IVT): OR 1.96 (95% CI 1.21–2.85, P<0.001)","  • Delayed antiplatelet therapy (>24h after IVT): aOR 1.46 (95% CI 1.17–1.84, P<0.001), adjusted for Tmax >4s volume, delayed antiplatelet therapy and occlusion site","  • Tmax >4s volume: OR 1.46 (95% CI 1.09–1.44, P=0.012)
+  • Isolated ICA occlusion: OR 3.47 (95% CI 1.67–5.74, P<0.001)","  • Isolated ICA occlusion: aOR 2.49 (95% CI 1.97–4.41, P<0.001), adjusted for Tmax >4s volume, delayed antiplatelet therapy and occlusion site"
+Itabashi et al. 2023,"  • Higher baseline NIHSS: median 4 in END vs 1 in no END (P<0.001)
+  • Diabetes mellitus: 61.5% in END vs 13.6% in no END (P=0.007)
+  • IVT: 30.9% in END vs 0% in no END (P=0.014)
+  • EVT: 23.1% in END vs 0% in no END (P=0.044)",  • No multivariable analysis done,"  • None
+  • Patency of ICT and MCA not associated with REND (61.5% vs 63.6%, P=1.00).",  • No multivariable analysis done
+Kim et al. 2022,"  • Higher baseline NIHSS: median 3 [IQR 1–4] in END vs 2 [1–4] in no END (P=0.03)
+  • History of Hypertension: 71.5% in END vs 59.1% in no END (P<0.01)","  • History of Hypertension: aOR 1.49 (95% CI 1.03–2.14)
+  • Higher baseline NIHSS: aOR 1.12 per 1-point increase (95% CI 1.02–1.23)
+Adjusted for age, male sex, occluded artery, NIHSS score, LKW to arrival, Hypertension, Diabetes, Advanced WMH, Baseline ASPECTS, collateral grade at baseline",  • Extracranial ICA occlusion (without tandem): 27.1% in END vs 19.1% in no END (P<0.01),"  • Extracranial ICA occlusion (without tandem): aOR 1.72 (95% CI 1.09–2.73). 
+  • Tandem occlusion: aOR 2.79 (95% CI 1.57–4.95)
+Adjusted for age, male sex, occluded artery, NIHSS score, LKW to arrival, Hypertension, Diabetes, Advanced WMH, Baseline ASPECTS, collateral grade at baseline"
+Lee et al. 2020,"  • Older age: 70.8 years in END vs 63.2 years in no END (P=0.036)
+  • Diabetes mellitus: 50% in END vs 18.9% in no END (P=0.004)",  • No multivariable analysis done,"  • Proximal LVO site (M1/ICAT): 54% in END vs 26% in no END (P=0.04)
+  • Larger CTP core (CBV<30%): 19.9 in END vs 6.7 mL in no END (P=0.0095)
+  • Larger Tmax>6s volume: 93.5 mL in END vs 52.1 mL in no END (P=0.0059)",  • No multivariable analysis done
+Mazya et al. 2018,  • Heart failure: 11.3% in END vs 4.9% in no END (P=0.049),  • No multivariable analysis done,  • None,  • No multivariable analysis done
+Min et al. 2020,  • None,  • None ,"  • END with infarct growth was more frequently observed in patients with insular lesions than in those without lesions (25.6% vs. 11.9%, p = 0.03)
+
+Notes
+  • insular lesions associated with END with infarct growth, and not the other way around!
+  • END was classified by presumed mechanism: END with infarct growth, END with new lesions, and END with swelling.","  • Insular lesions, compared with no insular lesions, were independently associated with END with infarct growth (OR 2.75, 95% CI 1.18–6.38, p = 0.02), and END-2 with infarct growth (OR 2.52, 95% CI 1.08–5.87, p = 0.03); included confounders: age, male sex, baseline NIHSS
+
+Notes
+  • insular lesions associated with END with infarct growth, and not the other way around!
+  • END was classified by presumed mechanism: END with infarct growth, END with new lesions, and END with swelling."
+Saleem et al. 2020,  • None,  • None,  • None,  • None
+Seners et al. 2021,  • Male sex: 57% in END vs 44.5% in no END (P=0.03),  • None,"  • More proximal occlusion: ICA-T/L 14% vs 1.6%, tandem 19% vs 9.2%, proximal M1 11% vs 6.6%, distal M1 23% vs 21%, M2 24% vs 58.1% (END vs no END)
+  • Longer thrombus: median 11.5 mm (IQR 8.8–14.8) in END vs 8.3 mm (5.8–11.0) in no END.","  • More proximal occlusion (vs M2 reference): 
+  • distal M1 aOR 2.6 (1.4–5.0), proximal M1 aOR 4.2 (1.8–9.4), tandem aOR 5.1 (2.6–10.3), ICA-T/L aOR 21.0 (8.2–54.2) in Model 1, adjusted for sex, NIHSS, SBP, on-site EVT facility, occlusion site
+  • distal M1 aOR 2.5 (1.2–5.1), proximal M1 aOR 5.2 (2.1–13.1), tandem aOR 4.5 (2.1–9.7), ICA-T/L aOR 16.0 (5.7–44.9) in Model 2, adjusted for sex, NIHSS, SBP, on-site EVT facility, occlusion site, thrombus length
+  •  Thrombus ≥9 mm: aOR 3.2 (95% CI 1.8–5.7, P=0.002) in Model 2, adjusted for sex, NIHSS, SBP, on-site EVT facility, occlusion site, thrombus length
+  • Of note, perfusion parameters (Tmax volume, HIR) not associated with END."
+Shi et al. 2025,"  • Higher admission SBP: 158 mmHg in ENDi vs 131 mmHg in no END (P<0.001)
+  • Higher SBP variability: 32 mmHg in ENDi vs 14 mmHg in no END (P<0.001)","  • Highest quartile of admission SBP: aOR 2.47 (95% CI 1.47–4.29, P<0.001)
+  • Highest quartile of 24h SBP variability: aOR 2.57 (95% CI 1.34–5.18, P<0.001)
+  • Admission SBP >150 mmHg (ROC cutoff): AUC 0.822 (95% CI 0.749–0.895), sens 73.8%, spec 79.0%, PPV 32.6%, NPV 95.6%
+  • SBP variability >24 mmHg (ROC cutoff): AUC 0.718 (95% CI 0.624–0.811), sens 73.8%, spec 62.9%, PPV 21.5%, NPV 94.6%
+  • Combined SBP + SBP variability: AUC 0.848 (95% CI 0.775–0.922), sens 85.7%, spec 87.2%, PPV 47.2%, NPV 98.8%",  • Higher Tmax>6s volume: 63 mL in ENDi vs 40 mL in no END (P<0.001),"  • Tmax>6s volume highest quartile: aOR 2.09 (95% CI 1.28–5.89, P=0.001); Tmax>6s volumes categorized into quartiles with first quartile as reference."
+Wang et al. 2022,"  • NFL: unadjusted OR 1.170 (95% CI 1.049–1.306, P=0.005)","NFL
+  • aOR 1.178 (1.038–1.323, P=0.006) in Model 1, adjusted for age and sex 
+  • aOR 1.168 (1.034–1.320, P=0.012) in Model 2, adjusted for age, sex,  NIHSS, TOAST classification, event to blood sampling (h), and infarct volume (Model 2) 
+  • AUC 0.850 (95% CI 0.731–0.970, P<0.001), sensitivity 73.7%, specificity 80% for NFL>55.03 pg/mL (cutoff)",  • None,  • None

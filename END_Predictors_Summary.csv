@@ -1,0 +1,18 @@
+display_name,lvo_definition_list,end_delta_nihss,end_hours,pct_end,clinical_predictors_uni_list,clinical_predictors_multi_list,radiological_predictors_uni_list,radiological_predictors_multi_list
+Mazya et al. 2018,"['ACA', 'BAS', 'ICA', 'ICAT', 'MCA', 'PCA', 'VA']",4,24.0,0.09,['Heart failure'],['No multivariable analysis done'],['none'],['none']
+Shi et al. 2025,"['BAS', 'ICA', 'MCA', 'VA']",4,24.0,0.121,"['Higher SBP variability', 'Higher admission SBP']","['Admission SBP > 150mmHg', 'SBP variability >24 mmHg', 'highest quartile of 24h SBP variability', 'highest quartile of admission SBP']",['Higher Tmax>6s volume'],['Tmax>6s volume - highest quartile']
+Seners et al. 2021,"['BAS', 'ICA', 'MCA']",4,24.0,0.121,['Male sex'],['none'],"['Longer thrombus', 'More proximal occlusion']","['Longer thrombus', 'More proximal occlusion', 'Thrombus>9mm']"
+Kim et al. 2022,"['ICA', 'MCA']",2,,0.191,"['Higher baseline NIHSS', 'Hypertension']","['Higher baseline NIHSS', 'Hypertension']",['Extracranial ICA occlusion'],"['Extracranial ICA occlusion', 'Tandem occlusion']"
+Saleem et al. 2020,"['ACA', 'BAS', 'ICA', 'MCA', 'PCA']",4,,0.197,['none'],['none'],['none'],['none']
+He et al. 2021,"['ICA', 'MCA']",4,24.0,0.2015,['Higher baseline glucose'],['Higher baseline glucose'],"['Longer SVS', 'SVS ≥9.45 mm']","['Longer SVS', 'SVS ≥9.45 mm']"
+Hu et al. 2025,"['BAS', 'ICA', 'MCA', 'VA']",4,24.0,0.221,"['Age', 'Delayed antiplatelet therapy']",['Delayed antiplatelet therapy'],"['Isolated ICA occlusion', 'Tmax >4s volume']",['Isolated ICA occlusion']
+Heitkamp et al. 2025,"['ICA', 'MCA']",4,24.0,0.235,"['Higher pre-stroke mRS', 'Lower baseline NIHSS', 'No Afib', 'No IVT']",['Higher pre-stroke mRS'],"['Adverse events during EVT', 'General anesthesia', 'Higher no of passes', 'Intracranial ICA', 'Longer admission-to-groin-puncture time', 'Unsuccessful recanalisation (TICI<2b)']","['Adverse events during EVT', 'General anesthesia', 'Higher no of passes', 'ICH within 24h', 'Longer admission-to-groin-puncture time']"
+Boulenoir et al. 2022,['ICA'],4,24.0,0.24,['none'],"['IVT', 'Non-atheromatous etiology']",['none'],['none']
+Boulenoir et al. 2021,"['BAS', 'ICA', 'MCA']",4,24.0,0.297,"['Diabetes mellitus absent', 'Non-atheromatous etiology']",['none'],"['Intracranial occlusion post-IVT', 'Suprabulbar iICAo']",['Suprabulbar iICAo']
+Lee et al. 2020,"['ICAT', 'MCA']",4,24.0,0.346,"['Diabetes mellitus present', 'Older age']",['No multivariable analysis done'],"['Higher Tmax>6s volume', 'Larger CTP core', 'Proximal LVO: M1/ICAT']",['No multivariable analysis done']
+Itabashi et al. 2023,['ICA'],1,,0.37,"['Diabetes mellitus present', 'EVT', 'Higher baseline NIHSS', 'IVT']",['No multivariable analysis done'],['none'],['No multivariable analysis done']
+Min et al. 2020,"['ICA', 'MCA']",1,,0.386,['none'],['none'],['Insular lesions'],['Insular lesions']
+Gwak et al. 2021,"['ICA', 'MCA']",2,72.0,0.394,"['IVT', 'Shorter onset-to-door time']",['IVT'],"['Higher Tmax>6s volume', 'Mismatch vol ≥32.77 mL (Tmax >6s – DWI)', 'Tmax 4-6s vol ≥55.20 mL (mild hypoperfusion)', 'Tmax >6s vol ≥53.73 mL (critical hypoperfusion)']","['Mismatch vol ≥32.77 mL (Tmax >6s – DWI)', 'Tmax 4-6s vol ≥55.20 mL (mild hypoperfusion)', 'Tmax >6s vol ≥53.73 mL (critical hypoperfusion)']"
+Gwak et al. 2022,"['ICA', 'MCA']",2,72.0,0.394,"['IVT', 'Shorter onset-to-door time']",['IVT'],['Poor perfusion profile'],['Poor perfusion profile']
+Broccolini et al. 2024,['MCA'],4,24.0,0.418,"['AFib', 'Current anticoagulant therapy', 'Current antiplatelet therapy']",['AFib'],['Dominant M2'],['none']
+Wang et al. 2022,"['ACA', 'ICA', 'MCA']",4,24.0,0.4872,['NFL'],"['NFL', 'NFL >55.03 pg/ml']",['none'],['none']

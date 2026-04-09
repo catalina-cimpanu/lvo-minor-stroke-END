@@ -1,0 +1,1265 @@
+﻿Name,2.1. Country/Region,2.1.bis Country/Region,2.2. Duration,2.2.1. Start date,2.2.2. Finish date,2.2.3. Duration in months,2.3. Study design,2.3.bis1 Study design,2.3.bis2 Study design,2.4. Aims,2.5. Inclusion criteria,2.6. Exclusion criteria,3.1. Sample size,3.1.bis Sample size,3.2. Age bracket,3.3. Median age,3.3. bis Median age,3.4. Mean age,3.4.bis Mean age,3.5. Sex,3.5.bis Male percentage,3.6. Median NIHSS,3.6.bis Mean NIHSS,3.6.bis Median NIHSS,3.7. Other,4.1. Minor stroke definition,4.1.bis Max NIHSS,4.10. Radiological predictors of END,4.10.multi Radiological predictors,4.10.multi-stats Radiological predictors,4.10.uni Radiological predictors,4.10.uni-stats Radiological predictors,4.11. Scores / mixed predictors of END,4.11.bis Scores / mixed predictors,4.12. Variables included as potential predictors,4.13. Imaging method,4.13.bis Imaging method,4.2. Minor stroke percentages,4.2.bis1 ms% of  all AIS,4.2.bis2 ms% of LVO,4.3. LVO definition,4.3.bis1 LVO definition,4.3.bis2 LVO segments,4.4. LVO percentage,4.4.bis1 LVO% of all AIS,4.4.bis2 LVO% of minor stroke,4.5. END definition deficit,4.5.bis END ΔNIHSS,4.6. END definition timing,4.6.bis END hours,4.7. END percentage,4.7. bis END%,4.8. Mechanism of END,4.9. Clinical predictors of END,4.9.multi Clinical predictors,4.9.multi-stats Clinical predictors,4.9.uni Clinical predictors,4.9.uni-stats Clinical predictors,5.1. BMT,5.2. IVT,5.2.bis IVT,5.2.bis IVT%,5.3. IVT criteria,5.4. Primary EVT,5.4.bis Primary EVT,5.5. Primary EVT criteria,5.6. Rescue EVT,5.6.bis Rescue EVT,5.6.bis Rescue EVT % of END,5.7. Rescue EVT criteria,6.1. Primary outcome,6.2. Secondary outcome(s),6.3. Other outcome(s),7.1. Key findings,7.2. Implications,7.3. Limitations,Authors,Biblio extracted,Collections,Comments,DOI,Finish,Next,Next (link),Notion status,PDF annotated,PDF clean,Place,Previous,Previous (link),Rayyan Status,Start,Time finished,Time it took,Time started,Title,Verification,Year,Zotero URI
+"Min et al., “Acute Insular Infarction: Early Outcomes of Minor Stroke with Proximal Artery Occlusion.”",South Korea,South Korea,4y 9mo (March 2009 – December 2013),"March 1, 2009","December 31, 2013",57,Retrospective single-center study,retrospective,single-center,To investigate whether admission insular infarcts are associated with END in acute minor stroke with large vessel occlusion,Acute minor infarcts (NIHSS ≤5) of MCA territory due to MCA/ICA occlusion within 6 hours of onset; not treated with intra-arterial therapy,"1) Non-thrombotic etiologies (vasculitis, Moyamoya, cancer-related stroke); 2) Prestroke disability (mRS >1); 3) Absence of or uninterpretable lesions on baseline/follow-up DWI",166,166,Not reported,Not reported (mean age only),,66 ± 12 years,66,"101 (60.8%) male, 65 (39.2%) female",0.6084,2 (IQR: 1–4),,2,"DWI-ASPECTS: 9.0 (no insular lesion) vs 8.0 (insular lesion); 82 (49.4%) had insular lesions on baseline DWI; 64 (38.6%) had PIRI ≥2; TOAST: LAA 73 (44.0%), CE 65 (39.2%), UD 28 (16.9%); Occluded artery: distal MCA 73 (44.0%), proximal MCA 43 (25.9%), ICA 50 (30.1%); Comorbidities: hypertension 91 (54.8%), DM 46 (27.7%), AF 58 (34.9%), smoking 43 (25.9%), dyslipidemia 37 (22.3%), previous stroke/TIA 21 (12.7%)",NIHSS ≤5,5,"  • END with infarct growth was more frequently observed in patients with insular lesions than in those without lesions (25.6% vs. 11.9%, p = 0.03)
+  • Insular lesions, compared with no insular lesions, were independently associated with END with infarct growth (OR 2.75, 95% CI 1.18–6.38, p = 0.02), and END-2 with infarct growth (OR 2.52, 95% CI 1.08–5.87, p = 0.03)
+
+Notes
+  • insular lesions associated with END, and not the other way around!
+  • END was classified by presumed mechanism: END with infarct growth, END with new lesions, and END with swelling.
+
+PIRI ≥2 → END with infarct growth (aOR 2.54, 95% CI 1.12–5.76, p=0.03); END-2 with infarct growth (aOR 2.72, 95% CI 1.19–6.24, p=0.02). 
+Insular lesions → infarct growth on follow-up DWI (aOR 2.18, 95% CI 1.12–4.26, p=0.02). Confounders: age, male sex, baseline NIHSS.",Insular lesions,"  • Insular lesions, compared with no insular lesions, were independently associated with END with infarct growth (OR 2.75, 95% CI 1.18–6.38, p = 0.02), and END-2 with infarct growth (OR 2.52, 95% CI 1.08–5.87, p = 0.03); included confounders: age, male sex, baseline NIHSS
+
+Notes
+  • insular lesions associated with END with infarct growth, and not the other way around!
+  • END was classified by presumed mechanism: END with infarct growth, END with new lesions, and END with swelling.",Insular lesions,"  • END with infarct growth was more frequently observed in patients with insular lesions than in those without lesions (25.6% vs. 11.9%, p = 0.03)
+
+Notes
+  • insular lesions associated with END with infarct growth, and not the other way around!
+  • END was classified by presumed mechanism: END with infarct growth, END with new lesions, and END with swelling.","  • PIRI score ≥2: independently associated with END with infarct growth (aOR 2.54, 95% CI 1.12–5.76, p=0.03);  included confounders: age, male sex, baseline NIHSS
+
+Notes
+  • PIRI score ≥2 associated with END with infarct growth, and not the other way around!
+  • END was classified by presumed mechanism: END with infarct growth, END with new lesions, and END with swelling.",PIRI score ≥2,"Insular lesion presence, PIRI scores, age, male sex, baseline NIHSS, occluded artery site, TOAST classification, DWI patterns (PAI, PI, BI, TI, LI), DWI-ASPECTS, hypertension, diabetes mellitus, atrial fibrillation, smoking, dyslipidemia, previous stroke/TIA",MRI: DWI (baseline and follow-up) for ischemic lesion and infarct growth evaluation; TOF-MRA for vessel occlusion assessment; PWI for perfusion,MRI,527 minor strokes within 6h; 189 (35.9%) had relevant MCA/ICA occlusion → 166 analyzed after exclusions,,,MCA (proximal and distal) and ICA occlusion (anterior circulation only),"ICA, MCA",,"189/527 (35.9%) of minor MCA strokes had MCA/ICA occlusion. Among enrolled (n=166): distal MCA 73 (44.0%), proximal MCA 43 (25.9%), ICA 50 (30.1%)",,0.359,Any increase in NIHSS score or development of new neurological symptoms. Sensitivity analysis: END-2 = ≥2-point NIHSS increase,1,During admission (no specific time limit),,38.6% (64/166) for END; 37.3% (62/166) for END-2,0.386,"Multiple mechanisms on follow-up DWI: infarct growth (34.9%), new lesions/embolism (69.9%), swelling (29.5%). Insular lesions independently associated with END due to infarct growth (aOR 2.75).","No significant clinical predictors of overall END identified. Insular lesions not significantly associated with overall END (aOR 1.07, 95% CI 0.56–2.03, p=0.84). Confounders in multivariate: age, male sex, baseline NIHSS.",none,"  • None ",none,"  • None",Yes (patients not treated with intra-arterial therapy; managed medically),Not specified (paper does not mention whether patients received IVT),Unclear,,N/A,No (excluded; patients not treated with intra-arterial therapy),No,N/A,"Discussed conceptually (rescue IA therapy mentioned as potential strategy for END patients, citing Kim et al. 2016)",Yes,,Not directly studied,"END (any NIHSS increase or new neurological symptoms during admission): 38.6% (64/166). Also analyzed by mechanism: END with infarct growth 18.7%, END with new lesions 23.5%, END with swelling 8.4%.","END-2 (≥2-point NIHSS increase): 37.3% (62/166). Follow-up DWI patterns: infarct growth 34.9%, new lesions 69.9%, swelling 29.5%.",3-month functional outcomes assessed (good and excellent outcomes); not significantly different between patients with/without insular lesions; patients with high PIRI scores (3–4) had lowest frequency of good/excellent outcomes at 3 months.,"Insular lesions on admission DWI independently associated with infarct growth (aOR 2.18, 95% CI 1.12–4.26, p=0.02) and END due to infarct growth (aOR 2.75, 95% CI 1.18–6.38, p=0.02). PIRI ≥2 had >2.5-fold higher risk of infarct growth and END with infarct growth. Overall END rates not significantly different between patients with/without insular lesions (39.0% vs 38.1%). END: 38.6% (64/166).",PIRI scores ≥2 on admission DWI may identify patients at higher risk of infarct growth and clinical worsening. Patients with insular involvement may be candidates for rescue mechanical thrombectomy. Treatment strategies should focus on preventing subsequent infarct growth.,"1) Retrospective, single-center, small sample size. 2) Residual/unmeasured confounding possible. 3) Only anterior circulation LVO; not generalizable to all minor stroke. 4) MRA-based vessel occlusion has limitations (slow flow may mimic occlusion). 5) No quantitative/volumetric perfusion analysis, only visual assessment.","Min, S.-H.
+Kim, J.-T.
+Kang, K.-W.
+Choi, M.-J.
+Yoon, H.
+Shinohara, Y.
+Lev, M.H.
+Saver, J.L.
+Cho, K.-H.",yes,"Master Thesis - Predictors of END in LVO minor str… screen ▸ included ▸ included for data extraction, Master Thesis - Predictors of END in LVO minor str…ll text screen ▸ all included for data extraction",,https://doi.org/10.1371/journal.pone.0229836,,,"Saleem et al., “Acute Neurological Deterioration in Large Vessel Occlusions and Mild Symptoms Managed Medically.” (https://www.notion.so/Saleem-et-al-Acute-Neurological-Deterioration-in-Large-Vessel-Occlusions-and-Mild-Symptoms-Manage-30dc5a45dadf81cea593c7f77817b55b?pvs=21)",Extracted,Min_et_al._-_2020_-_Acute_insular_infarction_Early_outcomes_of_minor_stroke_with_proximal_artery_occlusion.pdf,Acute_insular_infarction_-_earlyoutcomes_of_minor_stroke_with_proximal_artery_occlusion.pdf,"J.-T. Kim, Department of Neurology, Chonnam National University Hospital, Gwanju, South Korea",,,Extracted,,,Not completed,,Acute insular infarction: Early outcomes of minor stroke with proximal artery occlusion,Verified,2020,https://zotero.org/skizzolino/items/4SVXBR73
+"Wang et al., “Biomarker of Early Neurological Deterioration in Minor Stroke and Proximal Large Vessel Occlusion: A Pilot Study.”",China,China,2y 6mo (1 July 2017 to 31 December 2019),"July 1, 2017","December 31, 2019",29,"Single-center, retrospective analysis of a prospectively collected stroke database, pilot study",retrospective,single-center,to investigate the correlation between plasma NFL and END in minor stroke with LVO,"- NIHSS <6
+- anterior circulation LVO [internal carotid artery (ICA), M1/M2 segment of the middle cerebral artery (MCA), and A1/A2 segment of the anterior cerebral artery (ACA)]
+- ≥ 18.y.o.
+- (AIS) within 24h of symptom onset confirmed by MRI/CT
+- also pat. who eventually received rescue thrombectomy because of END","Treated by immediate EVT or IVT before END; 
+other possible neurological diseases; previous cerebral infarction ??",39,39,≥18 years,Not reported,,"Total 64.23 (±10.73)
+END 66.74 (±7.86)
+Non-END 61.85 (±12.65)",64.23,"Total 48.72% male (19/39); END 47.37% (9/19), Non-END 50% (10/20)",0.4872,"Total 3 (IQR 2–4); END 3 (3–4), Non-END 3 (2–4)",,3,"- Mean pNFL 56.53 (±14.22) pg/mL
+- CVRF (%from total) -> Hypertension 58.97%, DM 30.80%, hyperlipidemia 20.51%, AF 20.51%, smoking 35.90%, drinking 28.21%
+- Mean infarct volume 16.64 (±8.76) mL
+- TOAST: LAA 46.15%, CE 25.64%, others 28.21%
+- Event to blood sampling 13.24 (±7.25) h
+- 90-day mRS median 2 (IQR 1–4)",NIHSS <6,5,None significant on multivariable analysis,none,"  • None",none,"  • None",None tested,none,"- Neurofilament light chain (NFL) (pNFL = plasma NFL)
+- Potential confounders included in multivariate analysis ->  age, sex, baseline NIHSS, TOAST classification, event to blood sampling time, infarct volume","CTA, MRA, or DSA","CT, DSA, MRI",Not reported,,,"Occlusion of ICA, M1/M2 MCA, A1/A2 ACA","ACA, ICA, MCA","A1, A2, M1, M2",Not reported,,,"≥4 points deterioration on NIHSS 
+without parenchymal hemorrhage on follow-up imaging or another identified cause",4,Within 24 hours,24,48.72% (19/39),0.487200000000,progressive stroke in the same vascular territory,"Biomarker → NFL: 
+- unadjusted OR 1.170 (95% CI 1.049–1.306, P=0.005); 
+- adjusted for age and sex (Model 1) OR 1.178 (1.038–1.323, P=0.006); 
+- adjusted for age, sex,  NIHSS, TOAST classification, event to blood sampling (h), and infarct volume (Model 2) OR 1.168 (1.034–1.320, P=0.012). 
+- AUC 0.850 (95% CI 0.731–0.970, P<0.001), sensitivity 73.7%, specificity 80% at cutoff 55.03 pg/mL","NFL, NFL >55.03 pg/ml","NFL
+  • aOR 1.178 (1.038–1.323, P=0.006) in Model 1, adjusted for age and sex 
+  • aOR 1.168 (1.034–1.320, P=0.012) in Model 2, adjusted for age, sex,  NIHSS, TOAST classification, event to blood sampling (h), and infarct volume (Model 2) 
+  • AUC 0.850 (95% CI 0.731–0.970, P<0.001), sensitivity 73.7%, specificity 80% for NFL>55.03 pg/mL (cutoff)",NFL,"  • NFL: unadjusted OR 1.170 (95% CI 1.049–1.306, P=0.005)","Yes (all patients medically managed, no immediate EVT or IVT before END)",No (patients treated with IVT before END were excluded),No,0,-,No (patients treated with immediate EVT were excluded),No,-,Yes,Yes,,END and disabling clinical symptoms,"- END
+- Diagnostic accuracy of pNFL for END (ROC analysis)","90-day mRS? (median 3 [IQR 1–4] END vs 1 [IQR 1–2] Non-END, P<0.001)",-,"- END in 48.72% (19/39) of minor stroke + LVO patients not treated by IVT or EVT
+- pNFL independently predicted END after full adjustment (adjustment for age, sex,  NIHSS, TOAST, event to blood sampling (h), infarct volume (Model 2) -> OR 1.168, P=0.012). AUC 0.850 at cutoff 55.03 pg/mL (sensitivity 73.7%, specificity 80%)","pNFL could help identify minor stroke + LVO patients at high risk of END who may benefit from immediate EVT rather than waiting for deterioration. Since rescue EVT is inferior to primary EVT, early pNFL-based patient selection could improve outcomes","- Retrospective study (risk of selection bias)
+- Small sample size 
+- Cross-sectional analysis only as longitudinal pNFL measurements were not available","Wang, Z.
+Wang, S.
+Li, Y.
+Wang, R.
+Jiang, L.
+Zheng, B.
+Zhang, Y.
+Wang, Q.
+Wang, J.",yes,"Master Thesis - Predictors of END in LVO minor str… screen ▸ included ▸ included for data extraction, Master Thesis - Predictors of END in LVO minor str…ll text screen ▸ all included for data extraction","END within the first 24 hours, but not mentioned if 24h from symptom onset or from admission",https://doi.org/10.3389/fneur.2022.1019530,,,"Lee et al., “Early Neurologic Decline in Acute Ischemic Stroke Patients Receiving Thrombolysis with Large Vessel Occlusion and Mild Deficits.” (https://www.notion.so/Lee-et-al-Early-Neurologic-Decline-in-Acute-Ischemic-Stroke-Patients-Receiving-Thrombolysis-with--30ac5a45dadf8152a8ddcf253c1781c7?pvs=21)",Extracted,Wang_et_al._-_2022_-_Biomarker_of_early_neurological_deterioration_in_minor_stroke_and_proximal_large_vessel_occlusion_A.pdf,Biomarker_of_early_neurological.pdf,"J. Wang, Department of Neurology, Ya'an People's Hospital, Ya'an, China",,"Shi et al., “Association of Blood Pressure Parameters on Early Neurological Deterioration in Patients with Mild Stroke and Large Vessel Occlusion Following Medical Management.” (https://www.notion.so/Shi-et-al-Association-of-Blood-Pressure-Parameters-on-Early-Neurological-Deterioration-in-Patient-30dc5a45dadf8135a956d0db86f295cc?pvs=21)",Extracted,,"February 17, 2026 1:45 PM (GMT+1)",2h 3m,"February 17, 2026 11:42 AM (GMT+1)",Biomarker of early neurological deterioration in minor stroke and proximal large vessel occlusion: A pilot study,Verified,2022,https://zotero.org/skizzolino/items/J89SRYQS
+"Lee et al., “Early Neurologic Decline in Acute Ischemic Stroke Patients Receiving Thrombolysis with Large Vessel Occlusion and Mild Deficits.”",USA (Ohio),USA,"5y 3mo (January 1, 2014 to April 1, 2019)","January 1, 2014","April 1, 2019",63," Retrospective cohort, single-center with telestroke network",retrospective,single-center,to determine the likelihood  that a patient with LVO with mild deficits who has received intravenous tissue plasminogen activator (IVtPA) will have END,"- AIS receiving IVtPA
+- anterior circulation LVO (M1, M2, or ICAT) on CTA
+- NIHSS ≤7","- Anterior cerebral artery and basilar artery occlusions
+- non-anterior circulation LVO
+- did not have natural history data, underwent MT for mild deficits (= had primary EVT, 13 patients)",81 (from 1022 IVtPA → 313 LVO → 94 anterior circulation + NIHSS ≤7 → 81 after excluding 13 who had IAT),81,25–93 years,Not reported (mean reported),,65.8 ± 15.7 years,65.8,"- 41% female 
+- 59% male",0.59,"Not reported; only mean initial NIHSS: 4.3 (END) vs 4.2 (no END), p=0.8",4.3,,"- 84% transferred from outside facilities
+- LVO sites → 5 (6%) ICAT, 23 (28%) M1, 53 (65%) M2
+- Tandem lesions: 25% (8 stenosis, 12 occlusion)
+- Mean length of stay: 5.5 days (range 1–24)
+- In-hospital mortality: 3.7% (3 patients)
+- Mean time from LKW (last known well) to CTP: 5.1h
+- CTP (RAPID): mean central blood volume (CBV) <30%volume was 11.37 mL and the mean Tmax >6.0 s volume was 66.7 mL
+- Mean length of stay: 5.5 days (range 1–24)
+- CVRF → AFib END 3 (10.7%) vs no END 7 (13.2%) p=0.75, Hypertension END 18 (64.3%) vs no END 28 (52.8%) p=0.32,  Diabetes mellitus END 14 (50%) vs no END 1 (18.9%) p=0.004, Hyperlipidemia END 14 (50%) vs no END 16 (30.2%) p=0.08",NIHSS ≤7,7,"  • Proximal LVO site: M1/ICAT 54% vs 26% (p=0.04). 
+  • Larger CTP core (CBV <30%: 19.9 vs 6.7 mL, p=0.0095). 
+  • Larger Tmax >6s volume (93.5 vs 52.1, p=0.0059). 
+  • No difference in tandem lesions
+
+Note: no multivariable analysis",No multivariable analysis done,"  • No multivariable analysis done","Higher Tmax>6s volume, Larger CTP core, Proximal LVO: M1/ICAT","  • Proximal LVO site (M1/ICAT): 54% in END vs 26% in no END (P=0.04)
+  • Larger CTP core (CBV<30%): 19.9 in END vs 6.7 mL in no END (P=0.0095)
+  • Larger Tmax>6s volume: 93.5 mL in END vs 52.1 mL in no END (P=0.0059)",None tested,none,"Age, sex, atrial fibrillation, hypertension, diabetes, hyperlipidemia, time to IVtPA from LKW, initial NIHSS, LVO site, tandem lesion, CTP RAPID parameters (CBV <30%, Tmax >6s)","CTA for LVO confirmation
+CTP (RAPID software) for perfusion assessment → available in 48 (60%) patients",CT,"94/1022 of IVtPA AIS patients → 9.2% of AIS (NB calculated myself, not given in paper, exact value: 0.09197)
+94/313 of IVtPA AIS + LVO patients → 30% of LVO",9.2%,30%,"M1, M2, or carotid artery terminus (ICAT)","ICAT, MCA","M1, M2","313/1022 of IVtPA AIS patients had LVO → 30.6% of AIS ",30.6%,,"NIHSS worsening ≥4 points
+not due to symptomatic hemorrhage",4,Within 24 hours,24,28/81 (34.6%),0.346000000000,"Hypothesized → loss of collateral supply ","Older age (70.8 vs 63.2 years, p=0.036)
+Diabetes mellitus (50% vs 18.9%, p=0.004)
+(No significant difference in sex, atrial fibrillation, hypertension, hyperlipidemia, time to IVtPA, or initial NIHSS)",No multivariable analysis done,"  • No multivariable analysis done","Diabetes mellitus present, Older age","  • Older age: 70.8 years in END vs 63.2 years in no END (P=0.036)
+  • Diabetes mellitus: 50% in END vs 18.9% in no END (P=0.004)","Yes
+All received IVtPA (maximal medical therapy)","Yes (inclusion criterion)
+Mean time to IVtPA: 2.5 ± 1.2 hours from LKW (range 0.8–7)",Yes,1,Standard IVtPA eligibility criteria?,No (13/94 patients with minor symptoms and LVO had primary EVT and were excluded),No,Not mentioned,"Yes
+12/28 (in text 44% given but calculated is actually 42.9%) of END patients underwent rescue MT
+TICI 2b in 6 patients, TICI 3 in 6 patients",Yes,0.44,Clinical eligibility criteria for the 24h IAT window according to updated AHA guidelines 2018,END,"- 3-month mRS: 3.2 END vs 1.4 no END (p<0.001)
+- Good outcome (mRS ≤2): 18% END vs 81% no END (p=0.0007)
+- Discharge home: 25% END vs 66% no END (p=0.004), overall discharge home: 54.9%","- Length of stay (days), mean 7.8 END vs 4.3 no END (p=0.0014)
+- In-hospital mortality was low and occurred in three patients (3.7%)","- 30% of LVO patients receiving IVtPA presented with mild deficits (NIHSS ≤7)
+- END occurred in 34.6% despite IVtPA
+- END patients were significantly older, more likely diabetic, and had more proximal LVO and larger perfusion deficits
+- END patients had significantly worse 3-month outcome (mRS)","Natural history of LVO with mild deficits is not benign. Patients should receive acute vessel imaging as standard of care and be transferred to EVT-capable centers. Vigilance for deterioration should be the mainstay management for this subset of patients, with prompt rescue EVT in the 24h expanded window if END occurs","- Retrospective (risk of selection bias)
+- Missing data for 13 patients who underwent EVT (excluded)
+- Lack of collateral scoring
+- Incomplete CTP RAPID assessment (only 60% had CTP)","Lee, V.H.
+Thakur, G.
+Nimjee, S.M.
+Youssef, P.P.
+Lakhani, S.
+Heaton, S.
+Powers, C.J.",yes,"Master Thesis - Predictors of END in LVO minor str…ll text screen ▸ all included for data extraction, Master Thesis - Predictors of END in LVO minor str…xt screen ▸ maybes ▸ included for data extraction","- no exact definition of M2
+- END → worsening within 24h, but not mentioned if from symptom onset, from admission or from IVT
+- Results → 28/81 (34.6%) had END, but in discussion written “In our series, among LVO patients with mild deficits who received IVtPA, END occurred in 33.3%”
+- 12/28 (in text 44% given but calculated is actually 42.9%) of END patients underwent rescue MT
+- no multivariate analysis (no adjustment for confounders), only univariate analysis with χ2 test or Fisher’s exact test as appropriate
+- secondary/other outcomes not clearly (pre)specified or defined",https://doi.org/10.1136/neurintsurg-2020-015871,,,"Boulenoir et al., “Early Neurological Deterioration Following Thrombolysis for Minor Stroke with Isolated Internal Carotid Artery Occlusion.” (https://www.notion.so/Boulenoir-et-al-Early-Neurological-Deterioration-Following-Thrombolysis-for-Minor-Stroke-with-Iso-30ac5a45dadf8144ac3bfd70a4d6cec4?pvs=21)",Extracted,Lee_et_al._-_2020_-_Early_neurologic_decline_in_acute_ischemic_stroke_patients_receiving_thrombolysis_with_large_vessel.pdf,Early_neurologic_decline_in_acute_ischemic_stroke.pdf,"V.H. Lee, Department of Neurology, Ohio State University Wexner Medical Center, Columbus, OH, United States",,"Wang et al., “Biomarker of Early Neurological Deterioration in Minor Stroke and Proximal Large Vessel Occlusion: A Pilot Study.” (https://www.notion.so/Wang-et-al-Biomarker-of-Early-Neurological-Deterioration-in-Minor-Stroke-and-Proximal-Large-Vesse-30ac5a45dadf8167a67ed2b69982292b?pvs=21)",Pending,,"February 17, 2026 5:00 PM (GMT+1)",1h 28m,"February 17, 2026 3:32 PM (GMT+1)",Early neurologic decline in acute ischemic stroke patients receiving thrombolysis with large vessel occlusion and mild deficits,Verified,2020,https://zotero.org/skizzolino/items/UUJR4H3N
+"Boulenoir et al., “Early Neurological Deterioration Following Thrombolysis for Minor Stroke with Isolated Internal Carotid Artery Occlusion.”","France (and Switzerland, 2 centers)","France, Switzerland",~12y (2006–2018),"January 1, 2006","December 31, 2018",155,"Multicenter retrospective cohort (MINOR-STROKE collaboration, retrospectively collected data from 45 French stroke centers)",retrospective,multicenter,"(i) identify the incidence and predictors of END in a multicentric sample of iICAo patients with mild baseline symptoms treated with IVT and 
+(ii) decipher the mechanisms of END in these patients","MINOR-STROKE criteria
+- baseline admission NIHSS ≤5
+- large vessel occlusion on pre-treatment vascular imaging [internal carotid artery (ICA), first or second segment of middle cerebral artery (MCA), basilar artery]
+- treated with IVT (alteplase only), with or without additional EVT
+
+This study criteria
+- patients with iICAo intended for IVT alone, including those who eventually received rescue EVT because of post-IVT END (iICAo defined as cervical or intracranial internal carotid occlusion not involving the circle of Willis or the arteries distal to it)",Patients immediately intended for additional EVT following IVT (bridging therapy),74,74,Not reported,Not reported (only mean),,64 ± 10 years,64,"76% male (overall 56/74, calculated from table→ 16 END + 40 No-END)
+END 73%, No-END 77%",0.7568,"3 (IQR 2–4)
+END 3 (2–5)vs no-END 3 (1–4)",,3,"Median onset-to-IVT time 170 min (IQR = 140–210)
+Stroke etiology: LAA 55%, cardioembolic 14%, Dissection 26%, Other/Undetermined 5%
+Hypertension 49%, Diabetes 15%, Smoking 34%, Antiplatelets 27%;",NIHSS ≤5,5,"Univariable analysis
+- Pre-IVT variables
+   → Bulbar iICAo less frequent in END (35% vs 68%, p=0.01)
+- Post-IVT variables
+   → intracranial occlusion in 16 (76%) of END versus 0 (0%) of no-END patients (p<0.001)
+
+Multivariable binary logistic regression model
+- Pre-IVT variables
+   → suprabulbar iICAo (odds ratio = 4.0, 95% CI: 1.3–12.2; p=0.015)
+  → NB Perfusion parameters (Tmax>6s, HIR) did not differ significantly (small sample size n=27)
+- Post-IVT variables → none",Suprabulbar iICAo,"  • Suprabulbar iICAo pre-IVT: OR 4.0 (95% CI 1.3–12.2, P=0.015), the only one retained in the model after stepwise variable selection
+  • Post-IVT: none ","Intracranial occlusion post-IVT, Suprabulbar iICAo","  • Suprabulbar iICAo pre-IVT: 65% in END vs 32% in no END (P=0.01)
+  • Intracranial occlusion post-IVT: 76% in END vs 0% in no END (P<0.001)",None tested,none,"Age, gender, vascular risk factors, pre-stroke antithrombotics, BP on admission, time symptom onset to IVT, time IVT to END, NIHSS score on admission and at 24 h, stroke etiology (TOAST classification), iICAo site (bulbar/suprabulbar), Willis circle completeness, perfusion parameters (Tmax, HIR)","CTA or MRA for iICAo identification (pre-treatment vascular imaging)
+Perfusion imaging in 27 (36%) patients","CT, MRI","Not reported (from 1072 patients 74 IVT + minor stroke + iICAo, but only minor stroke number or percentage not specified)",,,"LVO → internal carotid artery (ICA), first or second segment of middle cerebral artery (MCA), basilar artery
+Isolated internal carotid artery occlusion (iICAo) → cervical or intracranial internal carotid occlusion not involving the circle of Willis or the arteries distal to it","BAS, ICA, MCA","M1, M2","Not reported (from 1072 patients 74 IVT + minor stroke + iICAo, but only LVO number or percentage not specified)",,,NIHSS score increase ≥4 points,4,Within 24 hours of IVT,24,29.7% (22/74),0.297,"- END with parenchymal hemorrhage
+- (presumed) thromboembolic END (if presence of new intracranial occlusion ipsilateral to the occluded ICA) → embolic (artery-to-artery embolism, if the new intracranial occlusion not contiguous to initial occlusion) or in situ extension of the thrombus (if in continuity to thrombus) or undetermined
+- non-thromboembolic END (if no new occlusion)","Univariable analysis
+- Pre-IVT variables
+   → Diabetes less frequent in END (0% vs 21%, p=0.03)
+- Post-IVT variables
+   → non-atheromatous iICAo etiology (END in 5/41 (12%) for atheromatous versus 17/33 (52%) for non-atheromatous iICAo, p<0.001)
+
+Multivariable binary logistic regression model → none",none,"  • None","Diabetes mellitus absent, Non-atheromatous etiology","  • Diabetes mellitus absent: 0% in END vs 21% in no END (P=0.03)
+  • Non-atheromatous iICAo etiology: END in 17/33 (52%) non-atheromatous vs 5/41 (12%) atheromatous (P<0.001)",Yes (pat. intended for IVT alone → maximal medical management),Yes (inclusion criterion),Yes,1,"standard criteria?, alteplase only",No (patients intended for bridging therapy were excluded),No,-,"Yes, performed in 12 patients (14 referred, 2 recovered before procedure)",Yes,0.54,END,END,"3-month outcome according to mRS (Excellent <2, Good <3) (Available for 69 patients, 20 END and 49 no-END)",-,"- END in 30% of patients with mild stroke + iICAo intended for IVT alone
+- END was strongly predictive of poor functional outcome, with only ~25% of END patients reaching 3-month functional independence
+- Suprabulbar iICAo was the only independent predictor in multivariable analysis, likely reflecting the underlying etiology (non atheromatous)
+- Thrombo-embolic END in 76% (mostly artery-to-artery embolism from thrombus fragmentation), associated with new intracranial occlusion (76% vs 0%, p<0.001, table 2). 
+- association of END with both ICA recanalization and new intracranial occlusion (ICA recanalization showed a trend towards being higher in END patients (29% vs 9%, p=0.07, table 2))
+- No symptomatic intracranial hemorrhage occurred","- Post-IVT ICA recanalization is a dual edge sword in iICAo → on one hand, it might favor thrombus fragmentation, new intracranial occlusion and therefore END in some patients, whilst on the other hand it may improve cerebral perfusion and clinical recovery in other patients
+- Three main approaches might be considered, namely (i) avoiding IVT, (ii) early administration of antithrombotics and (iii) direct referral for EVT ⇒ Randomized trials needed","- Retrospective study
+- Small sample size (n=74) 
+- Baseline and follow-up imaging not standardized, perfusion imaging available in only 36%
+- Some patients with baseline severe carotid stenosis may have been misclassified as iICAo
+- no transcranial Doppler continuous monitoring available
+- No generalizability to iICAo patients with more severe symptoms and/or not treated with IVT
+- No control group (non-IVT)","Boulenoir, N.
+Turc, G.
+Henon, H.
+Laksiri, N.
+Mounier-Véhier, F.
+Girard Buttaz, I.
+Duong, D.-L.
+Papassin, J.
+Yger, M.
+Triquenot, A.
+Lyoubi, A.
+Ter Schiphorst, A.
+Denier, C.
+Baron, J.-C.
+Seners, P.
+Ben Hassen, W.
+Lapergue, B.
+Lamy, C.
+Lucas, L.
+Philippeau, F.
+Obadia, M.
+Piotin, M.
+Bennani, O.
+Mechtouff, L.
+Klapczynski, F.
+Detante, O.
+Arquizan, C.
+Mione, G.
+Sablot, D.
+Gazzola, S.
+Debiais, S.
+Cakmak, S.
+Grigoras, V.
+Tamazyan, R.
+Preterre, C.
+Rosso, C.
+Niclot, P.
+Garnier, P.
+Soize, S.
+Lun, F.
+Tuffal, A.
+Boulanger, M.
+Gazzola, S.
+Zuber, M.
+Pico, F.
+Clarençon, F.
+Sibon, I.
+Alamowitch, S.
+Fraticelli, L.
+Vallet, A.-E.
+Costalat, V.
+Oppenheim, C.
+Cottier, J.-P.
+Berthezene, Y.
+Desal, H.
+Agius, P.
+Boutet, C.
+Bricout, N.
+Leys, D.
+Chbicheb, M.
+Malbranque, A.
+Spelle, L.
+Bracard, S.
+Masson, M.",yes,"Master Thesis - Predictors of END in LVO minor str… screen ▸ included ▸ included for data extraction, Master Thesis - Predictors of END in LVO minor str…ll text screen ▸ all included for data extraction",- Outcomes not clearly specified,https://doi.org/10.1111/ene.14541,,,"Hu et al., “Early Neurological Deterioration in Acute Ischemic Minor Stroke Patients with Large Vessel Occlusion Following Intravenous Thrombolysis.” (https://www.notion.so/Hu-et-al-Early-Neurological-Deterioration-in-Acute-Ischemic-Minor-Stroke-Patients-with-Large-Vess-30ac5a45dadf8109b7bfcfb179a61986?pvs=21)",Extracted,Boulenoir_et_al._-_2021_-_Early_neurological_deterioration_following_thrombolysis_for_minor_stroke_with_isolated_internal_caro.pdf,Boulenoir_EJoN_2020_Early_neurological_deterioration_following_thrombolysis_for_minor.pdf,"P. Seners, Neurology Department, GHU Paris Psychiatrie et Neurosciences, Sainte-Anne Hospital, INSERM UMR 1266, FHU NeuroVasc, Université de Paris, Paris, France",,"Lee et al., “Early Neurologic Decline in Acute Ischemic Stroke Patients Receiving Thrombolysis with Large Vessel Occlusion and Mild Deficits.” (https://www.notion.so/Lee-et-al-Early-Neurologic-Decline-in-Acute-Ischemic-Stroke-Patients-Receiving-Thrombolysis-with--30ac5a45dadf8152a8ddcf253c1781c7?pvs=21)",Pending,,"February 17, 2026 6:18 PM (GMT+1)",1h 13m,"February 17, 2026 5:05 PM (GMT+1)",Early neurological deterioration following thrombolysis for minor stroke with isolated internal carotid artery occlusion,Verified,2021,https://zotero.org/skizzolino/items/7SKRVLKC
+"Hu et al., “Early Neurological Deterioration in Acute Ischemic Minor Stroke Patients with Large Vessel Occlusion Following Intravenous Thrombolysis.”",China,China,4y (January 2020 to December 2023),"January 1, 2020","December 31, 2023",47,Retrospective analysis of a single-center prospective database,retrospective,single-center,to analyze the related risk factors of END in patients with minor stroke and LVO who received IVT,"Patients with minor stroke and LVO who received IVT
+Last known normal time within 24 hours",1) NIHSS ≥6; 2) multiple vessel occlusions; 3) preexisting vessel occlusion; 4) bridging thrombectomy not related to END; 5) incomplete data,163,163,Not reported,Not reported (only mean age available),,66.3 ± 10.8 years,66.3,"110 (67.5%) male
+53 (32.5%) female",0.6748,2 (IQR: 1–4),,2,"Median collateral score: 3 (IQR: 2–3)
+Occlusion sites: M2 MCA 41 patients (25.2%), M1 MCA 57 patients (35.0%), terminal ICA 23 patients (14.1%), vertebrobasilar 23 patients (14.1%), isolated ICA 19 patients (11.7%)
+47 (28.8%) received early antiplatelet therapy within 24h after IVT (19 dual oral antiplatelet, 28 IV tirofiban)
+Calculated from table:
+Comorbidities: hypertension 114 (69.9%), diabetes mellitus 23 (14.1%), coronary heart disease 22 (13.5%), atrial fibrillation 19 (11.7%), previous stroke 16 (9.8%)
+Median ASPECTS: 10 (IQR: 10–10) ",NIHSS <6 points (NIHSS ≥6 were excluded),5,"Univariate logistic regression: 
+  • Tmax >4s volume (OR 1.46, 95% CI 1.09–1.44, P=0.012)
+  • Vertebrobasilar occlusion (OR 1.70, 95% CI 1.06–2.19, P=0.032)
+  • Isolated ICA occlusion (OR 3.47, 95% CI 1.67–5.74, P<0.001)
+
+Multivariate logistic regression (inclusion in multivariate if p<0.10 in univariate analysis): 
+  • Isolated ICA occlusion (aOR 2.49, 95% CI 1.97–4.41, P<0.001)",Isolated ICA occlusion,"  • Isolated ICA occlusion: aOR 2.49 (95% CI 1.97–4.41, P<0.001), adjusted for Tmax >4s volume, delayed antiplatelet therapy and occlusion site","Isolated ICA occlusion, Tmax >4s volume","  • Tmax >4s volume: OR 1.46 (95% CI 1.09–1.44, P=0.012)
+  • Isolated ICA occlusion: OR 3.47 (95% CI 1.67–5.74, P<0.001)",None tested,none,"Age, sex, symptoms (stable/progressive/fluctuating/improving), hypertension, diabetes mellitus, coronary heart disease, atrial fibrillation, previous stroke, systolic blood pressure, baseline NIHSS, ASPECTS, occlusion site (M2 MCA, M1 MCA, terminal ICA, vertebrobasilar, isolated ICA), collaterals score, Tmax >4s volume, Tmax >6s volume, Tmax >8s volume, core infarct volume, delayed antiplatelet therapy","NCCT with ASPECTS
+CTA for LVO and collateral assessment
+CTP for perfusion parameters (Tmax volumes)",CT,Not reported (initial screened population n=469 already selected for NIHSS <6 and LVO),,,"internal carotid artery (ICA), middle cerebral artery (MCA) (M1 MCA and M2 MCA), vertebral artery, basilar artery, or vertebral artery plus basilar artery","BAS, ICA, MCA, VA","M1, M2",Not reported (initial screened population n=469 already selected for NIHSS <6 and LVO),,,"Increase of ≥4 points in NIHSS from baseline, or ≥2 points in any single NIHSS item",4,Within 24 hours of IVT,24,22.1% (36/163),0.221,"Thrombus extension (with early initiation of antiplatelet therapy following IVT as potential means of preventing this)
+In isolated ICA occlusion → 1) arterio-arterial embolism following fragmentation of the thrombus due to IVT, 2) platelet activation, reaggregation, or coagulation disorders triggered by IVT, leading to thrombus extension","Univariate logistic regression
+- Age (OR 0.78, 95% CI 0.54–0.98, P=0.042)
+- Delayed antiplatelet therapy (OR 1.96, 95% CI 1.21–2.85, P<0.001)
+
+Multivariate logistic regression (inclusion in multivariate if p<0.10 in univariate analysis)
+- Delayed antiplatelet therapy (aOR 1.46, 95% CI 1.17–1.84, P<0.001)
+
+Early antiplatelet therapy → defined as starting 2-24h after the completion of IVT
+No significant differences in epidemiological data, comorbidities, symptom characteristics, stroke severity",Delayed antiplatelet therapy,"  • Delayed antiplatelet therapy (>24h after IVT): aOR 1.46 (95% CI 1.17–1.84, P<0.001), adjusted for Tmax >4s volume, delayed antiplatelet therapy and occlusion site","Age, Delayed antiplatelet therapy","  • Age: OR 0.78 (95% CI 0.54–0.98, P=0.042)
+  • Delayed antiplatelet therapy (>24h after IVT): OR 1.96 (95% CI 1.21–2.85, P<0.001)","Yes, maximal medical therapy including IVT (but conservative treatment alone n=236 excluded)",Yes (all patients received IVT with rt-PA),Yes,1,"Case by case basis
+“Treatment decisions were made collectively after consultation by the stroke team, which included thrombolytic physicians and neurointerventionalists. They were based on factors such as the symptom onset time, contraindications to IVT, and the severity of neurological deficits.”",No (primary thrombectomy n=46 excluded),No,-,Yes (patients with END considered for rescue thrombectomy),Yes,,severe neurological deterioration (stroke team decided after CT),END,Not explicitly defined,-,"- END in 22.1% (36/163)
+- Isolated ICA occlusion (aOR 2.49, 95% CI 1.97–4.41, P<0.001) and delayed antiplatelet therapy (aOR 1.46, 95% CI 1.17–1.84, P<0.001) significantly associated with END (in multivariate logistic regression)
+- 11/19 (57.9%) of isolated ICA occlusion had END 
+- No intracranial hemorrhage in early antiplatelet therapy","- Early antiplatelet therapy  within 24h post-IVT may help reduce the incidence of END, tirofiban discussed (advantages: rapid onset of action, short peak time, brief half-life, reversible antiplatelet effects, and quick recovery of platelet function approximately 4 hours after drug discontinuation, significantly reducing the risk of bleeding)
+- bridging thrombectomy and early antiplatelet therapy initiation may be reasonable strategies to consider in patients with minor stroke and LVO who received IVT","- Single-center retrospective analysis
+- variability in treatment decisions and potential selection bias
+- potential chronic vessel occlusion in some patients ","Hu, D.
+Yu, L.
+Feng, B.
+Tang, Q.
+Wen, F.
+Jia, T.
+Xia, C.",yes,"Master Thesis - Predictors of END in LVO minor str… screen ▸ included ▸ included for data extraction, Master Thesis - Predictors of END in LVO minor str…ll text screen ▸ all included for data extraction","- Includes vertebrobasilar (23 patients, 14.1%)
+- IVT presents both risks and benefits for isolated ICA occlusion (what also Boulenoir says)",https://doi.org/10.1016/j.wneu.2024.123623,,,"Broccolini et al., “Early Neurological Deterioration in Patients with Minor Stroke Due to Isolated M2 Occlusion Undergoing Medical Management.” (https://www.notion.so/Broccolini-et-al-Early-Neurological-Deterioration-in-Patients-with-Minor-Stroke-Due-to-Isolated-M-30ac5a45dadf8111ae21c4ca5b3c8e13?pvs=21)",Extracted,Hu_et_al._-_2025_-_Early_Neurological_Deterioration_in_Acute_Ischemic_Minor_Stroke_Patients_with_Large_Vessel_Occlusion.pdf,Hu_et_al_Early_Neurological_Deterioration_in_Acute_Ischemic_Minor_Stroke_Patients_with_Large.pdf,"C. Xia, Department of Neurology, Nanjing Pukou People's Hospital, Nanjing, China",,"Boulenoir et al., “Early Neurological Deterioration Following Thrombolysis for Minor Stroke with Isolated Internal Carotid Artery Occlusion.” (https://www.notion.so/Boulenoir-et-al-Early-Neurological-Deterioration-Following-Thrombolysis-for-Minor-Stroke-with-Iso-30ac5a45dadf8144ac3bfd70a4d6cec4?pvs=21)",Pending,,"February 18, 2026 11:44 AM (GMT+1)",1h 2m,"February 18, 2026 10:42 AM (GMT+1)",Early Neurological Deterioration in Acute Ischemic Minor Stroke Patients with Large Vessel Occlusion Following Intravenous Thrombolysis,Verified,2025,https://zotero.org/skizzolino/items/A29D7NG9
+"Broccolini et al., “Early Neurological Deterioration in Patients with Minor Stroke Due to Isolated M2 Occlusion Undergoing Medical Management.”","Italy (multicenter, 16 comprehensive stroke centers)",Italy,6y (January 2016 to December 2021),"January 1, 2016","December 31, 2021",71,Retrospective multicenter study,retrospective,multicenter,"In patients with minor AIS due to isolated occlusion of the M2 segment that received BMM only or that initially received BMM but were then subjected to rMT following an early worsening of symptoms
+1. to define predictors of clinical outcome
+2. to identify baseline predicting factors of END","Isolated M2 occlusion, baseline NIHSS ≤5, BMT only (including IVT when applicable), including rescue EVT if END during BMT","Occlusion site other than isolated M2 segment, baseline NIHSS ≥6, pre-event mRS >1, missing 90-day outcome data, patients with immediate EVT","208 (121 BMT only, 87 BMT+rEVT)",208,"61-82 (infered, not reported)","70 (IQR 61–80) in END group 
+71 (IQR 64–79) in no-END group
+71 (IQR 61–79) in mRS 0–1 group
+75 (IQR 68–82) in mRS 2–6 group",70,Not reported (median only),,"Calculated from table 4
+102/208 (49.0%) female
+106/208 (51.0%) male",0.5096,3 (IQR 2–4),,3,"Clinical features and medical therapy 
+- Age 70 (IQR 61–80) in END vs 71 (IQR 64–79) in no-END, p=0.256
+- AFib 64/174 (36.8%), 33/53 (62.3%) in END vs 31/121 (25.6%) in no END, p <0.001
+- Diabetes 39/164 (23.8%), 12/43 (27.9%) in END vs 27/121 (22.3%) in no END, p=0.459
+- Dyslipidemia 94/177 (53.1%), 30/56 (53.6%) in END vs 64/121 (52.9%) in no END, p=0.933
+- Coronary artery disease 45/167 (26.9%), 16/46 (34.8%) in END vs 29/121 (24.0%) in no END, p=0.159
+- Carotid atherosclerosis 68/168 (40.5%), 15/47 (31.9%) in END vs 53/121 (43.8%) in no END, p=0.159
+- Previous stroke 36/163 (22.1%), 12/42 (28.6%) in END vs 24/121 (19.8%) in no END, p=0.240
+- Pre-event mRS=1 → 37/208 (17.8%), 12/87 (13.8%) in END vs 25/121 (20.7%) in no END, p=0.201
+- Current antiplatelet therapy 58/170 (34.1%), 24/49 (49.0%) in END vs 34/121 (28.1%) in no END, p=0.009
+- Current anticoagulant therapy 39/170 (22.9%), 17/49 (34.7%) in END vs 22/121 (18.2%) in no END, p=0.020
+- Thrombolysis 133/208 (64.0%), 59/87 (67.8%) in END vs 74/121 (61.1%) in no END, p=0.324
+Baseline imaging data
+- ASPECTS median 10 (IQR 9–10) in both END and no END 
+- Left-side stroke 127/208 (61.0%), 51/87 (58.6%) in END vs 76/121 (62.8%) in no END, p=0.541
+- Menon collateral score median 4, 4 (IQR 4–4) in END vs 4 (IQR 3–5) in no END, p=0.082
+- Dominant M2 division 108/208 (51.9%), 56/87 (64.4%) in END vs 52/121 (43.0%) in no END, p=0.002
+
+(partly calculated from table 4) ",NIHSS ≤5,5,"Univariate analysis: 
+  • Dominant M2 division (64.4% vs 43.0%, P=0.002)
+
+Multivariate binary logistic regression (included variables with p≤0.1 in univariate or clinically meaningful → age, AFib, no current antiplatelet, no current anticoagulant, dominant M2 division, Menon score, no thrombolysis): 
+- none",none,"  • None",Dominant M2,"  • Dominant M2 division: 64.4% in END vs 43.0% in no END (P=0.002)","Menon score → not significant
+
+On multiphase CTA, you compare the affected side to the unaffected side for extent and prominence of pial arterial filling across phases, producing a score from 0 to 5:
+• 0: No visible collaterals (no/minimal pial filling in the occluded territory).
+• 1: Collaterals fill ≤ 50% of the territory.
+• 2: Collaterals fill > 50% but < 100% of the territory.
+• 3: 100% filling, but less than the contralateral side (delayed and or less prominent).
+• 4: 100% filling equal to the contralateral side.
+• 5: 100% filling greater than the contralateral side (very robust collaterals).",none,"Age, CVRF (AFib, diabetes, dyslipidemia, coronary artery disease, carotid atherosclerosis), previous stroke, baseline NIHSS, pre event mRS=1, current antiplatelet therapy, current anticoagulant therapy, thrombolysis, ASPECTS, left side stroke, Menon score, dominant M2 division","NCCT (with ASPECTS)
+mCTA (multiphase CTA), Menon score for leptomeningeal collateral circulation",CT,"Not reported
+Isolated M2 occlusion + NIHSS ≤5 + mRS ≤1 (after exclusion of immediate MT patients) → 208/10,169 (2.0%) of LVO patients",,,Isolated M2 segment occlusion → occlusion located from the genu of the MCA on to the proximal part of one of the first order branches. Caliber dominance was considered present when one division had a larger caliber than the other(s).,MCA,M2,"Not reported (all had LVO)
+Dominant M2 division: 108/208 (51.9%) (calculated from table 4)",,,"Increase of NIHSS ≥4 points from baseline leading to NIHSS ≥6
+Not due to intracranial hemorrhage",4,"Within 24 hours from symptom onset ",24,41.8% (87/208),0.418,"- reduction of cerebral perfusion pressure (poor leptomeningeal collaterals)
+- reduction of cerebral blood flow","Univariate analysis: 
+- AFib (62.3% vs 25.6%, P<0.001)
+- current antiplatelet therapy (49.0% vs 28.1%, P=0.009)
+- current anticoagulant therapy (34.7% vs 18.2%, P=0.020)
+
+Multivariate binary logistic regression (included variables with p≤0.1 in univariate or clinically meaningful → age, AFib, no current antiplatelet, no current anticoagulant, dominant M2 division, Menon score, no thrombolysis): 
+- AFib (OR 3.547, 95% CI 1.014–12.406, P=0.048) → only independent predictor",AFib,"  • AFib: aOR 3.547 (95% CI 1.014–12.406, P=0.048), adjusted for age, antiplatelet, anticoagulant, dominant M2, Menon score, thrombolysis","AFib, Current anticoagulant therapy, Current antiplatelet therapy","  • AFib: 62.3%  in END vs 25.6% in no END (P<0.001)
+  • Current antiplatelet therapy: 49.0% in END vs 28.1% in no END (P=0.009)
+  • Current anticoagulant therapy: 34.7% in END vs 18.2% in no END (P=0.020)",Yes → maximal medical therapy including IVT when applicable,Yes (133/208 = 64.0% received thrombolysis),Yes,0.64,“when applicable”,No (patients with immediate EVT excluded),No,-,"Yes ",Yes,1,"END (all 87 END received rEVT, successful reperfusion in 83.7%)","First aim → 90-day mRS score of 0–1 (excellent neurological outcome) → 78.4% (163/208)
+Multivariate → END (OR 3.386, 95% CI 1.428–8.032, P=0.006), baseline NIHSS (OR 1.362, 95% CI 1.004–1.848, P=0.047), pre-event mRS=1 (OR 3.226, 95% CI 1.229–8.465, P=0.017) associated with unfavorable outcome (mRS 2–6)
+
+Second aim → END during BMT (= increase of NIHSS ≥4 points from baseline leading to NIHSS ≥6) → 41.8% (87/208)
+Multivariate → AFib (OR 3.547, 95% CI 1.014–12.406, P=0.048) only independent predictor of END","90-day mRS 0–2 (functional independence)
+- BMT 97.5% vs BMT+rEVT 80.4% (P<0.001)
+- In BMT+rEVT group → lower baseline NIHSS (OR 0.562, 95% CI 0.347–0.910, P=0.019) and successful rEVT mTICI 2b-3 (OR 4.549, 95% CI 1.098–18.851, P=0.037) associated with favorable 90-day mRS 0–1","Safety outcomes 
+(1) intraparenchymal brain bleeding after recanalization, (CT/MRI at 72h) → IPH (intraparenchymal hemorrhage) higher in BMT+rEVT,  p=0.017
+- IPH type 1 → 11.6%  BMT+rEVT vs 1.2% BMT
+- IPH type 2 → 2.3% BMT+rEVT vs 1.2% BMT
+(2) death of any cause within 90 days after stroke → higher in BMT + rEVT
+- 8.0%  BMT + rEVT vs 0.8% BMT, p=0.008","- END occurred in 41.8% (87/208) of minor stroke patients with isolated M2 occlusion undergoing BMT (+/- IVT)
+- END → the strongest predictor of poor long-term outcome (OR 3.386, P=0.006)
+- AF was the only independent predictor of END in multivariate analysis (OR 3.547, P=0.048)
+- Thrombolysis neither seemed to prevent END nor was associated with favorable outcome after END
+- In patients with END, successful rEVT (mTICI 2b-3) significantly improved outcome (OR 4.549, P=0.037, multivariate)",Minor stroke patients with isolated M2 occlusion and concomitant AF should be closely monitored for possible worsening during BMT and considered for rEVT immediately after the beginning of clinical deterioration,"- retrospective, non-controlled (risk of selection bias) 
+- potential END predictors unavailable (blood pressure, thrombus length/extension)
+- o control group of END patients not receiving rEVT to verify treatment benefit
+- relatively small sample size","Broccolini, Aldobrando
+Brunetti, Valerio
+Colò, Francesca
+Alexandre, Andrea M
+Valente, Iacopo
+Falcou, Anne
+Frisullo, Giovanni
+Pedicelli, Alessandro
+Scarcia, Luca
+Scala, Irene
+Rizzo, Pier Andrea
+Bellavia, Simone
+Camilli, Arianna
+Milonia, Luca
+Piano, Mariangela
+Macera, Antonio
+Commodaro, Christian
+Ruggiero, Maria
+Da Ros, Valerio
+Bellini, Luigi
+Lazzarotti, Guido A
+Cosottini, Mirco
+Caragliano, Armando A
+Vinci, Sergio L
+Gabrieli, Joseph D
+Causin, Francesco
+Panni, Pietro
+Roveri, Luisa
+Limbucci, Nicola
+Arba, Francesco
+Pileggi, Marco
+Bianco, Giovanni
+Romano, Daniele G
+Frauenfelder, Giulia
+Semeraro, Vittorio
+Ganimede, Maria P
+Lozupone, Emilio
+Fasano, Antonio
+Lafe, Elvis
+Cavallini, Anna
+Russo, Riccardo
+Bergui, Mauro
+Calabresi, Paolo
+Della Marca, Giacomo",yes,"Master Thesis - Predictors of END in LVO minor str… screen ▸ included ▸ included for data extraction, Master Thesis - Predictors of END in LVO minor str…ll text screen ▸ all included for data extraction","- END and associated factors was secondary outcom
+- END definition = “increase of the NIHSS score of at least four points from baseline leading to a NIHSS score≥6” → means if you started with 0 or 1 and reached 4 or 5, it wasn’t considered significant → probably because still within the minor definition of ≤ 5
+- instead of BMM i wrote BMT, and instead of MT/rMT i wrote EVT/rEVT
+- in END group, Clinical features and medical therapy data is missing, because you have 87/208 patients, but when you look in table 4 at the individual numbers, you see that they differ (Afib 33/53, diabetes 12/43 etc.)",https://doi.org/10.1136/jnis-2023-020118,,,"Kim et al., “Effectiveness and Safety of EVT in Patients with Acute LVO and Low NIHSS.” (https://www.notion.so/Kim-et-al-Effectiveness-and-Safety-of-EVT-in-Patients-with-Acute-LVO-and-Low-NIHSS-30dc5a45dadf81f5ba59dc3d4bb09aee?pvs=21)",Extracted,early_neurological_deterioration_brocollini_with_suppl._material.pdf,early_neurological_deterioration_brocollini.pdf,,,"Hu et al., “Early Neurological Deterioration in Acute Ischemic Minor Stroke Patients with Large Vessel Occlusion Following Intravenous Thrombolysis.” (https://www.notion.so/Hu-et-al-Early-Neurological-Deterioration-in-Acute-Ischemic-Minor-Stroke-Patients-with-Large-Vess-30ac5a45dadf8109b7bfcfb179a61986?pvs=21)",Pending,,"February 18, 2026 1:50 PM (GMT+1)",1h 52m,"February 18, 2026 11:58 AM (GMT+1)",Early neurological deterioration in patients with minor stroke due to isolated M2 occlusion undergoing medical management: a retrospective multicenter study,Verified,2024,https://zotero.org/skizzolino/items/ZWAJQFGR
+"Itabashi et al., “Impact of Patency of the Carotid Terminus and Middle Cerebral Artery on Early Clinical Outcomes in Patients with Acute Internal Carotid Artery Occlusion and Mild Symptoms.”",Japan,Japan,11y 11mo (April 2006 to March 2018),"April 1, 2006","March 31, 2018",143,"Single-center retrospective study, registry study (Kohnan Hospital Stroke Registry)",retrospective,single-center,"to clarify the effect of the patency of the ICA and the status of collateral flow to the ipsilateral middle cerebral artery (MCA) via the ICA terminus (ICT) on early clinical outcomes in patients with acute internal carotid artery occlusion (ICAO) with mild symptoms, particularly in terms of the effectiveness of IVT, MT, or surgery","(1) acute ischemic stroke or TIA due to ipsilateral ICAO
+(2) NIHSS score ≤5 on admission
+(3) mRS score ≤2 before stroke onset","(1) previous identification of occlusive disease in the ipsilateral ICA
+(2) contraindications for performing magnetic resonance angiography (MRA) 
+(3) other circumstances considered as inappropriate by the investigators","35 (from 1,214 consecutive LVO patients → 49 met criteria → 14 excluded: 13 known ICA disease + 1 MRA at referring hospital)",35,Not reported,73 years (IQR 55–79),73,Not reported (median reported),,"24/35 male (68.6%)
+11/35 female (31.4%)",0.6857,2 (IQR 1–4),,2,"Calculated from table 1
+- Cardiovascular risk factors: hypertension 31/35 (88.6%), dyslipidemia 16/35 (45.7%), diabetes 11/35(31.4%), smoking 25/35 (71.4%)
+- Heart disease as embolic stroke 6/35 (17.1%)
+- Stroke subtype (TOAST): LAD 21/35 (60%), CES 4/35 (11.4%), others 5/35 (14.3%), TIA 5/35 (14.3%)
+Other data collected (calculations not possible from the table and not given in text) → Onset-to-door time, Patent ICT and MCA, systolic and diastolic BP on arrival",NIHSS ≤5,5,"Univariable analysis 
+- none 
+Patency of ICT and MCA was NOT associated with REND (61.5% vs 63.6%, p=1.00)",No multivariable analysis done,"  • No multivariable analysis done",none,"  • None
+  • Patency of ICT and MCA not associated with REND (61.5% vs 63.6%, P=1.00).",None tested,none,"Age, sex, hypertension, dyslipidemia, diabetes mellitus, smoking, heart disease as embolic source, stroke subtype (TOAST), initial NIHSS, onset-to-door time, patent ICT and MCA, systolic/diastolic BP, IVT, MT, bypass surgery, sICH","MRA (standard vascular imaging, available 24/7), MRA signal intensity of ipsilateral MCA classified as excellent/good/fair/poor",MRI,"Not reported, but ICAO + NIHSS ≤5 + premorbid mRS ≤2 in 49/1,214 (4.0%) of consecutive AIS + LVO patients  ",,4%,internal carotid artery (ICA) occlusion (ICAO),ICA,,Not reported,,,"REND (recurrence of stroke or early neurological deterioration) = NIHSS increment ≥1 ",1,During hospitalization,,"37% (13/35) ",0.37,"- Thrombus migration or fragmentation (artery-to-artery embolism), especially after IVT
+- Poor collaterals due to nonpatency of the ICT and MCA (1 patient who was not indicated for MT)","Univariable analysis
+- higher initial NIHSS (4 vs 1, p<0.001)
+- diabetes mellitus (61.5% vs 13.6%, p=0.007)
+- IVT (30.9% vs 0%, p=0.014)
+- EVT use (23.1% vs 0%, p=0.044)",No multivariable analysis done,"  • No multivariable analysis done","Diabetes mellitus present, EVT, Higher baseline NIHSS, IVT","  • Higher baseline NIHSS: median 4 in END vs 1 in no END (P<0.001)
+  • Diabetes mellitus: 61.5% in END vs 13.6% in no END (P=0.007)
+  • IVT: 30.9% in END vs 0% in no END (P=0.014)
+  • EVT: 23.1% in END vs 0% in no END (P=0.044)",Yes,"Yes,  4/35 (11.4%) received IVT, all 4 were in REND group (30.9% of REND vs 0% of no REND, p=0.014)",Yes,0.114,Standard criteria?,No,No,-,"Yes, 3/35 (8.6%)",Yes,0.086,"REND
+- Case 11: REND before IVT
+- Cases 7 and 13: REND after IVT
+NB 2 bypass surgeries in REND group",REND = recurrence of stroke or early neurological deterioration (NIHSS increment ≥1) during hospital stay,mRS at discharge: median 5 (IQR 4–5) in REND vs 0 (IQR 0–1) in no REND (p<0.001),No sICH in any patient,"- 37% of ICAO patients with mild symptoms had REND
+- Higher initial NIHSS and diabetes mellitus significantly associated with REND
+- Patency of ICT and MCA was not associated with REND
+- All 3 patients initially treated with IVT alone deteriorated","- IVT alone might risk thrombus migration in ICAO patients with patent ICT and MCA, resulting in unfavorable outcomes
+- Immediate MT could be reasonable even in patients with mild symptoms and patent ICT/MCA","- Single-center study 
+- very small sample size (n=35)
+- MRA as standard imaging may underestimate intracranial vessel patency vs CTA
+- No 90-day outcome data","Itabashi, R.
+Saito, T.
+Kawabata, Y.
+Kobayashi, Y.
+Yazawa, Y.",yes,"Master Thesis - Predictors of END in LVO minor str… screen ▸ included ▸ included for data extraction, Master Thesis - Predictors of END in LVO minor str…ll text screen ▸ all included for data extraction","- no multivariate analysis, but small sample 😞
+- secondary and other outcomes inferred",https://doi.org/10.1159/000527635,,,"Mazya et al., “Minor Stroke Due to Large Artery Occlusion. When Is Intravenous Thrombolysis Not Enough? Results from the SITS International Stroke Thrombolysis Register.” (https://www.notion.so/Mazya-et-al-Minor-Stroke-Due-to-Large-Artery-Occlusion-When-Is-Intravenous-Thrombolysis-Not-Enou-30dc5a45dadf8169bae9f5126e130ae0?pvs=21)",Extracted,Itabashi_et_al._-_2023_-_Impact_of_Patency_of_the_Carotid_Terminus_and_Middle_Cerebral_Artery_on_Early_Clinical_Outcomes_in_P.pdf,Impact_of_Patency_of_the_Carotid_Terminus_and_MCA_on_early_clinical_outcomes_in_patients_with_acute_ICA_occlusion_and_mild_symptoms.pdf,"R. Itabashi, Departments of Stroke Neurology, Kohnan Hospital, Sendai, Japan",,"Kim et al., “Effectiveness and Safety of EVT in Patients with Acute LVO and Low NIHSS.” (https://www.notion.so/Kim-et-al-Effectiveness-and-Safety-of-EVT-in-Patients-with-Acute-LVO-and-Low-NIHSS-30dc5a45dadf81f5ba59dc3d4bb09aee?pvs=21)",Pending,,"February 18, 2026 2:47 PM (GMT+1)",56m,"February 18, 2026 1:51 PM (GMT+1)",Impact of Patency of the Carotid Terminus and Middle Cerebral Artery on Early Clinical Outcomes in Patients with Acute Internal Carotid Artery Occlusion and Mild Symptoms,Verified,2023,https://zotero.org/skizzolino/items/UBGNVZWR
+"Gwak et al., “Perfusion and Diffusion Variables Predict Early Neurological Deterioration in Minor Stroke and Large Vessel Occlusion.”",South Korea,South Korea,8y 5mo (January 2011 to May 2019),"January 1, 2011","May 31, 2019",100,"Single-center, retrospective analysis of a prospectively maintained institutional stroke registry",retrospective,single-center,to investigate the optimal imaging variables using PWI and DWI for the prediction of END in patients with anterior circulation LVO presenting with mild symptoms,"AIS admitted within 24 h of last known normal, baseline NIHSS ≤5, pre-stroke mRS 0 or 1, anterior circulation LVO (intracranial ICA, MCA M1/M2 trunk, or tandem occlusion) on CTA or MRA","Moyamoya disease (n=15), EVT before END (n=14), no PWI (n=35)",94,94,Not specified (adults),Not reported,,66.9 ±13.0,66.9,"49/94 (52.1%) male
+45/94 (47.9%) female",0.5213,"Not reported, only mean baseline NIHSS 2.12 (±1.63)",2.12,,"Onset-to-door time median 3.23 h (IQR 1.45–9.33)
+Pre-stroke mRS 0 in 85.1% and 1 in 14.9%
+TOAST: LAA 42 (44.7%), CE 36 (38.3%), undetermined 16 (17.0%)
+Occlusion site: intracranial ICA 7 (7.4%), tandem 6 (6.4%), MCA M1 44 (46.8%), MCA M2 trunk 37 (39.4%)
+CVRF: hypertension 67.0%, DM 26.6%, hyperlipidemia 39.4%, AFib 27.7%, MI/angina 9.6%, prior stroke 11.7%, smoking 20.2%
+Vital parameters: mean SBP 157.2 mmHg (±31.1), 
+Lab parameters: mean baseline glucose 143.8 (±51.4) mg/dL, also reported: baseline leukocyte count, hemoglobin, hematocrit, platelet count, erythrocyte sedimentation rate, C-reactive protein, fibrinogen
+Imaging parameters: initial DWI volume median 1.34 mL (IQR 0.00–5.61);",NIHSS ≤5,5,"Univariable analysis
+  • Large critical hypoperfusion lesion volume (Tmax >6 seconds of ≥53.73 mL) more likely to experience END than those with a Tmax >6 seconds of <53.73 mL (odds ratio [OR] 6.77; 95% CI 2.44 to 18.77; P<0.001)
+  • Mismatch volume ≥32.77 mL (Tmax >6 sec – DWI) more likely to experience END (OR, 5.34 [95% CI, 2.17 to 13.11; P<0.001)
+  • Mild hypoperfusion lesion of Tmax 4–6 seconds ≥55.20 mL more likely to experience END (OR 4.21 [95% CI, 1.75 to 10.15; P=0.001])
+
+Multivariate logistic regression → 3 models tested (Model 1 adjusted for Tmax >6 seconds ≥53.73 mL, onset-to-door time, IV tPA, and initial DWI volume; Model 2 adjusted for Tmax >6 seconds – DWI ≥32.77 mL, onset-to-door time, IV tPA, and initial DWI volume; Model 3 adjusted for Tmax 4–6 seconds ≥55.20 mL, onset-to-door time, IV tPA, and initial DWI volume)
+  • Model 1 → large critical hypoperfusion lesion volumes (Tmax >6 seconds of ≥53.73 mL) still significantly more likely to experience END (adjusted OR [aOR], 12.78; 95% CI, 3.36 to 48.65; P<0.001).
+  • Model 2 → Mismatch volume ≥32.77 mL (Tmax >6 sec – DWI) still significantly more likely to experience END (aOR, 5.73; 95% CI, 2.04 to 16.08; P=0.001)
+  • Model 3 → Mild hypoperfusion lesion of Tmax 4–6 seconds ≥55.20 mL still significantly more likely to experience END (aOR, 9.13; 95% CI, 2.76 to 30.17; P<0.001).
+
+For understanding: “The ROC analysis of imaging variables for each threshold and their association with END identified Tmax >6 seconds, Tmax >6 seconds – DWI, and Tmax 4–6 seconds as the optimal values for further analysis. […] Based on Youden’s Index, the optimal volume of Tmax >6 seconds for predicting END was ≥53.73 mL, Tmax >6 seconds – DWI was ≥32.77 mL, and Tmax 4–6 seconds was ≥55.20 mL”
+Youden’s index = sensitivity+specificity–1","Mismatch vol ≥32.77 mL (Tmax >6s – DWI), Tmax 4-6s vol ≥55.20 mL (mild hypoperfusion), Tmax >6s vol ≥53.73 mL (critical hypoperfusion)","  • Tmax >6s ≥53.73 mL (critical hypoperfusion): aOR 12.78 (95% CI 3.36–48.65, P<0.001); Model 1, adjusted for Tmax >6 seconds ≥53.73 mL, onset-to-door time, IV tPA, and initial DWI volume
+  • Mismatch volume ≥32.77 mL (Tmax >6s - DWI): aOR 5.73 (95% CI 2.04–16.08, P=0.001); Model 2, adjusted for Tmax >6 seconds – DWI ≥32.77 mL, onset-to-door time, IV tPA, and initial DWI volume
+  • Tmax 4–6s ≥55.20 mL (mild hypoperfusion): aOR 9.13 (95% CI 2.76–30.17, P<0.001); Model 3, adjusted for Tmax 4–6 seconds ≥55.20 mL, onset-to-door time, IV tPA, and initial DWI volume","Higher Tmax>6s volume, Mismatch vol ≥32.77 mL (Tmax >6s – DWI), Tmax 4-6s vol ≥55.20 mL (mild hypoperfusion), Tmax >6s vol ≥53.73 mL (critical hypoperfusion)","  • Tmax >6s vol ≥53.73 mL (critical hypoperfusion): OR 6.77 (95% CI 2.44–18.77, P<0.001)
+  • Mismatch vol ≥32.77 mL (Tmax >6s - DWI): OR 5.34 (95% CI 2.17–13.11, P<0.001)
+  • Tmax 4–6s vol ≥55.20 mL (mild hypoperfusion): OR 4.21 (95% CI 1.75–10.15, P=0.001). 
+Cutoffs determined by Youden’s index (sens+spec-1) from ROC analysis.",None tested,none,"Age, sex, baseline NIHSS score, onset-to-door time, pre-stroke mRS, stroke mechanism classified according to TOAST criteria with some modifications, occluded vessel location, hypertension, diabetes mellitus, hyperlipidemia, atrial fibrillation, myocardial infarction or angina, history of smoking, baseline blood pressure, type of recanalization therapy, and laboratory data including baseline leukocyte count, hemoglobin, hematocrit, platelet count, erythrocyte sedimentation rate, C-reactive protein, fibrinogen, and glucose level
+Univariable logistic regression analyses → critical hypoperfusion lesions, mismatch volumes, and mild hypoperfusion lesions
+(All variables that were different between the two groups (defined as P<0.1) were then included in the backward stepwise multivariable logistic regression analyses to adjust for the effects of confounding variables.)","CTA or MRA for LVO confirmation
+Dynamic susceptibility PWI (perfusion-weighted imaging) with Tmax maps for perfusion assessment
+DWI for infarct volume
+automated software program with minimal manual editing used (Olea Sphere 3.0)","CT, MRI","54.9% (calculated, of the n=5,465 of AIS arrival within 24h of last known normal → n=3,001 with NIHSS ≤5)",54.9%,,"LVO in the anterior circulation defined by occlusion of the intracranial internal carotid artery, proximal segment of the middle cerebral artery [M1 or M2 trunk], or tandem occlusion","ICA, MCA","M1, M2","2.6% (calculated, of the n=5,465 of AIS arrival within 24h of last known normal → n=158 with LVO, of which 15 had moyamoya)",2.6%,,Any new neurological symptom or any worsening with ≥2-point increase in total NIHSS or ≥1-point increase in motor score (items 5a–6b),2,Within 72 hours of stroke onset,72,39.4% (37/94),0.394000000000,Progressive stroke in the same vascular territory (in all cases),"Univariable analysis
+- Onset-to-door time shorter in END 2.50 hours (1.09–5.10) vs 4.28 hours (1.58–13.67) in non END, p=0.019
+- IVT 20(54.1%) in END vs 8(14.0%) in non END, p<0.001
+
+Multivariate logistic regression → 3 models tested (Model 1 adjusted for Tmax >6 seconds ≥53.73 mL, onset-to-door time, IV tPA, and initial DWI volume; Model 2 adjusted for Tmax >6 seconds – DWI ≥32.77 mL, onset-to-door time, IV tPA, and initial DWI volume; Model 3 adjusted for Tmax 4–6 seconds ≥55.20 mL, onset-to-door time, IV tPA, and initial DWI volume)
+- IV tPA use independently associated with END in all models (aOR 7.68 (95%CI 2.52–23.43) in Model 1, 5.97 (95%CI 2.05–17.40) in Model 2, 14.94 (95%CI 4.18–53.33) in Model 3, all P≤0.001",IVT,"IVT
+  • aOR 7.68 (95% CI 2.52–23.43, P≤0.001) in Model 1, adjusted for Tmax >6 seconds ≥53.73 mL, onset-to-door time, IV tPA, and initial DWI volume
+  • aOR 5.97 (95% CI 2.05–17.40, P≤0.001) in Model 2, adjusted for Tmax >6 seconds – DWI ≥32.77 mL, onset-to-door time, IV tPA, and initial DWI volume
+  • aOR 14.94 (95% CI 4.18–53.33, P≤0.001) in Model 3, adjusted for Tmax 4–6 seconds ≥55.20 mL, onset-to-door time, IV tPA, and initial DWI volume
+","IVT, Shorter onset-to-door time","  • Shorter onset-to-door time: 2.50h (IQR 1.09–5.10) in END vs 4.28h (1.58–13.67) in no END (P=0.019)
+  • IVT: 54.1% in END vs 14.0% in no END (P<0.001)","Yes, maximal medical therapy (including IVT if indicated) ","Yes, 29.8% (28/94) received IV tPA; END 54.1% vs Non-END 14.0% (P<0.001)",Yes,0.298,Not specified,"No, patients with EVT before END were excluded (n=14)",No,-,"Yes, 62.2% (23/37) of END patients had EVT",Yes,0.622,"END, specific criteria not detailed",END (≥2-point NIHSS increase or ≥1-point motor score increase within 72 h),Unfavorable functional outcome at 3 months (mRS 2–6): END 35.1% vs Non-END 7.0% (P=0.001),Association of imaging variables with 3-month unfavorable outcome: Tmax >6 sec ≥53.73 mL aOR 23.72 (P<0.001); Tmax >6 sec – DWI ≥32.77 mL aOR 12.47 (P=0.003); Tmax 4–6 sec ≥55.20 mL aOR 5.61 (P=0.008),"- END in 39.4% of minor stroke + LVO patients
+- Imaging predictors of END: Tmax >6 sec ≥53.73 mL (aOR 12.78), Tmax >6 sec – DWI mismatch ≥32.77 mL (aOR 5.73), Tmax 4–6 sec ≥55.20 mL (aOR 9.13), these also predicted unfavorable 3-month outcomes
+- IV tPA use also independently predicted END
+- No baseline clinical/demographic differences between groups except onset-to-door time and tPA use","- Immediate EVT might be considered in cases of minor stroke and LVO with a large critical hypoperfusion lesion volume, mismatch pattern, or a large mild hypoperfusion lesion volume 
+- Cutoff values (Tmax >6 sec ≥53.73 mL, mismatch ≥32.77 mL, mild hypoperfusion ≥55.20 mL) could serve as reference thresholds for EVT","- Retrospective (risk of selection bias)
+ - potential unmeasured confounders
+- single PWI snapshot may not reflect dynamic perfusion changes
+- no follow-up neuroimaging in most patients ⇒ not possible to assess spontaneous recanalization effect","Gwak, D.-S.
+Kwon, J.-A.
+Shim, D.-H.
+Kim, Y.-W.
+Hwanga, Y.-H.",yes,"Master Thesis - Predictors of END in LVO minor str… screen ▸ included ▸ included for data extraction, Master Thesis - Predictors of END in LVO minor str…ll text screen ▸ all included for data extraction",- it’s not clear if END occurred before or after IVT,https://doi.org/10.5853/jos.2020.01466,,,"Gwak et al., “Perfusion Profile Evaluated by Severity-Weighted Multiple Tmax Strata Predicts Early Neurological Deterioration in Minor Stroke with Large Vessel Occlusion.” (https://www.notion.so/Gwak-et-al-Perfusion-Profile-Evaluated-by-Severity-Weighted-Multiple-Tmax-Strata-Predicts-Early-N-30ac5a45dadf81678576cac825d42272?pvs=21)",Extracted,Gwak_et_al._-_2021_-_Perfusion_and_diffusion_variables_predict_early_neurological_deterioration_in_minor_stroke_and_large.pdf,Perfusion_and_Diffusion_Variables_Predict_Early.pdf,"Y.-H. Hwanga, Department of Neurology, Kyungpook National University Hospital, School of Medicine, Kyungpook National University, 130 Dongdeok-ro, Jung-gu, Daegu, South Korea",,"Mazya et al., “Minor Stroke Due to Large Artery Occlusion. When Is Intravenous Thrombolysis Not Enough? Results from the SITS International Stroke Thrombolysis Register.” (https://www.notion.so/Mazya-et-al-Minor-Stroke-Due-to-Large-Artery-Occlusion-When-Is-Intravenous-Thrombolysis-Not-Enou-30dc5a45dadf8169bae9f5126e130ae0?pvs=21)",Pending,,"February 18, 2026 4:24 PM (GMT+1)",1h 34m,"February 18, 2026 2:50 PM (GMT+1)",Perfusion and diffusion variables predict early neurological deterioration in minor stroke and large vessel occlusion,Verified,2021,https://zotero.org/skizzolino/items/HGX5JZ4T
+"Gwak et al., “Perfusion Profile Evaluated by Severity-Weighted Multiple Tmax Strata Predicts Early Neurological Deterioration in Minor Stroke with Large Vessel Occlusion.”",South Korea,South Korea,8y 5mo (January 2011 to May 2019),"January 1, 2011","May 31, 2019",100,"Single-center, retrospective analysis of a prospectively maintained institutional stroke registry (secondary analysis from a previous observational study, Gwak 2021)",retrospective,single-center,"  • to evaluate whether the perfusion profile estimated by severity-weighted multiple Tmax strata is a reliable predictor for END in minor stroke and LVO
+  • to evaluate whether this parameter outperforms other single perfusion thresholds or the hypoperfusion intensity ratio (HIR) in predicting END","(1) Onset to arrival within 24h of last known normal; (2) baseline NIHSS ≤5; (3) pre-stroke mRS 0 or 1; (4) acute anterior circulation LVO (intracranial ICA, M1 or M2 trunk of MCA, or tandem occlusion) on baseline MRA",(1) LVO due to Moyamoya disease; (2) treatment with EVT before END; (3) did not undergo PWI,"94 ",94,Not specified (adults),Not reported,,66.9 ± 13.0 years,66.9,"49/94 (52.1%) male
+45/94 (47.9%) female",0.5213,"Not reported, only mean baseline NIHSS 2.12 (±1.63)",2.12,,"Onset-to-door time median 3.23 h (IQR 1.45–9.33)
+Pre-stroke mRS 0 in 85.1% and 1 in 14.9%
+TOAST: LAA 42 (44.7%), CE 36 (38.3%), undetermined 16 (17.0%)
+Occlusion site: intracranial ICA 7 (7.4%), tandem 6 (6.4%), MCA M1 44 (46.8%), MCA M2 trunk 37 (39.4%)
+CVRF: hypertension 67.0%, DM 26.6%, hyperlipidemia 39.4%, AFib 27.7%, MI/angina 9.6%, prior stroke 11.7%, smoking 20.2%
+Vital parameters: mean SBP 157.2 mmHg (±31.1), 
+Lab parameters: mean baseline glucose 143.8 (±51.4) mg/dL, also reported: baseline leukocyte count, hemoglobin, hematocrit, platelet count, erythrocyte sedimentation rate, C-reactive protein, fibrinogen
+Imaging parameters: initial DWI volume median 1.3 mL (IQR 0.00–5.61);",NIHSS ≤5,5,"Model 1 (Poor perfusion profile defined as a Wilcoxon-Mann-Whitney generalised OR >1.052)
+* Univariable logistic regression analysis
+  • poor perfusion profiles more likely to develop END compared with those with good perfusion profiles  (OR 15.87 [95% CI: 5.49–45.90], p < 0.001)
+* Multivariate logistic regression
+  • poor perfusion profile significantly tended to develop END (adjusted OR [aOR] 13.42 [95% CI: 4.38–41.15], p < 0.001)
+
+Model 2 (Poor perfusion profile defined as a Wilcoxon-Mann-Whitney generalised OR >1.000)
+* Univariable logistic regression analysis
+  • poor perfusion profiles more likely to develop END compared with those with good perfusion profiles  (OR 9.56 [95% CI: 3.41-26.76], p < 0.001)
+* Multivariate logistic regression
+  • poor perfusion profile more likely to develop END (aOR 7.31 [95% CI 2.4821.49], p < 0.001)
+
+In order to understand:
+- Perfusion profile defined as severity-weighted shift of Tmax strata distribution (Tmax 2–4s, 4–6s, 6–8s, 8–10s, >10s proportions against Tmax >2s total), calculated using Wilcoxon-Mann-Whitney generalised OR comparing individual patient to entire cohort. 
+- Poor perfusion profile was based on cut-off of the generalised OR (different for each model) and this cut off was identified based on Youden’s index",Poor perfusion profile,"Poor perfusion profile
+  • Defined as Wilcoxon-Mann-Whitney generalised OR >1.052 (Model 1): aOR 13.42 (95% CI: 4.38–41.15, P<0.001)
+  • Defined as Wilcoxon-Mann-Whitney generalised OR >1.000 (Model 2): aOR 7.31 (95% CI 2.48-21.49, P<0.001)
+
+Perfusion profile = severity-weighted shift of Tmax strata distribution (Tmax 2–4s, 4–6s, 6–8s, 8–10s, >10s proportions vs Tmax>2s total), calculated via Wilcoxon-Mann-Whitney generalised OR comparing individual to cohort. Cutoffs based on Youden's index.",Poor perfusion profile,"Poor perfusion profile 
+  • Defined as Wilcoxon-Mann-Whitney generalised OR >1.052 (Model 1): OR 15.87 (95% CI 5.49–45.90, P<0.001)
+  • Defined as Wilcoxon-Mann-Whitney generalised OR >1.000 (Model 2): OR 9.56 (95% CI 3.41–26.76, P<0.001)
+
+Perfusion profile = severity-weighted shift of Tmax strata distribution (Tmax 2–4s, 4–6s, 6–8s, 8–10s, >10s proportions vs Tmax>2s total), calculated via Wilcoxon-Mann-Whitney generalised OR comparing individual to cohort. Cutoffs based on Youden's index.",None tested,none,"Age, sex, baseline NIHSS, onset-to-door time, stroke mechanism (TOAST), occlusion site, hypertension, diabetes, hyperlipidemia, atrial fibrillation, prior stroke, current smoking, baseline glucose, hemoglobin, platelet count, DWI lesion volume, Tmax volumes (>2s, 2–4s, 4–6s, 6–8s, 8–10s, >10s), perfusion profile (generalised OR), HIR (Tmax >10s/Tmax >6s and Tmax >10s/Tmax >4s), IVT use","MRI, MRA for LVO, PWI (MR perfusion-weighted imaging) with Tmax maps, DWI for infarct volume",MRI,"54.9% (calculated, of the n=5,465 of AIS arrival within 24h of last known normal → n=3,001 with NIHSS ≤5)",54.9%,,"LVO in the anterior circulation defined by occlusion of the intracranial internal carotid artery, proximal segment of the middle cerebral artery [M1 or M2 trunk], or tandem occlusion","ICA, MCA","M1, M2","2.6% (calculated, of the n=5,465 of AIS arrival within 24h of last known normal → n=158 with LVO, of which 15 had moyamoya)",2.6%,,any neurological worsening or new neurological symptoms accompanied by an increment in the total NIHSS score ≥2 or an increment in the motor score (5a–6b) ≥1,2,Within 72 hours of stroke onset,72,39.4% (37/94),0.394000000000,Progressive stroke in the same vascular territory,"Univariable analysis (I know from the other paper)
+  • Onset-to-door time shorter in END 2.50 hours (1.09–5.10) vs 4.28 hours (1.58–13.67) in non END, p=0.019
+  • IVT 20(54.1%) in END vs 8(14.0%) in non END, p<0.001
+
+Multivariate analysis
+  • IVT in both Model 1 and Model 2",IVT,"  • IVT independently associated with END in both Model 1 and Model 2 (exact aOR values not reported in this paper; see Gwak et al. 2021 for statistics)","IVT, Shorter onset-to-door time","  • Shorter onset-to-door time: 2.50h (IQR 1.09–5.10) in END vs 4.28h (1.58–13.67) in no END (P=0.019)
+  • IVT: 54.1% in END vs 14.0% in no END (P<0.001)
+(Same cohort as Gwak et al. 2021)","Yes, maximal medical therapy (including IVT if indicated) 
+According to table 1 → acute treatment: dual antiplatelets 61.7%, oral anticoagulant 29.8%, single antiplatelet 6.4%, both 2.1%","Yes, 28/94 (29.8%) received IV tPA (17 IV tPA only + 11 IV tPA + rescue EVT)",Yes,0.298,Within standard treatment window (not further detailed),"No, patients with EVT before END were excluded (n=14)",No,-,"Yes, 23/94 (24.5%) received rescue EVT (12 rescue EVT only + 11 IV tPA + rescue EVT). More frequent in poor perfusion profile group (46.7% vs 4.1%, p<0.001)",Yes,0.245,"END, specific criteria not detailed",END → 39.4% (37/94),3-month unfavourable outcome (mRS 2–6) → Poor perfusion profile associated with 3-month unfavourable outcome,-,"In LVO with mild stroke symptoms
+  • perfusion profile evaluated by severity-weighted multiple Tmax strata reliably predicts END in minor stroke 
+  • poor perfusion profile was associated with END regardless of the entire hypoperfusion lesion volume 
+  • The perfusion profile outperformed Tmax 4–6 s, but it did not outperform other perfusion metrics including Tmax >6 s and Tmax >6 s – DWI
+  • poor perfusion profile was also independently associated with unfavourable outcomes at 3 months","  • Severity-weighted perfusion approach using multiple Tmax strata may better predict tissue fate and clinical deterioration than single-threshold models. 
+  • Improving cerebral perfusion status might be a potential treatment strategy in minor stroke and LVO with poor perfusion profile.","  • Cut-point value for poor perfusion profile retrospectively identified by ROC analysis (additional analysis with biologically plausible cut-off (OR >1.000) performed for robustness
+  • small sample size
+  • needs external validation
+  • only MR PWI used (no CT perfusion)
+  • lack of follow-up neuroimaging
+  • difficult to categorize perfusion profile visually on raw PWI, automated software needed","Gwak, D.-S.
+Choi, W.
+Kwon, J.-A.
+Shim, D.-H.
+Kim, Y.-W.
+Hwang, Y.-H.",yes,"Master Thesis - Predictors of END in LVO minor str… screen ▸ included ▸ included for data extraction, Master Thesis - Predictors of END in LVO minor str…ll text screen ▸ all included for data extraction","- in previous article, the nay new neurological symptom didn’t need to be accompanied by any NIHSS modification, maybe the modification because NIHSS does capture anterior circulation pretty well?.. 
+- i find it complicated to understand, which makes it complicated to apply
+- NB the dichotomy in this study is not END vs no END, but poor perfusion profile vs good perfusion profile
+- in previous paper they say selection based on occlusion on CTA or MRA, here they say occlusion on MRA, the exact same numbers",https://doi.org/10.1177/0271678X211029165,,,"Seners et al., “Prediction of Early Neurological Deterioration in Individuals with Minor Stroke and Large Vessel Occlusion Intended for Intravenous Thrombolysis Alone.” (https://www.notion.so/Seners-et-al-Prediction-of-Early-Neurological-Deterioration-in-Individuals-with-Minor-Stroke-and--30ac5a45dadf8155b6e3d96653b49e5e?pvs=21)",Extracted,Gwak_et_al._-_2022_-_Perfusion_profile_evaluated_by_severity-weighted_multiple_Tmax_strata_predicts_early_neurological_de.pdf,gwak-et-al-2021-perfusion-profile-evaluated-by-severity-weighted-multiple-tmax-strata-predicts-early-neurological.pdf,"Y.-H. Hwang, Department of Neurology, Kyungpook National University Hospital, Kyungpook National University Hospital, Daegu, South Korea",,"Gwak et al., “Perfusion and Diffusion Variables Predict Early Neurological Deterioration in Minor Stroke and Large Vessel Occlusion.” (https://www.notion.so/Gwak-et-al-Perfusion-and-Diffusion-Variables-Predict-Early-Neurological-Deterioration-in-Minor-St-30ac5a45dadf81f98fa8c40ed81a92c6?pvs=21)",Pending,,"February 18, 2026 5:34 PM (GMT+1)",1h 8m,"February 18, 2026 4:26 PM (GMT+1)",Perfusion profile evaluated by severity-weighted multiple Tmax strata predicts early neurological deterioration in minor stroke with large vessel occlusion,Verified,2022,https://zotero.org/skizzolino/items/P8PSZXTH
+"Seners et al., “Prediction of Early Neurological Deterioration in Individuals with Minor Stroke and Large Vessel Occlusion Intended for Intravenous Thrombolysis Alone.”","• Derivation → France (45 stroke centers) 
+• Validation → France (6 centers) & Switzerland (3 centers) (9 additional centers)","France, Switzerland","~13y 8mo
+~12y (2006-2018, derivation, inclusion dates varied among centers) + 1y 8mo (validation, January 2018 to September 2019)","January 1, 2006","September 30, 2019",164,Multicentric retrospective cohort with external validation (MINOR-STROKE collaboration),retrospective,multicenter,"• to identify the incidence and predictors of ENDi in patients with IVT-treated minor stroke and LVO
+• to develop and externally validate a prediction score intended to assist clinicians in assessing the risk of ENDi in this population","(1) Baseline NIHSS ≤5; (2) LVO on pretreatment vascular imaging (ICA, M1/M2 of MCA, basilar artery); (3) treated with IVT (alteplase only), ± additional MT
+Study focused on MCA or basilar artery occlusion intended for IVT alone (including those who received rescue MT for ENDi)","(1) Directly intended for additional MT; (2) isolated ICA occlusion (i.e., without MCA occlusion)",1076 total → 729 derivation + 347 validation,1076,"Not reported, adults",Not reported (mean age reported),,"  • Derivation 70 years, SD 15 years
+  • Validation 69 years, SD 15 years ",70,"  • Derivation 46.0% male (335/729)
+  • Validation 54.8% male (190/347)",0.4879,"  • derivation 3 (IQR 1–4) 
+  • validation 3 (IQR 2–4) ",,3,"Occlusion sites 
+  • derivation ICA 97 (13.3%), M1 207 (28.4%), M2 395 (54.2%), basilar 30 (4.1%)
+  • validation ICA 31 (8.9%), M1 60 (17.3%), M2 244 (70.3%), basilar 12 (3.5%)
+Patient history 
+  • hypertension: derivation 414 (57%) validation 228 (66%)
+  • diabetes: derivation 112 (15%) validation 59 (17%)
+  • current smoking: derivation 131 (18%) validation 60 (17%)
+  • antiplatelets: derivation 212 (29%) validation 120 (35%)
+Treatment after 2014, onset to IVT time, on site endovascular facility
+Pre IVT imaging (MRI, occlusion site, DWI ASPECTS, thrombus visible, thrombus length",NIHSS ≤5,5,"Univariable analysis
+  • more proximal occlusion → ICA-T/L 14% in ENDi vs 1.6% in no END, Tandem 19% in ENDi vs 9.2% in no END, M1 proximal 11% in ENDi vs 6.6% in no END, M1 distal 23% in ENDi vs 21% in no END, M2 24% in ENDi vs 58.1% in no END
+  • longer thrombus (median length with IQR, mm) → 11.5mm (8.8-14.8) in ENDi vs 8.3mm (5.8-11) in no END
+
+Multivariable Analysis 
+  • Model 1 (adjusted for sex, NIHSS, SBP, on site endovascular facility, occlusion site)
+→ more proximal occlusion (compared to M2 as reference → distal M1 aOR 2.6 (1.4-5.0), proximal M1 aOR 4.2 (1.8-9.4), tandem aOR 5.1 (2.6-10.3), ICA-T/L aOR 21.0 (8.2-54.2))
+  • Model 2 (adjusted for sex, NIHSS, SBP, on site endovascular facility, occlusion site and thrombus length)
+→ more proximal occlusion (compared to M2 as reference → distal M1 aOR 2.5 (1.2-5.1), proximal M1 aOR 5.2 (2.1-13.1), tandem aOR 4.5 (2.1-9.7), ICA-T/L aOR 16.0 (5.7-44.9))
+→ longer thrombus, compared tp <9mm, thrombus ≥9 mm had aOR 3.2, 95% CI 1.8–5.7, p=0.002
+
+Perfusion parameters (Tmax volume, HIR) not associated with ENDi (already in univariable analysis not associated)","Longer thrombus, More proximal occlusion, Thrombus>9mm","  • More proximal occlusion (vs M2 reference): 
+  • distal M1 aOR 2.6 (1.4–5.0), proximal M1 aOR 4.2 (1.8–9.4), tandem aOR 5.1 (2.6–10.3), ICA-T/L aOR 21.0 (8.2–54.2) in Model 1, adjusted for sex, NIHSS, SBP, on-site EVT facility, occlusion site
+  • distal M1 aOR 2.5 (1.2–5.1), proximal M1 aOR 5.2 (2.1–13.1), tandem aOR 4.5 (2.1–9.7), ICA-T/L aOR 16.0 (5.7–44.9) in Model 2, adjusted for sex, NIHSS, SBP, on-site EVT facility, occlusion site, thrombus length
+  •  Thrombus ≥9 mm: aOR 3.2 (95% CI 1.8–5.7, P=0.002) in Model 2, adjusted for sex, NIHSS, SBP, on-site EVT facility, occlusion site, thrombus length
+  • Of note, perfusion parameters (Tmax volume, HIR) not associated with END.","Longer thrombus, More proximal occlusion","  • More proximal occlusion: ICA-T/L 14% vs 1.6%, tandem 19% vs 9.2%, proximal M1 11% vs 6.6%, distal M1 23% vs 21%, M2 24% vs 58.1% (END vs no END)
+  • Longer thrombus: median 11.5 mm (IQR 8.8–14.8) in END vs 8.3 mm (5.8–11.0) in no END.","ENDi prediction score (0–4 pts) (derived from Model 2, because it had highest C statistic
+  • thrombus length ≥9 mm = 1 point
+  • occlusion site: M2 = 0, distal M1 = 1, proximal M1/tandem/basilar = 2, ICA-T/L = 3 points
+
+Probability of ENDi per incremental point of the score 
+  • <7% for scores of 0 or 1 (two-thirds of the overall sample
+  • > 18% for scores of 2 to 4
+  • 35% for scores of 3 or 4
+The C statistic of the score was 0.76 (95% CI, 0.70-0.82).
+
+To understand → c-statistic (short for concordance statistic) = measures discrimination of a model, how well a predictive model can distinguish between two groups (0.5: Random, 0.7–0.8: Good, 0.8–0.9: Excellent, 1.0: Perfect). If you plot the ROC Curve (Sensitivity vs. 1-Specificity), the C-statistic is the Area Under the Curve (AUC)",ENDi prediction score,"Age, sex, hypertension, diabetes, current smoking, antiplatelets, NIHSS, treatment era (before/after 2014), blood pressure (systolic and diastolic), onset-to-IVT time, on-site endovascular facility, imaging modality (MRI vs CT), hemisphere, occlusion site, DWI-ASPECTS, thrombus visibility, thrombus length, Tmax volumes (>6s, >8s, >10s), HIR","  • variable across centers → MRI (MRA, DWI) or CT (CTA) for LVO identification and thrombus assessment
+  • perfusion imaging (Tmax maps, HIR) available in a subset (186 pat.)","CT, MRI",Not specified,,,"Internal carotid artery [ICA], first [M1] or second [M2] segment of middle cerebral artery [MCA], basilar artery","BAS, ICA, MCA","M1, M2",Not specified,,,"NIHSS score increase ≥4 points
+without parenchymal hemorrhage (ECASS definition) 
+or with no identified alternative cause (eg, poststroke seizure)
+
+Differentiation 
+  • END = all END
+  • ENDi = neurological deterioration of presumed ischemic origin",4,Within first 24 hours after IVT,24,"ENDi
+  • Derivation 88 (12.1%; 95% CI, 9.714.4)
+  • Validation  38 (11.0%; 95% CI, 7.714.3)",0.121,"extension of symptomatic ischemic tissue (ie, infarct core and/or penumbra) into the surrounding asymptomatic tissue as a result of secondary hemodynamic, thrombotic, and/or metabolic events in the context of persistent LVO","Univariable analysis  
+  • ENDi more frequently men 57% in ENDi vs 44.5% in no END (p=0.03)
+
+Multivariable Analysis (Model 1 adjusted for sex, NIHSS, SBP, on site endovascular facility, occlusion site, and model 2 adjusted like model 1 + thrombus length)
+  • Model 1 → none
+  • Model 2 → none",none,"  • None",Male sex,"  • Male sex: 57% in END vs 44.5% in no END (P=0.03)","Yes, maximal medical therapy including IVT in all patients (inclusion criterion) ","Yes, 100% received IVT (alteplase), inclusion criterion",Yes,1,"Guideline based?
+only alteplase",No (patients directly intended for MT excluded),No,-,"Yes, 49/88 (56%) of ENDi 
+  • groin puncture median (IQR) delay of 95 (70-150) minutes following ENDi 
+  • successful reperfusion (mTICI grade of 2b to 3) in 40/49 (82%)",Yes,0.56,"ENDi, not further specified",ENDi,"3-months mRS score, excellent functional outcome = mRS <2
+  • ENDi significantly poorer 3-mo outcome than those without (common OR 7.37; 95% CI, 4.7911.35; P < .001)",-,"(1) ENDi affected ~12% of IVT-treated minor stroke + LVO patients, accounting for ~90% of all END
+(2) 3-month outcome following ENDi improved with rescue MT but remained poor overall
+(3) In multivariable analysis more proximal occlusion and longer thrombus independently associated with ENDi
+(4) The ENDi score had good discriminative power (C=0.76) and was externally validated (C=0.78)","  • ENDi score may help clinicians assess risk and select candidates for thrombectomy
+  • Bridging therapy compared with IVT alone may be beneficial only in patients with proximal LVO","  • Does not directly inform whether bridging therapy is superior to IVT alone (ie, those patients at higher risk of post-IVT ENDi)
+  • 262 patients with first-line bridging therapy were excluded (potential selection bias, though sensitivity analyses showed similar results)
+  • Pre-admission clinical fluctuations (spontanoeus or provoked - head up) could not be reliably collected retrospectively
+  • Thrombus length evaluated using 2 distinct imaging modalities (MRI and CT/CTA), though association with ENDi was similar across modalities","Seners, P.
+Ben Hassen, W.
+Lapergue, B.
+Arquizan, C.
+Heldner, M.R.
+Henon, H.
+Perrin, C.
+Strambo, D.
+Cottier, J.-P.
+Sablot, D.
+Girard Buttaz, I.
+Tamazyan, R.
+Preterre, C.
+Agius, P.
+Laksiri, N.
+Mechtouff, L.
+Béjot, Y.
+Duong, D.-L.
+Mounier-Vehier, F.
+Mione, G.
+Rosso, C.
+Lucas, L.
+Papassin, J.
+Aignatoaie, A.
+Triquenot, A.
+Carrera, E.
+Niclot, P.
+Obadia, A.
+Lyoubi, A.
+Garnier, P.
+Crainic, N.
+Wolff, V.
+Tracol, C.
+Philippeau, F.
+Lamy, C.
+Soize, S.
+Baron, J.-C.
+Turc, G.",yes,"Master Thesis - Predictors of END in LVO minor stroke ▸ references for writing, Master Thesis - Predictors of END in LVO minor str… screen ▸ included ▸ included for data extraction, Master Thesis - Predictors of END in LVO minor str…ll text screen ▸ all included for data extraction","  • Basilar artery included
+  • Tmax >4s not looked at (in comparison with Gwak, who did)
+  • outcomes not clearly stated ",https://doi.org/10.1001/jamaneurol.2020.4557,,,"Boulenoir et al., “Should Patients With Acute Minor Ischemic Stroke With Isolated Internal Carotid Artery Occlusion Be Thrombolysed?” (https://www.notion.so/Boulenoir-et-al-Should-Patients-With-Acute-Minor-Ischemic-Stroke-With-Isolated-Internal-Carotid-A-30ac5a45dadf81f6ac79e58a514eeb18?pvs=21)",Extracted,Seners_et_al._-_2021_-_Prediction_of_Early_Neurological_Deterioration_in_Individuals_with_Minor_Stroke_and_Large_Vessel_Occ.pdf,jamaneurology_seners_2021_Prediction_of_Early_Neurological_Deterioration_in_Individuals.pdf,"P. Seners, Neurology Department, Institut de Psychiatrie et Neurosciences de Paris, Université de Paris, Ghu Paris Psychiatrie et Neurosciences, Inserm U1266, Fhu Neurovasc, 1 rue Cabanis, Paris, France",,"Gwak et al., “Perfusion Profile Evaluated by Severity-Weighted Multiple Tmax Strata Predicts Early Neurological Deterioration in Minor Stroke with Large Vessel Occlusion.” (https://www.notion.so/Gwak-et-al-Perfusion-Profile-Evaluated-by-Severity-Weighted-Multiple-Tmax-Strata-Predicts-Early-N-30ac5a45dadf81678576cac825d42272?pvs=21)",Pending,,"February 19, 2026 3:59 PM (GMT+1)",1h 49m,"February 19, 2026 2:10 PM (GMT+1)",Prediction of Early Neurological Deterioration in Individuals with Minor Stroke and Large Vessel Occlusion Intended for Intravenous Thrombolysis Alone,Verified,2021,https://zotero.org/skizzolino/items/2EC3P6KK
+"Boulenoir et al., “Should Patients With Acute Minor Ischemic Stroke With Isolated Internal Carotid Artery Occlusion Be Thrombolysed?”",France (32 centers) and Switzerland (2 centers),"France, Switzerland","~14y (2006–2020, inclusion date varied among centers)","January 1, 2006","December 31, 2020",179,Observational retrospective comparative multicenter study,retrospective,multicenter,"To compare incidence and mechanisms of END in acute minor stroke with isolated ICA occlusion (iICAo) treated with IVT vs antithrombotics, testing the hypothesis that IVT may foster END via carotid thrombus fragmentation and subsequent distal embolism","(1) baseline NIHSS<6; 
+(2) baseline imaging performed within 4.5 hours from symptoms onset and showing iICAo, defined as cervical or intracranial internal carotid occlusion not involving the circle of Willis (ie, without T-shaped, L-shaped, or tandem occlusions) 
+(3) intended for medical treatment alone (IVT, antiplatelet agent, or anticoagulant)
+  • patients initially intended for medical treatment alone who eventually received rescue endovascular treatment because of END were included",patients immediately intended for endovascular treatment following admission,"189 (IVT=95, antithrombotics=94 [antiplatelets n=58, anticoagulants n=36])",189,"Not reported, adults",Not reported (mean age only),,65 ± 13 years,65,"52 (28%) female, 137 (72%) male",0.7249,"3 (IQR 1–4)
+IVT group 3 (IQR 2–4), antithrombotics 2 (IQR 1–3)",,3,"  • Onset-to-imaging: median 136 min (IQR 104–185)
+  • iICAo cause: atheroma 104 (55%), dissection 42 (22%), cardioembolic 20 (11%), other/undetermined 23 (12%)
+Calculated from table 2 (rounded)
+  • Comorbidities: hypertension 113/189 (60%), diabetes 32/189 (17%), smoking 65/189 (34%), previous stroke 22/189 (12%), previous coronary heart disease 24/189 (13%);
+  • Prestroke antiplatelets 67/189 (35%); Prestroke anticoagulant 8/189 (4%)
+  • Prestroke ICA occlusion 8/189 (4%)
+  • Prestroke mRS 0–1: 164/189 (87%); 
+  • iICAo site: bulbar 112/173 (65%), suprabulbar 61/173 (35%); 
+  • ASPECTS 9 (IQR 9–10); 
+  • Completeness of Willis circle: no communicating artery 30/187 (16%), one 83/187 (44%), two 74/187 (40%);  ",NIHSS <6,5,None,none,"  • None",none,"  • None",None,none,"Age, sex, history (hypertension, diabetes, current smoking, previous stroke, coronary heart disease, prestroke antiplatelets, prestroke anticoagulants, prestroke ICA occlusion, prestroke mRS scroe of 0-1), NIHSS, sBP, dBP, onset to imaging time, MRI, left occlusion side, iICAo site (bulbar/suprabulbar), completeness of Willis circle (0/1/2 communicating arteries), ASPECTS, stroke etiology (TOAST)",CTA or MRA for iICAo identification; follow-up vascular imaging for intracranial occlusion assessment. Variable across centers.,"CT, MRI",Not explicitly reported as percentage of screened population,,,"Isolated ICA occlusion (iICAo) = cervical or intracranial internal carotid occlusion not involving the circle of Willis (ie, without T-shaped, L-shaped, or tandem occlusions) ",ICA,,"Not explicitly reported as percentage of screened population
+iICAo site: bulbar 112/173 (65%), suprabulbar 61/173 (35%)",,,≥4 NIHSS points increase,4,"  • within 24 hours (END24h, primary outcome)
+  • within 7 days (END7d, secondary outcome)",24,"  • END24h: 24% (46/189)
+  • END7d: 32% (60/189) (includes END24h, 14 additional patients experienced END between 24 hours and 7 days)",0.24,"  • Thromboembolic (artery-to-artery embolism, if new intracranial occlusion ipsilateral to iICAo) in 27 (59%) of END24h and 62% of END7d
+  • Non-thromboembolic (hemodynamic, if no new intracranial occlusion) in 12 (26%) of END24h
+  • Other/undetermined (another definite acuse, eg epileptic seizure) or if no follow up vascular imaging in 7 patients of END24h
+  • Hemorrhagic END in none","END24h
+  • rate of END24h was 2-fold higher in the IVT as compared to the antithrombotics group (31 (33%) versus 15 (16%), adjusted HR 2.01, 95% CI 1.07–3.92, P=0.03); END24h occurred earlier in the IVT than the antithrombotics group (median imaging-toEND24h time: 2.4 hours (IQR, 1.8–7.3) versus 8.3 hours (IQR, 4.0–15.3), P=0.04)
+  • END24h less frequent in atheromatous cause (14%) vs cardioembolic (50%), dissection (31%), other/undetermined (35%), P<0.01
+
+END7d (NB it includes the END24h !!!)
+  • END7d occurred significantly earlier in the IVT group (median imaging-to-END24h time was 2.6 hours (IQR, 1.9–10.1) versus 20.4 hours (IQR, 7.8–34.4), P<0.01)
+  • after 24 hours the majority of new ENDs occurred in the non-IVT group
+  • no difference between the groups regarding rate of END, severity, presumed cause
+
+NB → associations between treatment group and time to END24h or END7d (when will END occur, Cox regression) assessed and not directly with END24h and END7d (if END will occur - yes/no, binary, would have required logistic regression)
+Note → all models adjusted on baseline NIHSS and onset-to-imaging time (the only 2 significantly different between the groups (IVT vs antithrombotics) in univariable analysis)","IVT, Non-atheromatous etiology","END24h 
+  • IVT: aHR 2.01 (95% CI 1.07–3.92, P=0.03), adjusted for baseline NIHSS and onset-to-imaging time. END24h occurred earlier in IVT group (median imaging-to-END24h: 2.4h IQR 1.8–7.3 vs 8.3h IQR 4.0–15.3, P=0.04)
+  • Non-atheromatous etiology: END24h less frequent in atheromatous cause (14%) vs cardioembolic (50%), dissection (31%), other/undetermined (35%), P<0.01
+
+NB → the study assessed time-to-END (when will END occur), not END occurrence (if END will occur)",none,"  • None","Yes, with IVT when indicated (antithrombotics group: antiplatelets n=58, anticoagulants n=36, 13/36 anticoagulated patients also received aspirin)",Yes (95/189 = 50%),Yes,0.5,"Guideline based? IVT withheld in 20/94 (21%) of non-IVT group due to contraindication, the rest based on clinical judgment.",No (patients immediately intended for EVT were excluded),No,-,"Yes (25/46 END24h patients, 6 extra beyond 24h ⇒ 31 total for END7d)",Yes,0.54,Clinical worsening (END),"END24h
+  • 24% (46/189)
+  • IVT 33% vs antithrombotics 16% (adjusted HR 2.01, 95% CI 1.07–3.92, P=0.03)
+  • Median NIHSS increase during END24h: 11 (IQR 8–15)
+  • Median imaging-to-END24h: 3h (IQR 2–10); IVT 2.4h vs antithrombotics 8.3h (P=0.04).","END7d
+  • 32% (60/189)
+  • IVT 37% vs antithrombotics 28% (adjusted HR 1.29, 95% CI 0.75–2.23, P=0.37, NS)
+  • Median imaging-to-END7d: IVT 2.6h (IQR 1.9–10.1) vs antithrombotics 20.4h (IQR 7.8–34.4), P<0.01","3-Month Functional Outcome (mRS)
+  • excellent functional outcome = 3-month mRS score of 0 to 1 or back to baseline mRS → 56% overall; IVT 52% vs antithrombotics 59% (adjusted OR 1.1, 95% CI 0.6–2.2, P=0.71)
+  • good functional outcome = 3-month mRS score of 0 to 2 or back to baseline mRS → 72% overall; IVT 68% vs antithrombotics 75% (adjusted OR 1.0, 95% CI 0.5–2.1, P=0.92).
+No hemorrhagic END observed in either group.","(1) END was frequent (1 in 4 in the first 24h, 1 in 3 within the first week), predominantly in case of nonatheromatous cause, was generally severe and was strongly associated with poor 3-month outcome; 
+(2) END was of thromboembolic origin in two-thirds of the cases; 
+(3) the rate of END within the first 24 hours was 2-fold higher following IVT (33% vs 16%, adjusted HR 2.01, P=0.03), driven by higher odds of thromboembolic END;
+(4) however, the rate of END occurring within 7 days did not significantly differ between the 2 treatment groups  (37% vs 28%, P=0.37), and 3-month outcome was similar.
+Rescue EVT improved outcomes in END patients.","  • IVT may speed up distal intracranial embolism from ICA thrombus fragmentation in minor stroke with iICAo, leading to earlier but not more frequent END. 
+  • Benefit/risk ratio of IVT may not favor its use in nondisabling symptoms.
+  • Close monitoring in endovascular-capable center warranted regardless of treatment. 
+  • Other therapeutic options to consider: early post-IVT antiplatelet, anticoagulation, direct EVT","  • Observational study, confounding by indication possible (IVT patients had higher NIHSS, earlier admission)
+  • Moderate sample size constraining statistical analysis
+  • Large inclusion period (2006–2020) with potential clinical management changes
+  • Variable antithrombotic regimens in non-IVT group
+  • No direct EVT comparison group
+  • Cannot generalize to more severe iICAo presentations.","Boulenoir, N.
+Turc, G.
+Schiphorst, A.T.
+Heldner, M.R.
+Strambo, D.
+Laksiri, N.
+Buttaz, I.G.
+Papassin, J.
+Sibon, I.
+Chausson, N.
+Michel, P.
+Rosso, C.
+Bourdain, F.
+Lamy, C.
+Weisenburger-Lile, D.
+Agius, P.
+Yger, M.
+Obadia, M.
+Sablot, D.
+Legris, N.
+Jung, S.
+Pilgram-Pastor, S.
+Henon, H.
+Bernardaud, L.
+Arquizan, C.
+Baron, J.-C.
+Seners, P.
+Ben Hassen, W.
+Lapergue, B.
+Lucas, L.
+Leys, D.
+Philippeau, F.
+Bennani, O.
+Mechtouff, L.
+Klapczynski, F.
+Detante, O.
+Costalat, V.
+Mione, G.
+Gazzola, S.
+Debiais, S.
+Cakmak, S.
+Grigoras, V.
+Denier, C.
+Smadja, D.
+Mounier-Vehier, F.
+Peres, R.
+Spelle, L.
+Bricout, N.
+Bracard, S.
+Triquenot, A.
+Lyoubi, A.
+Cottier, J.-P.
+Duong, D.-L.
+Ollivier, C.",yes,"Master Thesis - Predictors of END in LVO minor str… screen ▸ included ▸ included for data extraction, Master Thesis - Predictors of END in LVO minor str…ll text screen ▸ all included for data extraction","  • NB → associations between treatment group and time to END24h or END7d (when will END occur, Cox regression) assessed and not directly with END24h and END7d (if END will occur - yes/no, binary, would have required logistic regression)
+  • 16 centers retrieved IVT patients only (potential selection bias)",https://doi.org/10.1161/STROKEAHA.122.039228,,,"He et al., “The Length of Susceptibility Vessel Sign Predicts Early Neurological Deterioration in Minor Acute Ischemic Stroke with Large Vessel Occlusion.” (https://www.notion.so/He-et-al-The-Length-of-Susceptibility-Vessel-Sign-Predicts-Early-Neurological-Deterioration-in-Mi-30ac5a45dadf8133aae1f33cff5903a1?pvs=21)",Extracted,Boulenoir_et_al._-_2022_-_Should_Patients_With_Acute_Minor_Ischemic_Stroke_With_Isolated_Internal_Carotid_Artery_Occlusion_Be.pdf,boulenoir-et-al-2022-should-patients-with-acute-minor-ischemic-stroke-with-isolated-internal-carotid-artery-occlusion.pdf,"P. Seners, Hôpital Fondation A. de Rothschild, 21, rue Manin, Paris, France",,"Seners et al., “Prediction of Early Neurological Deterioration in Individuals with Minor Stroke and Large Vessel Occlusion Intended for Intravenous Thrombolysis Alone.” (https://www.notion.so/Seners-et-al-Prediction-of-Early-Neurological-Deterioration-in-Individuals-with-Minor-Stroke-and--30ac5a45dadf8155b6e3d96653b49e5e?pvs=21)",Pending,,"February 19, 2026 6:27 PM (GMT+1)",2h 11m,"February 19, 2026 4:16 PM (GMT+1)",Should Patients With Acute Minor Ischemic Stroke With Isolated Internal Carotid Artery Occlusion Be Thrombolysed?,Verified,2022,https://zotero.org/skizzolino/items/RT38LUQI
+"He et al., “The Length of Susceptibility Vessel Sign Predicts Early Neurological Deterioration in Minor Acute Ischemic Stroke with Large Vessel Occlusion.”",China,China,6y 4mo (May 2014 to September 2020),"May 1, 2014","September 30, 2020",76,Multicenter prospective cohort study (3 centers),retrospective,multicenter,"To evaluate the frequency and potential predictors of END in medically managed patients with LVO presenting with minor AIS, and to investigate the relationship between SVS length and END","(1) Age ≥18 years; (2) first-ever AIS within 24h; (3) NIHSS ≤4; (4) ischemic lesions consistent with presentation; (5) acute anterior circulation LVO (intracranial ICA, MCA M1/M2, or tandem) on CTA or MRA; (6) received standard therapy (antiplatelets, statins, BP control, or IVT)",(1) Ongoing infection at admission; (2) history of previous stroke; (3) Moyamoya; (4) EVT prior to END; (5) cerebral hemorrhage or hypoxia (arterial oxyhemoglobin saturation < 90%); (6) contraindications for MRI,"134 (from 174 enrolled → 40 excluded: 2 infection, 17 previous stroke, 1 Moyamoya, 3 cerebral hemorrhage, 11 MRI contraindications, 6 transferred for EVT)",134,≥ 18 years,Not reported (mean reported),,67.01 ± 10.15 years,67.01,50% male (67/134),0.5,2 (IQR 1–3),,2,"  • Hypertension 82.8% (111/134)
+  • diabetes 38.1% (51/134)
+  • hyperlipidemia 67.2% (90/134)
+  • current smoking 17.9% (24/134)
+  • current alcohol 24.6% (33/134)
+  • Occlusion sites: intracranial ICA 25.37% (34), MCA M1 48.51% (65), MCA M2 26.12% (35)
+  • Medications (antiplatelet, antihypertensive, lipid lowering), thrombolytic therapy family history of stroke",NIHSS ≤4,4,"Univariable analysis:
+  • longer SVS (median 10.68 [IQR 9.70–13.25] in END vs 9.13 [7.73–10.41] in no END, p<0.001)
+  • SVS ≥9.45 mm (77.78% in END vs 43.93% in no END, OR 4.47, 95% CI 1.67–11.96, p=0.002)
+
+Multivariate logistic regression
+  • Model 1 (adjustment for SVS value (continuous), baseline glucose, hypertension, current smoking, cardiac embolism, undetermined stroke)
+→ longer SVS aOR 2.03 (95% CI 1.45–2.84, p<0.001)
+  • Model 2 (adjustment for SVS ≥ 9.45 mm (dichotomized), baseline glucose, hypertension, current smoking, cardiac embolism, undetermined stroke)
+→ SVS ≥9.45 mm aOR 5.41 (95% CI 1.00–29.27, p=0.001)
+
+Receiver operating characteristic (ROC) curve analysis was used to evaluate sensitivity, specificity and to determine the optimal cutoff point of length of SVS for END.
+ROC AUC for SVS: 0.74 (95% CI 0.63–0.84). Cutoff ≥9.45 mm: sensitivity 77.78%, specificity 56.07%, PPV 30.89%, NPV 90.91%","Longer SVS, SVS ≥9.45 mm","  • Longer SVS: aOR 2.03 (95% CI 1.45–2.84, p<0.001); Model 1, adjusted for SVS value (continuous), baseline glucose, hypertension, current smoking, cardiac embolism, undetermined stroke)
+  • SVS ≥9.45 mm: aOR 5.41 (95% CI 1.00–29.27, p=0.001); Model 2, adjusted for SVS ≥ 9.45 mm (dichotomized), baseline glucose, hypertension, current smoking, cardiac embolism, undetermined stroke)","Longer SVS, SVS ≥9.45 mm","  • Longer SVS: median 10.68 mm (IQR 9.70–13.25) in END vs 9.13 (7.73–10.41) in no END (P<0.001)
+  • SVS ≥9.45 mm: 77.78% in END vs 43.93% in no END, OR 4.47 (95% CI 1.67–11.96, P=0.002)
+  • ROC AUC for SVS: 0.74 (95% CI 0.63–0.84). Cutoff ≥9.45 mm: sensitivity 77.78%, specificity 56.07%, PPV 30.89%, NPV 90.91%",None,none,"SVS length (continuous and categorical ≥9.45 mm), baseline glucose, age, sex, BMI, hypertension, diabetes, hyperlipidemia, current smoking, current alcohol, family history of stroke, thrombolytic therapy, occlusion site, TOAST classification, DWI-ASPECTS, medication use (antiplatelet, antihypertensive, lipid-lowering), time from onset to MRI","  • CT or DWI (MRI) for AIS cofnirmation
+  • CTA or MRA for LVO confirmation
+  • MRI 1.5T (Siemens) with GRE T2* sequence for SVS","CT, MRI",Not mentioned,,,"LVO in the anterior circulation = occlusion of the intracranial internal carotid artery, proximal segment of the middle cerebral artery [M1 or M2 trunk], or tandem occlusion","ICA, MCA","M1, M2","Not mentioned
+Among enrolled: ICA 25.37%, MCA M1 48.51%, MCA M2 26.12%",,,"NIHSS increase ≥4 attributed to underlying LVO
+excluding hemorrhagic transformation or medical complications",4,Within 24 hours,24,20.15% (27/134),0.201500000000,"  • symptomatic ischemic tissue (i.e. infarct core and/or penumbra) extends into the surrounding asymptomatic tissue through secondary hemodynamic and metabolic disorders","Univariable analysis: 
+  • higher baseline glucose (156.88 ± 43.67 in END vs 128.75 ± 39.95 mg/dL in no END, p<0.001)
+
+Multivariate logistic regression
+  • Model 1 (adjustment for SVS value (continuous), baseline glucose, hypertension, current smoking, cardiac embolism, undetermined stroke)
+→ higher baseline glucose aOR 1.02 (95% CI 1.01–1.03, p=0.009)
+  • Model 2 (adjustment for SVS ≥ 9.45 mm (dichotomized), baseline glucose, hypertension, current smoking, cardiac embolism, undetermined stroke)
+→ higher baseline glucose aOR 1.01 (95% CI 1.00–1.03, p=0.021)
+
+No significant differences in age, sex, hypertension, diabetes, smoking, medication use, or occlusion site",Higher baseline glucose,"Higher baseline glucose:
+• aOR 1.02 (95% CI 1.01–1.03, P=0.009) in Model 1 (adjusted for SVS as continuous value, glucose, hypertension, smoking, cardiac embolism, undetermined stroke)
+• aOR 1.01 (95% CI 1.00–1.03, P=0.021) in Model 2 (adjusted for SVS ≥9.45 mm dichotomized, glucose, hypertension, smoking, cardiac embolism, undetermined stroke)",Higher baseline glucose,"  • Higher baseline glucose: 156.88 ± 43.67 mg/dL in END vs 128.75 ± 39.95 mg/dL in no END (P<0.001)","Yes, maximal medical therapy, including IVT when indicated (antiplatelet use ~26%, antihypertensive ~55%, lipid-lowering ~50%)","Yes, 26.12% (35/134) received IVT",Yes,0.2612,Standard criteria (not further detailed in study),No (EVT prior to END = exclusion criterion),No,-,No,No,0,-,END,None explicitly defined,-,"  • END occurred in 20.15% (27/134) of minor stroke patients with LVO under maximal medical management
+  • Longer SVS and higher baseline glucose independently predicted END
+  • Optimal length of SVS for predicting END was SVS ≥ 9.45 mm, SVS ≥9.45 mm was a powerful independent predictor (aOR 5.41, 95% CI 1.00–29.27)
+  • No difference in occlusion site between END and no END groups
+  • “Only emboli containing deoxyhemoglobin or hemosiderin can be identified as SVS. In other words, SVS is a predictor of older thrombosis. Longer SVS represent a higher clot burden”","  • SVS length may have value in risk stratification of minor stroke with LVO
+  • Patients with long SVS (≥9.45 mm) seem to have high risk of END and may benefit from EVT
+  • Further clinical trials are needed to demonstrate benefit of immediate EVT in this population","  • Stroke volume data not available
+  • Perfusion images not analyzed, which may influence results
+  • SVS detected using MRI, requiring longer time than CT and not available for all stroke patients","He, L.
+Wang, J.
+Wang, F.
+Zhang, L.
+Zhang, L.
+Zhao, W.
+Weng, X.
+Xu, F.",yes,"Master Thesis - Predictors of END in LVO minor str… screen ▸ included ▸ included for data extraction, Master Thesis - Predictors of END in LVO minor str…ll text screen ▸ all included for data extraction","  • END “within 24h” but not specified if from symptom onset or admission
+  • they say “Univariable models” but they don’t really use models, as in regression
+  • higher baseline glucose, but it is not that high (I wouldn’t use insulin at 150 mg/dL; also, no difference in diabetes, percentage wise actually a bit more in the no END group (39.25% in no END vs 33.33% in END)
+  • no Youden’s J statistic (= Sensitivity + Specificity - 1), as in other papers
+  • no outcome at 3 months (or at any point actually) discussed
+  • no rescue EVT",https://doi.org/10.1186/s12883-021-02455-7,,,"Heitkamp et al., “Thrombectomy Patients with Minor Stroke: Factors of Early Neurological Deterioration.” (https://www.notion.so/Heitkamp-et-al-Thrombectomy-Patients-with-Minor-Stroke-Factors-of-Early-Neurological-Deteriorati-30dc5a45dadf8128ae96ec753e687bfa?pvs=21)",Extracted,He_et_al._-_2021_-_The_length_of_susceptibility_vessel_sign_predicts_early_neurological_deterioration_in_minor_acute_is.pdf,The_length_of_susceptibility_vessel_sign.pdf,"[""X. Weng, Beijing Institute of Basic Medical Sciences, Beijing, China"", ""F. Xu, School of Public Health Chengdu Medical College, Chengdu, Sichuan, China""]",,"Boulenoir et al., “Should Patients With Acute Minor Ischemic Stroke With Isolated Internal Carotid Artery Occlusion Be Thrombolysed?” (https://www.notion.so/Boulenoir-et-al-Should-Patients-With-Acute-Minor-Ischemic-Stroke-With-Isolated-Internal-Carotid-A-30ac5a45dadf81f6ac79e58a514eeb18?pvs=21)",Pending,,"February 19, 2026 8:17 PM (GMT+1)",1h 9m,"February 19, 2026 7:08 PM (GMT+1)",The length of susceptibility vessel sign predicts early neurological deterioration in minor acute ischemic stroke with large vessel occlusion,Verified,2021,https://zotero.org/skizzolino/items/AYPJVHC3
+"Saleem et al., “Acute Neurological Deterioration in Large Vessel Occlusions and Mild Symptoms Managed Medically.”",USA,USA,4y (January 2014 to December 2017),"January 1, 2014","December 31, 2017",47,Single-center retrospective analysis (Get With The Guidelines–Stroke database),retrospective,single-center,"to evaluate frequency, timing, and potential predictors of acute neurological deterioration ≥4 NIHSS points in medically managed LVO patients with mild symptoms on presentation","AIS, NIHSS ≤5, LVO on CTA or MRA (including occlusion on outside hospital CTA), formal decision for medical management","premorbid mRS >2, vessel imaging >24h from last known normal, upfront thrombectomy, carotid revascularization during hospitalization, inadequate quality vessel imaging, known chronic occlusions, multiple LVOs, non-thrombotic/embolic etiologies (Moyamoya, vasculitis)",122 (from 1133 minor strokes),122,"Not reported, adults",Not reported (mean only),,"~62 ± 13 years (calculated from subgroups: 61 ± 13.1 in deterioration ≥4, 64.3 ± 10.1 in deterioration 1–3, 61.8 ± 13 in no deterioration)",62,"73/122 (59.8%) male
+49/122 (40.2%) female
+(calculated from subgroups)",0.5984,3 (IQR 1–4),,3,"  • Median ASPECTS: 10 (IQR 9–10)
+  • Median LKN to arrival in tertiary center: 5 (IQR 3–9) hours
+  • Median deterioration: 4 points (IQR 4–7)
+  • Imaging: 82% underwent CTA, 12% MRA; 83% within 4h of arrival
+
+Calculated from table 1
+  • Comorbidities: HTN ~85%, DM ~28%, CAD ~9%, AFib ~18%, history of TIA/stroke ~23%, smoker ~33%
+  • Antiplatelets: 32/122 (26.2%)
+  • Anticoagulation: 10/122 (8.2%)
+  • Statin: 33/122 (27.0%)
+  • Glucose (median, IQR), mg/dL: ≥4 deterioration 122 (106–152); 1–3 deterioration 118.5 (103–128); no deterioration 111.5 (98–139)
+  • Wake-up stroke: 31/122 (25.4%)
+  • Transfer patient: 73/122 (59.8%)
+  • Occlusion sites: Basilar 7 (5.7%), cervical ICA 15 (12.3%), intracranial ICA 14 (11.5%), MCA M1 37 (30.3%), MCA M2 31 (25.4%), MCA M3 12 (9.8%), ACA 3 (2.5%), PCA 3 (2.5%)
+  • Initial SBP: 159.5 ± 29.7 mmHg (no deterioration), 158.5 ± 28.1 (≥4 deterioration)
+  • CT perfusion (n=49): Tmax>6s median 50.5 ml (no deterioration) vs 67.9 ml (≥4 deterioration), not significant (P=0.69)
+  • TOAST: Cardioembolic 27 (22.1%), ECD 30 (24.6%), cryptogenic 30 (24.6%), ICAD 35 (28.7%)",NIHSS ≤5,5,"Univariable analysis → none
+
+Multivariable binary logistic regression (variables included at P<0.10 from univariate) → none
+
+CT perfusion (available in n=49): Tmax>6s 67.9 vs 50.5 ml (P=0.69) for ≥4 deterioration vs no deterioration, Tmax>10s 12.6 vs 6.7 ml (P=0.55), CBF<30% 0 vs 0 ml (P=0.94), none significant
+Occlusion site: not significant (P=0.54)
+
+Subgroup analysis restricted to proximal occlusions (intracranial ICA, MCA M1/M2, basilar) also failed to identify predictors",none,"  • None",none,"  • None",None tested,none,"Age, sex, HTN, DM, CAD, TIA/stroke history, AFib, smoking, antiplatelets, anticoagulation, statin, initial SBP, glucose, dehydration (BUN/Cr ≥20), ejection fraction, wake-up stroke, transfer status, LKN to hospital time, baseline NIHSS, baseline mRS, heads-up worsening, IV r-tPA, ASPECTS, CT perfusion (CBF <30%, Tmax>6s, Tmax>10s), occlusion site, TOAST etiology","CTA (82%) or MRA (12%)
+NCCT with ASPECTS
+CT perfusion (RAPID software) in n=49","CT, MRI","Not reported, only minor stroke selected",,,"Cervical ICA and/or intracranial ICA, MCA M1, M2, M3, ACA A1, A2, A3, basilar, PCA P1 and P2 → arterial occlusive lesion scale 0 (complete) or 1 (incomplete occlusion)","ACA, BAS, ICA, MCA, PCA","A1, A2, A3, M1, M2, M3, P1, P2","122/1133 (10.8%) of minor strokes had LVO
+Among enrolled: MCA M1 30.3%, MCA M2 25.4%, cervical ICA 12.3%, intracranial ICA 11.5%, MCA M3 9.8%, basilar 5.7%, ACA 2.5%, PCA 2.5%",,0.108000000000,NIHSS increase ≥4 points attributed to the underlying LVO (excluding hemorrhagic transformation or medical complications),4,During hospitalization,,"19.7% (24/122) for ≥4 NIHSS deterioration
+13.1% (16/122) for any worsening (Deterioration 1–3 NIHSS Points)",0.197000000000,Robustness of leptomeningeal collaterals = key determinant of neurological oscillation,"Univariable analysis → none
+Univariate trends (not significant):
+- Coronary artery disease (25% vs 8.5%, P=0.07 for ≥4 deterioration vs no deterioration)
+- Glucose (122 vs 111.5 mg/dL, P=0.09)
+- Positive heads-up maneuver (50% vs 0%, P=0.07)
+
+Multivariable binary logistic regression (variables included at P<0.10 from univariate) → none
+
+No differences in age, sex, HTN, DM, AFib, smoking, SBP, IVT, baseline NIHSS, ASPECTS",none,"  • None",none,"  • None","Yes, maximal medical therapy, with IVT when indicated","Yes, 31/122 (25.4%)",Yes,0.254,"Guidelines based, not further detailed in study",No (upfront thrombectomy excluded),No,-,"Yes, 13/24 (54.2%) of those with ≥4 NIHSS deterioration, 19/40 (47.5%) of patients with any deterioration; ",Yes,0.542,"Neurological instability (spontaneous or triggered by heads-up maneuver), CT perfusion findings of significant perfusion delay, decision made after discussion with patient/family","END (Acute neurological deterioration ≥4 NIHSS points attributable to LVO during hospitalization) → 19.7% (24/122)
+Median time from arrival to deterioration: 3.6 (IQR 1–16) hours","  • ΔNIHSS (discharge minus admission NIHSS): 0 (IQR −2 to 6) in ≥4 points deterioration vs −1 (IQR −3 to 0) in no deterioration (P=0.17)
+  • Discharge NIHSS (NIHSS score at day 5 or 7 or discharge if happened earlier): 2 (IQR 0–9) in ≥4 points deterioration vs 1 (IQR 0–3) in no deterioration (P=0.21)
+  • Discharge mRS 0–2: 50% in ≥4 points deterioration vs 70.7% in no deterioration (P=0.06)
+  • discharge disposition (home / AR=acute rehab, SNF=skilled nursing facility), home 58.3% in ≥4 points deterioration vs 76.8% in no deterioration
+  • Frequency of parenchymal hematomas  1/24 (4.2%) in ≥4 deterioration vs 3/82 (3.7%) in no deterioration",Mortality (mRS 6): 1/24 (4.2%) in ≥4 deterioration vs 1/82 (1.2%) in no deterioration,"  • END ≥4 NIHSS in 19.7% (24/122), END≥1 (any worsening) in 32.8% (40/122)
+  • No clinical or radiological predictors identified (on uni- nor on multivariable analysis)
+  • Deterioration occurred very early: median 3.6h from arrival for ≥4 points increase; most within 4h
+  • END ≥4 associated with worse lower functional independence (50% vs 70.7%, P=0.06)
+  • Rescue EVT improved outcomes: independence 73% vs 38% (P=0.02) (numbers in supplement)","  • Challenging to predict which mild LVO patients will deteriorate
+  • Deterioration occurs very early → need for close monitoring
+  • Rescue EVT may lead to better clinical outcomes after END
+  • Despite rescue EVT benefit, functional outcomes of END patients remain worse than non-deteriorating patients → supports need for RCT evaluating upfront thrombectomy
+  • Positive heads-up maneuver may indicate poor collaterals but needs validation","  • Retrospective, single-center, limited sample size
+  • Low number of deterioration events → low power to detect predictors
+  • Up to 40% of scans >24h from onset (major reason for exclusion)
+  • Included distal occlusions (14.8% M3, PCA, ACA) → may underestimate worsening risk (because distal less likely to worsen)
+  • Possible unmeasured biases in rescue EVT patient selection
+  • No 90-day functional outcomes","Saleem, Y.
+Nogueira, R.G.
+Rodrigues, G.M.
+Kim, S.
+Sharashidze, V.
+Frankel, M.
+Al-Bayati, A.
+Bianchi, N.
+Haussen, D.C.",yes,"Master Thesis - Predictors of END in LVO minor stroke ▸ selected for full text screen, Master Thesis - Predictors of END in LVO minor str… screen ▸ included ▸ included for data extraction, Master Thesis - Predictors of END in LVO minor str…ll text screen ▸ all included for data extraction","  • includes posterior circulation, plus includes all the way up to M3, A3, P2",https://doi.org/10.1161/STROKEAHA.119.027011,,,"Shi et al., “Association of Blood Pressure Parameters on Early Neurological Deterioration in Patients with Mild Stroke and Large Vessel Occlusion Following Medical Management.” (https://www.notion.so/Shi-et-al-Association-of-Blood-Pressure-Parameters-on-Early-Neurological-Deterioration-in-Patient-30dc5a45dadf8135a956d0db86f295cc?pvs=21)",Extracted,Saleem_et_al._-_2020_-_Acute_Neurological_Deterioration_in_Large_Vessel_Occlusions_and_Mild_Symptoms_Managed_Medically.pdf,saleem-et-al-2020-acute-neurological-deterioration-in-large-vessel-occlusions-and-mild-symptoms-managed-medically.pdf,"D.C. Haussen, 80 Jesse Hill Jr Dr SE, Box 036, Atlanta, GA, United States",,"Min et al., “Acute Insular Infarction: Early Outcomes of Minor Stroke with Proximal Artery Occlusion.” (https://www.notion.so/Min-et-al-Acute-Insular-Infarction-Early-Outcomes-of-Minor-Stroke-with-Proximal-Artery-Occlusion-30ac5a45dadf8147b946d87f19f5d1f9?pvs=21)",Pending,,"February 20, 2026 6:30 PM (GMT+1)",1h 7m,"February 20, 2026 5:23 PM (GMT+1)",Acute Neurological Deterioration in Large Vessel Occlusions and Mild Symptoms Managed Medically,Verified,2020,https://zotero.org/skizzolino/items/YCGF7GEH
+"Shi et al., “Association of Blood Pressure Parameters on Early Neurological Deterioration in Patients with Mild Stroke and Large Vessel Occlusion Following Medical Management.”",China,China,5y (January 2019 to December 2023),"January 1, 2019","December 31, 2023",59,Retrospective analysis from a prospective single-center database,retrospective,single-center,"to investigate the association between BP parameters-including admission systolic BP (SBP), diastolic BP (DBP), mean arterial pressure (MAP), and 24-h SBP variability-and early neurological deterioration of ischemic origin (ENDi) in patients with mild stroke and LVO undergoing best medical management (BMM)","AIS with LVO, NIHSS <6, last known normal time ≤24h",(1) Multi-vessel occlusion (n=9); (2) pre-existing vessel occlusion (n=12); (3) primary thrombectomy (n=46); (4) ENDi from non-ischemic causes (n=17); (5) incomplete data (n=14),347 (from 445 pat. with acute LVO and NIHSS<6 screened),347,"Not reported, adults",Not reported (mean only),,66.9 ± 11.2 years,66.9,"234 (67.4%) male
+113 (32.6%) female",0.6744,2 (IQR 1–4),,2,"Occlusion sites: M2 MCA 74 (21.3%), M1 MCA 117 (33.7%), ICA 101 (29.1%), vertebrobasilar 55 (15.9%)
+192 (55.3%) primary conservative therapy, 155 (44.7%) received IVT
+
+Calculated from table 1
+Comorbidities: hypertension 62–64%, DM ~15–19%, CHD ~10–12%, AFib ~14–15%, previous stroke ~11–17%
+Median admission glucose: 6.8 (IQR 6.2–9.0) mmol/L in no ENDi vs 6.5 (6.1–8.6) in ENDi
+Admission SBP: 131 (IQR 118–149) in no ENDi vs 158 (141–169) in ENDi
+SBP variability: 14 (IQR 6–23) in no ENDi vs 32 (22–39) in ENDi
+Median ASPECTS: 10 (IQR 10–10)
+Tmax volumes >4s, >6s, >8s, core infarct volume",NIHSS <6,5,"Univariable analysis
+  • higher Tmax>6s volumes (63ml ENDi vs. 40 ml no END, P < 0.001)
+
+Multivariate logistic regression (inclusion if P<0.10 in univariate) → ENDi independently associated with 
+  • Tmax>6s volume highest quartile (aOR 2.09, 95% CI 1.28–5.89, P=0.001)
+  • Vertebrobasilar occlusion (aOR 3.19, 95% CI 1.76–6.74, P<0.001)
+
+Tmax>4s and Tmax>8s volumes not significantly associated with ENDi
+DBP and MAP not significant
+
+Note: Admission SBP, SBP variability, and Tmax > 6 s volumes were categorized into quartiles, with the first quartile serving as the reference group (for multivariate analysis)",Tmax>6s volume - highest quartile,"  • Tmax>6s volume highest quartile: aOR 2.09 (95% CI 1.28–5.89, P=0.001); Tmax>6s volumes categorized into quartiles with first quartile as reference.",Higher Tmax>6s volume,"  • Higher Tmax>6s volume: 63 mL in ENDi vs 40 mL in no END (P<0.001)",None,none,"Age, sex, symptoms (stable/progressive/fluctuating/improving), hypertension, diabetes mellitus, coronary heart disease, atrial fibrillation, previous stroke, admission blood glucose, onset-to-imaging time, admission SBP, DBP, MAP, 24-h SBP variability, baseline NIHSS, IVT, ASPECTS, occlusion site (M2 MCA, M1 MCA, ICA, vertebrobasilar), Tmax>4s volume, Tmax>6s volume, Tmax>8s volume, core infarct volume","One-stop CT approach: NCCT (with ASPECTS) + CTA (for LVO) + CTP (Tmax volumes, core infarct volume)
+No DWI",CT,Not reported (initial screened population n=445 already selected for NIHSS <6 and LVO),,,"Occlusion or tandem occlusion of internal carotid artery (ICA), middle cerebral artery (M1 MCA, M2 MCA), vertebral artery (VA), basilar artery (BA), or VA plus BA","BAS, ICA, MCA, VA","M1, M2","Not reported (all had LVO)
+Among enrolled: M2 MCA 21.3%, M1 MCA 33.7%, ICA 29.1%, vertebrobasilar 15.9%",,,"NIHSS score increase ≥4 points
+excluding hemorrhage or other causes (e.g. poststroke seizure) 
+(ENDi → early neurological deterioration of ischemic origin)",4,Within 24 hours,24,12.1% (42/347),0.121,"  • Progression from ischemic tissue to infarct core due to persistent vessel occlusion
+  • Extreme BP elevations indicates insufficient collateral circulation flow (well-developed collaterals → moderate BP elevation; poor collaterals → extreme BP elevation)
+  • BP variability ⇒ compromised autoregulation ⇒ exacerbation of cerebral hypoperfuison ⇒ expansion of ischemic lesions
+(Posterior circulation: progressive thrombus burden affecting critical brainstem perforators)","Univariable analysis
+  • higher admission SBP (158 ENDi vs. 131 mmHg no END, P < 0.001)
+  • higher SBP variability (32 ENDi vs. 14 mmHg no END, P < 0.001), and Tmax > 6 s volumes (63 ENDi  vs. 40 ml no END, P < 0.001)
+
+Multivariate logistic regression (inclusion if P<0.10 in univariate) → ENDi independently associated with 
+  • highest quartile of admission SBP (aOR 2.47, 95% CI 1.47–4.29, P<0.001)
+  • highest quartile of 24-h SBP variability (aOR 2.57, 95% CI 1.34–5.18, P<0.001)
+
+ROC analysis → best cutoffs to predict ENDi:
+  • Admission SBP → cutoff 150 mmHg: AUC 0.822 (95% CI 0.749–0.895), sensitivity 73.8%, specificity 79.0%, PPV 32.6%, NPV 95.6%
+  • SBP variability → cutoff 24 mmHg: AUC 0.718 (95% CI 0.624–0.811), sensitivity 73.8%, specificity 62.9%, PPV 21.5%, NPV 94.6%
+  • Combined SBP + SBP variability: AUC 0.848 (95% CI 0.775–0.922), sensitivity 85.7%, specificity 87.2%, PPV 47.2%, NPV 98.8%
+
+No significant differences in age, sex, comorbidities, baseline glucose, or baseline NIHSS
+
+Note: Admission SBP, SBP variability, and Tmax > 6 s volumes were categorized into quartiles, with the first quartile serving as the reference group (for multivariate analysis)","Admission SBP > 150mmHg, SBP variability >24 mmHg, highest quartile of 24h SBP variability, highest quartile of admission SBP","  • Highest quartile of admission SBP: aOR 2.47 (95% CI 1.47–4.29, P<0.001)
+  • Highest quartile of 24h SBP variability: aOR 2.57 (95% CI 1.34–5.18, P<0.001)
+  • Admission SBP >150 mmHg (ROC cutoff): AUC 0.822 (95% CI 0.749–0.895), sens 73.8%, spec 79.0%, PPV 32.6%, NPV 95.6%
+  • SBP variability >24 mmHg (ROC cutoff): AUC 0.718 (95% CI 0.624–0.811), sens 73.8%, spec 62.9%, PPV 21.5%, NPV 94.6%
+  • Combined SBP + SBP variability: AUC 0.848 (95% CI 0.775–0.922), sens 85.7%, spec 87.2%, PPV 47.2%, NPV 98.8%","Higher SBP variability, Higher admission SBP","  • Higher admission SBP: 158 mmHg in ENDi vs 131 mmHg in no END (P<0.001)
+  • Higher SBP variability: 32 mmHg in ENDi vs 14 mmHg in no END (P<0.001)","Yes, maximal medical thearpy with IVT when indicated → primary conservative therapy 192/347 (55.3%), IVT 155/347 (44.7%)","Yes, 155/347 (44.7%)",Yes,0.447,"Determined by stroke team (thrombolysis experts and neurointerventionalists) based on symptom onset time, patient medical history, and neurological impairments",No (primary thrombectomy n=46 excluded),No,-,Yes (all 42 ENDi patients underwent rescue EVT),Yes,1,Significant neurological deterioration and stroke team assessed arterial intervention as necessary,"ENDi → in 12.1% (42/347), median NIHSS increase in ENDi: 9 (IQR 6–13)",Not explicitly defined,"Among rescue EVT patients (n=42):
+- Successful reperfusion (mTICI 2b–3): 36/42 (85.7%)
+- Favourable outcome (90-day mRS 0–2): 19/42 (45.2%)","  • ENDi in 12.1% (42/347)
+  • elevated SBP and greater SBP variability associated with ENDi in patients with mild stroke and LVO receiving BMM
+  • significantly elevated SBP notably associated with ENDi
+[admission SBP Q4 (aOR 2.47, P<0.001), 24-h SBP variability Q4 (aOR 2.57, P<0.001), combined SBP + SBP variability: AUC 0.848 (sensitivity 85.7%, specificity 87.2%)]
+  • low perfusion volume (Tmax > 6 s) and vertebrobasilar occlusion significantly associated with ENDi
+[Tmax>6s Q4 (aOR 2.09, P=0.001), vertebrobasilar occlusion (aOR 3.19, P<0.001)]
+  • No significant differences in epidemiological data or comorbidities between ENDi and no ENDi groups","  • Intensive medical monitoring for patients with significantly elevated admission SBP while avoiding overly aggressive BP reduction
+  • SBP and SBP variability may help early identification of high-risk of ENDi 
+(- Posterior circulation strokes carry higher inherent risk of ENDi due to progressive thrombus burden)","• Single-center retrospective study
+• Residual confounding possible despite adjustment for covariates
+• Uncertainty about pre-admission self-medication with antihypertensive, affecting SBP measurements
+• Limited pathophysiological exploration
+• Exclusion of hemorrhagic transformation limits generalizability
+• No long-term BP effects on functional recovery evaluated
+• Limited data on other vascular risk factor 
+• BP variability only in the first 24h (no later hemodynamic changes)
+• Could not differentiate lacunar vs non-lacunar (no DWI, only CT)","Shi, Y.
+Bu, J.
+Liu, J.-Y.
+Liu, S.",yes,"Master Thesis - Predictors of END in LVO minor str… screen ▸ included ▸ included for data extraction, Master Thesis - Predictors of END in LVO minor str…ll text screen ▸ all included for data extraction","  • in exclusion criteria they write “ENDi from non-ischemic causes”, but by their definition ENDi is of ischemic origin → probably a typo
+  • includes posterior circulation
+  • no exact definition of M1 / M2
+  • not specified within 24h after symptoms onset or after admission
+  • no cutoff derived for Tmax vol >6s?",https://doi.org/10.1186/s12883-025-04066-y,,,"Wang et al., “Biomarker of Early Neurological Deterioration in Minor Stroke and Proximal Large Vessel Occlusion: A Pilot Study.” (https://www.notion.so/Wang-et-al-Biomarker-of-Early-Neurological-Deterioration-in-Minor-Stroke-and-Proximal-Large-Vesse-30ac5a45dadf8167a67ed2b69982292b?pvs=21)",Extracted,Shi_et_al._-_2025_-_Association_of_blood_pressure_parameters_on_early_neurological_deterioration_in_patients_with_mild_s.pdf,Association_of_blood_pressure_parameters.pdf,"[""J.-Y. Liu, Department of Interventional Radiology, The Affiliated Taizhou People’s Hospital of Nanjing Medical University (Taizhou Clinical Medical School of Nanjing Medical University), No. 366, Taihu Road, Taizhou, China"", ""S. Liu, Department of Interventional Radiology, The Affiliated Taizhou People’s Hospital of Nanjing Medical University (Taizhou Clinical Medical School of Nanjing Medical University), No. 366, Taihu Road, Taizhou, China""]",,"Saleem et al., “Acute Neurological Deterioration in Large Vessel Occlusions and Mild Symptoms Managed Medically.” (https://www.notion.so/Saleem-et-al-Acute-Neurological-Deterioration-in-Large-Vessel-Occlusions-and-Mild-Symptoms-Manage-30dc5a45dadf81cea593c7f77817b55b?pvs=21)",Pending,,"February 20, 2026 7:56 PM (GMT+1)",1h 0m,"February 20, 2026 6:56 PM (GMT+1)",Association of blood pressure parameters on early neurological deterioration in patients with mild stroke and large vessel occlusion following medical management,Verified,2025,https://zotero.org/skizzolino/items/P4FYMVEU
+"Mazya et al., “Minor Stroke Due to Large Artery Occlusion. When Is Intravenous Thrombolysis Not Enough? Results from the SITS International Stroke Thrombolysis Register.”","International (multicenter, 241 hospitals in 34 countries; SITS-ISTR registry, coordinated from Sweden/Karolinska)",International,~3y 5mo (1 December 2012 to 25 April 2016),"December 1, 2012","April 25, 2016",40,Retrospective analysis of a prospective multinational registry study (SITS International Stroke Thrombolysis Register),retrospective,multicenter,"Primary →  to determine the frequency of non-haemorrhagic early neurological deterioration (nhEND) in patients who receive IVT for  minor stroke caused by occlusion of specific cerebral arteries, including both large, proximal vessels and more distal ones
+Secondary →  to establish risk factors for END and report three-month functional outcomes and mortality in patients with and without END","treated with IV alteplase (Actilyse), complete baseline NIHSS available, NIHSS 0–5","Any endovascular procedure (thrombectomy, stenting, angioplasty, intraarterial thrombolysis) during acute hospitalization, no baseline NIHSS score available, NIHSS>5, no relevant CTA/MRA data at baseline (see Fig.1)","study sample size → 2553 (from 34,566 IVT patients → 6860 NIHSS 0–5 → 2620 with CTA/MRA → 2553 after excluding 67 EVT patients)
+of these →  n = 2336 patients without PH and with available 24 h neurological follow-up",2336,"Not reported, adults","Among patients with baseline arterial occlusion (table 3)
+67 (IQR 59–75) in nhEND group
+67 (IQR 57–76) in no nhEND group",67,Not reported (median only),,"Among patients with baseline arterial occlusion (table 3)
+34.0% female in nhEND group (18/53)
+35.4% female in no nhEND group (189/534)
+(~65% male overall)",0.6474,"Among patients with baseline arterial occlusion (table 3)
+4 (IQR 3–5) in both nhEND and no nhEND groups",,4,"Occlusion sites in wholee study population (N=2553): ICA-T/ICA+MCA 20 (0.8%), ICA 101 (4.0%), ACA 13 (0.5%), MCA-M1 92 (3.6%), MCA-M2 147 (5.8%), MCA-M3 39 (1.5%), PCA 51 (2.0%), Basilar 32 (1.3%), Vertebral 62 (2.4%), Unspecified 78 (3.1%), No occlusion 1918 (75.1%)
+
+Among patients with baseline arterial occlusion (n=587 analyzable for nhEND):
+Comorbidities (nhEND vs no nhEND):
+- AF: 7.5% vs 16.5% (P=0.11)
+- Heart failure: 11.3% vs 4.9% (P=0.049)
+- HTN: 73.6% vs 64.0% (P=0.16)
+- DM: 26.4% vs 17.1% (P=0.09)
+- Hyperlipidemia: 30.2% vs 35.0% (P=0.48)
+- Previous stroke: 7.5% vs 8.7% (P=0.78)
+- AP or OAC: 34.0% vs 39.0% (P=0.48)
+- Current smoker: 24.5% vs 16.7% (P=0.15)
+Clinical parameters (nhEND vs no nhEND):
+- OTT (onset to treatment time): 165 (121–218) vs 160 (125–210) min (P=0.57)
+- SBP: 160 (141–180) vs 156 (140–170) (P=0.11)
+- SBP 24h: 140 (130–157) vs 137 (124–150) (P=0.015)
+- Glucose: 7.0 (6.0–8.5) vs 6.5 (5.7–7.8) (P=0.071)
+Aetiology (nhEND vs no nhEND): 
+- LAA 56.0% vs 42.5% (P=0.066), 
+- CE 18.0% vs 26.0%, 
+- Other/undetermined 26.0% vs 31.5%",NIHSS 0–5,5,"Among patients with baseline occlusion → none (none in univariate and no multivariate analysis done)
+
+Multivariate logistic regression on whole population (reference: no visible occlusion):
+Model 1 (any occlusion):
+- Any visible occlusion: aOR 2.5 (95% CI 1.7–3.4, P<0.001)
+Model 2 (by specific site):
+- ICA-T or ICA+MCA: aOR 10.3 (95% CI 4.3–24.9, P<0.001)
+- ICA (extracranial): aOR 4.3 (95% CI 2.5–7.7, P<0.001)
+- ACA: aOR 5.9 (95% CI 1.6–22.1, P=0.008)
+- MCA-M1: aOR 2.1 (95% CI 0.97–4.4, P=0.061) → trend
+- MCA-M2: aOR 1.6 (95% CI 0.8–3.1, P=0.14)
+- MCA-M3: aOR 0.6 (95% CI 0.1–4.2, P=0.57)
+- Basilar: aOR 2.0 (95% CI 0.6–6.6, P=0.26)
+- Vertebral: aOR 2.3 (95% CI 0.96–5.5, P=0.063) → trend
+- PCA: aOR 0.4 (95% CI 0.1–3.2, P=0.41)
+
+Baseline CTA/MRA: Sensitivity 49.1%, Specificity 76.0%, PPV 9.0%, NPV 96.9% for nhEND",none,"  • No multivariable analysis done",none,"  • None",None,none,"Age, sex, AF, heart failure, HTN, DM, hyperlipidemia, previous stroke, antiplatelet/OAC treatment, current/previous smoking, baseline NIHSS, onset-to-treatment time, SBP, DBP, SBP 24h, DBP 24h, glucose, aetiological classification (LAA, CE, other/undetermined), site of arterial occlusion","CTA 2437 (95.5%), MRA 116 (4.5%) at baseline
+Routine follow-up imaging at 22–36h (or earlier if clinically indicated), available in 606/635 (95.4%) patients with arterial occlusion at baseline and 1810/1918 (94.4%) patients with no occlusion at baseline","CT, MRI","“21% of patients treated with IVT for acute ischaemic stroke had NIHSS scores 0–5” 
+Calculated: 
+  • 6860/34,566 ⇒ 19.8% of IVT patients had NIHSS 0–5
+  • 6860/32455 ⇒ 21.1% of IVT patients with baseline NIHSS had NIHSS 0–5
+NB no baseline NIHSS score available in n=2111 ⇒ 34566-2111=32455",21%,,"Vessel occlusion = complete occlusion or <50% filling of the vascular territory on CTA/MRA
+No exact LVO definition
+Sites: ICA-T (terminal ICA), ICA (extracranial), tandem ICA+MCA, ACA, MCA-M1, MCA-M2, MCA-M3, PCA, basilar, vertebral","ACA, BAS, ICA, ICAT, MCA, PCA, VA","M1, M2, M3","“25% of patients had a visible arterial occlusion on baseline imaging”
+calculated: 635/2553 (24.9%) of minor stroke treated with IVT (study population) and available CTA/MRA at baseline had any visible arterial occlusion (table 1)
+Of these 635 only 606 had data from follow up imaging
+Of these 606 → PH (any size and location) was seen in 18
+⇒ 588 patients patients with minor stroke treated with IVT, with arterial occlusion and no PH 
+NB: in table 3: 53+534=587
+
+Distribution among occlusions: ICA-T/ICA+MCA 3.1%, ICA 15.9%, ACA 2.0%, MCA-M1 14.5%, MCA-M2 23.1%, MCA-M3 6.1%, PCA 8.0%, Basilar 5.0%, Vertebral 9.8%, Unspecified 12.3%
+
+Note: Patients with minor stroke treated with IVT, NIHSS 0-5 at baseline (n= 6860) → patients with no relevant CTA/MRA data at baseline (n=4240) excluded  ⇒ n=2553",24.9%,,"NIHSS increase ≥4 
+without parenchymal hematoma (PH) of any size/location on follow-up imaging within 22–36h (= non-haemorrhagic END, nhEND)",4,Within 24 hours of IVT,24,"Overall: 108/2336 (4.6%)
+With any occlusion: 53/587 (9.0%)
+Without occlusion: 55/1749 (3.1%)",0.09,"Two likely mechanisms, both leading to infarction of initially functional, non-penumbral tissue
+  • Collateral circulation failure, supported by low initial symptom severity indicating good baseline collateral flow
+  • Progressive thrombosis, supported by higher proportion of LAA etiology in nhEND patients
+
+Cardioembolism unlikely (only 7.5% AFib, 18% CE in nhEND)
+Cerebral oedema unlikely at NIHSS 0–5
+Systemic hypotension unlikely (median 24h BP 140/80).","Among patients with baseline occlusion
+
+Univariate analysis (nhEND vs no nhEND):
+- Heart failure: 11.3% vs 4.9% (P=0.049)
+Trends:
+- DM: 26.4% vs 17.1% (P=0.09)
+- Previous smoker  4.1% vs 13.9% (P=0.051)
+- Glucose: 7.0 vs 6.5 (P=0.071)
+- LAA etiology: 56.0% vs 42.5% (P=0.066)
+Note: SBP 24h: 140 vs 137 (P=0.015) → associated, but END defined within 24h! ⇒ you can’t really use a value @24h!
+
+Multivariate analysis → none done only for patients with arterial occlusion 
+
+Multivariate logistic regression on whole population (includes patients with no occlusion, adjusted for variables with P≤0.10 in univariate = heart failure, diabetes, glucose) → No clinical variables reached independent significance (P<0.05)
+- Heart failure: aOR 1.8 (95% CI 0.95–3.4, P=0.07) → trend
+- DM: aOR 1.4 (95% CI 0.95–2.2, P=0.08) → trend
+- Glucose: P=0.60 → not significant",No multivariable analysis done,"  • No multivariable analysis done",Heart failure,"  • Heart failure: 11.3% in END vs 4.9% in no END (P=0.049)","Yes, maximal medical therapy, including thrombolysis for all patients (all patients received IVT; study focused on IVT-only population)","Yes (all 2553 patients, IV alteplase)",Yes,1,Standard SITS-ISTR criteria for IV alteplase,No (any endovascular procedure excluded),No,-,No (any endovascular procedure excluded),No,0,-,"nhEND (NIHSS increase ≥4 at 24h, no PH on follow-up imaging)
+→ 9.0% (53/587) with any arterial occlusion
+→ 3.1% (55/1749) without occlusion (P<0.001)
+→ 30.0% in ICA-T/ICA+MCA (highest)","3-month mRS:
+  • nhEND + occlusion: mRS 0–2 in 23% (77% dead/dependent)
+  • nhEND + no occlusion: mRS 0–2 in 35% (65% dead/dependent)
+  • No nhEND + occlusion: mRS 0–2 in 88%
+  • No nhEND + no occlusion: mRS 0–2 in 92%
+  • 3-month mRS 3–6 by site: ICA-T/ICA+MCA 42%, ACA 40%, MCA-M1 20%, Basilar 19%, Vertebral 18%, ICA 17%, MCA-M2/M3/PCA/no occlusion 10–12%","PH rate: 3.0% in both groups (with and without occlusion, P=0.93)
+","  • 21% of patients treated with IVT for acute ischaemic stroke had NIHSS scores 0–5
+  • 25% of patients had a visible arterial occlusion on baseline imaging
+  • ICA-T/tandem ICA+MCA occlusion: 30% nhEND (aOR 10.3, P<0.001) → 10-fold risk vs no occlusion
+  • 77% of those who suffer nhEND will be dead or dependent (mRS 3–6) at three months
+  • Extracranial ICA: 16.7% nhEND (aOR 4.3, P<0.001)
+  • ACA: 16.7% nhEND (aOR 5.9, P=0.008), but very few patients (only 13, of which one had PH)
+  • MCA-M1: 9.3% nhEND (aOR 2.1, P=0.061, trend)
+  • No clinical variable independently predicted nhEND
+  • Only site of arterial occlusion was an independent predictor of nhEND","  • Acute vessel imaging should be routine in all minor stroke patients to identify high-risk occlusions
+  • intensive monitoring especially in the first 24h and consideration for acute EVT, and especially in ICA occlusion patients (especially ICA-T/tandem)
+  • NPV of 97% supports benign prognosis when no occlusion is found
+  • RCT of EVT vs BMT including IVT in minor stroke urgently needed
+  • European Stroke Organisation consensus: thrombectomy + IVT for LVO up to 6h, purposefully omitting initial severity","  • Observational design
+  • no independent adjudication of imaging/outcomes
+  • Only 38% (2620/6860) of minor stroke IVT patients had CTA/MRA (potential selection bias)
+  • 67 EVT patients excluded (potential bias, especially for basilar: 10/39 excluded)
+  • Cannot discriminate complete ICA occlusion vs significant stenosis
+  • 31% missing 3-month outcome data","Mazya, M.V.
+Cooray, C.
+Lees, K.R.
+Toni, D.
+Ford, G.A.
+Bar, M.
+Frol, S.
+Moreira, T.
+Sekaran, L.
+Švigelj, V.
+Wahlgren, N.
+Ahmed, N.",yes,"Master Thesis - Predictors of END in LVO minor str… screen ▸ included ▸ included for data extraction, Master Thesis - Predictors of END in LVO minor str…ll text screen ▸ all included for data extraction","  • includes also non LVO patients, but has comparison of END vs no END within the subpopulation of LVO
+  • includes posterior circulation
+  • one patient lost on the way? 635/2553 of minor stroke treated with IVT (study population) had any visible arterial occlusion (table 1), Of these 635 only 606 had data from follow up imaging, Of these 606 → PH (any size and location) was seen in 18 ⇒ 606-18=588 patients with minor stroke treated with IVT, with arterial occlusion and no PH, BUT in table 3: 53+534=587
+  • outcomes not defined, although objectives defined
+  • No data on cerebral haemodynamics or infarct volumes",https://doi.org/10.1177/2396987317746003,,,"Gwak et al., “Perfusion and Diffusion Variables Predict Early Neurological Deterioration in Minor Stroke and Large Vessel Occlusion.” (https://www.notion.so/Gwak-et-al-Perfusion-and-Diffusion-Variables-Predict-Early-Neurological-Deterioration-in-Minor-St-30ac5a45dadf81f98fa8c40ed81a92c6?pvs=21)",Extracted,Mazya_et_al._-_2018_-_Minor_stroke_due_to_large_artery_occlusion._When_is_intravenous_thrombolysis_not_enough_Results_fro.pdf,minor_stroke_due_to_large_vessel_occlusion.pdf,"M.V. Mazya, Department of Neurology, SITS International Coordination Office, Karolinska Stroke Research, Karolinska University Hospital, Solna, Sweden",,"Itabashi et al., “Impact of Patency of the Carotid Terminus and Middle Cerebral Artery on Early Clinical Outcomes in Patients with Acute Internal Carotid Artery Occlusion and Mild Symptoms.” (https://www.notion.so/Itabashi-et-al-Impact-of-Patency-of-the-Carotid-Terminus-and-Middle-Cerebral-Artery-on-Early-Clin-30ac5a45dadf81569a69fc3d4f86d38e?pvs=21)",Pending,,"February 26, 2026 3:32 PM (GMT+1)",1h 50m,"February 26, 2026 1:42 PM (GMT+1)",Minor stroke due to large artery occlusion. When is intravenous thrombolysis not enough? Results from the SITS International Stroke Thrombolysis Register,Verified,2018,https://zotero.org/skizzolino/items/A9VZ8MKH
+"Heitkamp et al., “Thrombectomy Patients with Minor Stroke: Factors of Early Neurological Deterioration.”","Germany (multicenter, 25 comprehensive stroke centers, German Stroke Registry-Endovascular Treatment, GSR-ET)",Germany,6y 6mo (June 2015 to December 2021),"June 1, 2015","December 31, 2021",78,Multicenter retrospective cohort study (prospective registry: GSR-ET),retrospective,multicenter,to assess prognostic factors of END and whether END is associated with unfavorable long-term functional outcomes in patients with minor stroke who were treated by MT,"AIS-LVO patients with subsequent MT, age of ≥18 years and
+1) Acute ischemic stroke with anterior circulation occlusion (isolated intracranial ICA, M1 or M2 MCA)
+2) Baseline NIHSS <6
+3) Complete data on baseline NIHSS, prestroke mRS, NIHSS after 24h, recanalization status, and mRS after 90 days","  • Tandem occlusion
+  • rescue MT (defined as MT following END)
+  • incomplete data on baseline NIHSS, prestroke mRS, 24h NIHSS, recanalization status, or 90-day mRS","817 (from 13,082 enrolled in GSR-ET)",817,≥18 years,"72 (IQR 62–80) years overall
+72 (IQR 61–80) no END
+73 (IQR 62–81) END",72,Not reported (median only),,"419 (51%) male
+398 (49%) female",0.5129,4 (IQR 2–5),,4,"  • Median ASPECTS: 9 (IQR 8–10)
+  • Occlusion sites: intracranial ICA 99 (12%), M1 354 (43%), M2 364 (45%)
+  • Successful recanalization (TICI 2b-3): 703 (86%); TICI 3: 435 (53%)
+  • Adverse events during treatment: 147 (18%) → vasospasm 42 (5%), clot migration/embolization 28 (3%), dissection/perforation 27 (3%)
+
+From table
+  • Comorbidities: hypertension 611 (75%), diabetes 171 (21%), dyslipidemia 369 (45%), atrial fibrillation 286 (35%)
+  • Left hemispheric stroke: 446 (55%)
+  • Median time from onset/LSW to admission: 180 min (IQR 80–379)
+  • Median time from admission to groin puncture: 81 min (IQR 55–122)
+  • General anesthesia: 522 (66%)
+  • Median number of passes: 1 (IQR 1–3)
+  • ICH on 24h follow-up: 72 (9%)
+  • Recurrent stroke: 35 (4%)",NIHSS <6,5,"Univariate analysis (END vs no END, p<0.05):
+  • intracranial ICA more often occluded (18% vs 10%; p=0.003)
+  • longer time from admission to groin puncture (90 min vs 79 min; p=0.017)
+  • more often general anesthesia (74% vs 63%, P=0.008)
+  • higher number of passes (2 vs 1; p<0.001)
+  • less often successful recanalization (74% vs 90%; p<0.001)
+  • more adverse events during EVT (27% vs 15%; p<0.001)
+
+Multivariate logistic regression (variables with p<0.05 in group comparison + clinically meaningful → NIHSS at admission, pre stroke mRS, AFib, ICA occlusion, time from admission to groin puncture, tPA, general anesthesia, number of passes, successful recanalization TICI 2b-3, adverse events during EVT, ICH after 24h):
+  • Longer time from admission to groin puncture (aOR 1.04, 95% CI 1.02–1.07, P=0.001)
+  • General anesthesia (aOR 1.68, 95% CI 1.08–2.63, P=0.022)
+  • Higher number of passes (aOR 1.15, 95% CI 1.03-1.29, p=0.012)
+  • adverse events during treatment (aOR 1.89, 95% CI 1.19 to 3.01, p=0.007)
+  • occurrence of ICH within 24 hours (aOR 3.40, 95% CI 1.90–6.07, P<0.001)
+increased the odds of END
+
+  • Intracranial ICA occlusion → NOT significant after adjustment (included in model but not independently associated)
+  • Successful recanalization TICI 2b-3 (aOR 0.29, 95% CI 0.17–0.50, P<0.001) → protective","Adverse events during EVT, General anesthesia, Higher no of passes, ICH within 24h, Longer admission-to-groin-puncture time","  • Longer admission-to-groin-puncture time: aOR 1.04 (95% CI 1.02–1.07, P=0.001) per minute
+  • General anesthesia: aOR 1.68 (95% CI 1.08–2.63, P=0.022)
+  • Higher number of passes: aOR 1.15 (95% CI 1.03–1.29, P=0.012)
+  • Adverse events during EVT: aOR 1.89 (95% CI 1.19–3.01, P=0.007)
+  • ICH within 24h: aOR 3.40 (95% CI 1.90–6.07, P<0.001)
+
+Adjusted for NIHSS, pre-stroke mRS, AFib, ICA occlusion, admission-to-groin time, tPA, general anesthesia, no. of passes, TICI 2b-3, adverse events during EVT, ICH within 24h
+  • Of note, successful recanalization TICI 2b-3 was protective: aOR 0.29 (95% CI 0.17–0.50, P<0.001)","Adverse events during EVT, General anesthesia, Higher no of passes, Intracranial ICA, Longer admission-to-groin-puncture time, Unsuccessful recanalisation (TICI<2b)","  • Intracranial ICA: 18% in END vs 10% in no END (P=0.003)
+  • Longer admission-to-groin-puncture time: 90 min in END vs 79 min in no END(P=0.017)
+  • General anesthesia: 74% in END vs 63% in no END (P=0.008)
+  • Higher number of passes: 2 in END vs 1 in no END (P<0.001)
+  • Unsuccessful recanalization (TICI<2b): 26% in END vs 10% in no END (P<0.001)
+  • Adverse events during EVT: 27% in END vs 15% in no END (P<0.001)",None,none,"Baseline NIHSS, prestroke mRS, atrial fibrillation, intracranial ICA occlusion, time from admission to groin puncture, administration of tPA, general anesthesia, number of passes, successful recanalization (TICI 2b-3), adverse events during treatment, ICH on 24h follow-up imaging","NCCT (with ASPECTS)
+DSA (digital subtraction angiography) for recanalization assessment (TICI score)
+Follow-up imaging at 24h for ICH","CT, DSA","817/13,082 (6.2%) of GSR-ET registry patients met all inclusion criteria (NIHSS <6, anterior circulation, MT, complete data)",,,"isolated intracranial ICA occlusion, or M1 or M2 segment of the MCA","ICA, MCA","M1, M2","Among 817 included:
+Intracranial ICA: 99 (12%)
+M1 MCA: 354 (43%)
+M2 MCA: 364 (45%)",,,Increase in NIHSS score of ≥4 points from baseline,4,Within 24 hours after EVT,24,"23.5% (192/817)
+Subgroup TICI 2b-3 only: 20.2% (142/703)",0.235,"- Failure of recanalization → infarct progression (extension of ischemic tissue beyond initial penumbra into adjacent asymptomatic tissue)
+- Collateral exhaustion during general anesthesia → transient blood pressure reduction → reduced collateral supply → infarct progression
+- Vessel wall injury with repeated passes → endothelial dysfunction, clot fragmentation
+- Procedural complications (embolism to new territories, ICH)","Univariate analysis (END vs no END, p<0.05):
+  • Higher prestroke mRS (IQR 0–1 vs 0–0, P=0.002)
+  • Lower baseline NIHSS (3 vs 4, P=0.002)
+  • Less atrial fibrillation (29% vs 37%, P=0.029)
+  • Less tPA administration (34% vs 43%, P=0.017)
+
+Multivariate logistic regression (variables with p<0.05 in group comparison + clinically meaningful → NIHSS at admission, pre stroke mRS, AFib, ICA occlusion, time from admission to groin puncture, tPA, general anesthesia, number of passes, successful recanalization TICI 2b-3, adverse events during EVT, ICH after 24h):
+  • Higher prestroke mRS (aOR 1.42, 95% CI 1.13–1.78, P=0.003)
+  • Lower baseline NIHSS (aOR 0.83, 95% CI 0.73–0.94, P=0.004) → protective
+",Higher pre-stroke mRS,"  • Higher pre-stroke mRS: aOR 1.42 (95% CI 1.13–1.78, P=0.003), 
+
+Adjusted for NIHSS at admission, pre stroke mRS, AFib, ICA occlusion, time from admission to groin puncture, tPA, general anesthesia, number of passes, successful recanalization TICI 2b-3, adverse events during EVT, ICH after 24h","Higher pre-stroke mRS, Lower baseline NIHSS, No Afib, No IVT","  • Higher pre-stroke mRS: IQR 0–1 in END vs 0–0 in no END (P=0.002)
+  • Lower baseline NIHSS: 3 in END vs 4 in no END (P=0.002)
+  • Less AFib: 29% in END vs 37% in no END (P=0.029)
+  • Less tPA administration: 34% in END vs 43% in no END (P=0.017)","Maximal BMT, including IVT where indicated (whereas not separately discussed)","Yes, 334/817 (41%) received tPA",Yes,0.41,Not detailed,Yes (all 817 patients underwent primary MT),Yes,Case-by-case evaluation; anterior circulation LVO with NIHSS <6; enrolled in GSR-ET between June 2015 and December 2021,No (rescue MT = MT following END patients were excluded),No,0,-,END (NIHSS increase ≥4 within 24h after MT) → 23.5% (192/817),"Unfavorable functional outcome at 90 days (defined as mRS ≥2) 
+  • overall 48% (392/817)
+  • 80% in END vs 38% in no-END (P<0.001)
+Multivariable logistic regression: END independently associated with unfavorable outcome (aOR 7.51, 95% CI 4.57–12.34, P<0.001) ","Table 1:
+90-day mRS 0–1: 52% overall (62% no-END vs 20% END, P<0.001)
+90-day mRS 0–2: 67% overall (77% no-END vs 34% END, P<0.001)
+90-day mRS 5–6: 14% overall (8% no-END vs 33% END, P<0.001)
+ICH at 24h: 9% overall (6% no-END vs 17% END, P<0.001)
+Recurrent stroke: 4% overall (4% no-END vs 7% END, P=0.052)","  • END occurred in 23.5% (192/817) of MT patients with minor stroke (NIHSS <6)
+  • 392 (48.0%) patients had unfavorable functional outcomes after 90 days
+  • END patients had twice the odds of unfavorable functional outcome at 90 days (80% in END vs 38% in no-END, P<0.001)
+  • Independent factors of END: higher prestroke mRS, lower baseline NIHSS, longer time to groin puncture, general anesthesia, more passes, adverse events during treatment, failed recanalization, ICH on follow-up
+  • Successful recanalization was strongly protective against END (aOR 0.29)
+  • END was independently and strongly associated with unfavorable 90-day outcome (aOR 7.51)","  • Provides clinicians with patient-specific risk factors for END after MT in minor stroke
+  • In the ongoing debate on MT benefit in minor stroke, these findings help identify patients requiring close clinical attention post-MT
+  • Selection of anesthetic regimen should be based on patient-specific characteristics
+  • No established threshold for number of passes beyond which procedure should be discontinued → future research warranted
+  • Upcoming RCTs (ENDOLOW, MOSTE) will provide first-level evidence on MT benefit in minor stroke","  • Retrospective, nonrandomized design → potential selection bias
+  • Clinical parameters (mRS, NIHSS, occlusion site) reported at individual sites → limited interrater reliability
+  • Missing data on some adverse events during treatment
+  • Comorbidities occurring early in clinical course (infections, cardiorespiratory events) not documented
+  • No data on intracranial atherosclerosis as stroke etiology
+  • No information on thrombus length or collateral parameters
+  • Potential selection bias in choice of general anesthesia (for patients perceived at higher risk of complications)","Heitkamp, C.
+Winkelmeier, L.
+Flottmann, F.
+Schell, M.
+Kniep, H.
+Broocks, G.
+Thaler, C.
+Steffen, P.
+Thomalla, G.
+Fiehler, J.
+Faizy, T.D.",yes,"Master Thesis - Predictors of END in LVO minor str… screen ▸ included ▸ included for data extraction, Master Thesis - Predictors of END in LVO minor str…ll text screen ▸ all included for data extraction","  • only END post EVT
+  • also END due to ICH!",https://doi.org/10.1136/jnis-2024-021930,,,,Extracted,Thrombectomy_patients_with_minor_stroke_-_factors_of_END_(with_suppl._material).pdf,Heitkamp_et_al._-_2025_-_Thrombectomy_patients_with_minor_stroke_Factors_of_early_neurological_deterioration.pdf,"C. Heitkamp, Department of Diagnostic and Interventional Neuroradiology, University Medical Center Hamburg-Eppendorf, Hamburg, Germany",,"He et al., “The Length of Susceptibility Vessel Sign Predicts Early Neurological Deterioration in Minor Acute Ischemic Stroke with Large Vessel Occlusion.” (https://www.notion.so/He-et-al-The-Length-of-Susceptibility-Vessel-Sign-Predicts-Early-Neurological-Deterioration-in-Mi-30ac5a45dadf8133aae1f33cff5903a1?pvs=21)",Pending,,"February 26, 2026 4:59 PM (GMT+1)",1h 10m,"February 26, 2026 3:49 PM (GMT+1)",Thrombectomy patients with minor stroke: Factors of early neurological deterioration,Verified,2025,https://zotero.org/skizzolino/items/5YXB3M3H
+"Kim et al., “Effectiveness and Safety of EVT in Patients with Acute LVO and Low NIHSS.”","South Korea ",South Korea,4y 3mo (January 2015 to March 2019),"January 1, 2015","March 31, 2019",50,"Retrospective cohort analysis from a prospective nationwide multicenter registry study (multicenter, 16 hospitals, nationwide CRCS-K registry = Clinical Research Collaboration for Stroke in Korea)",retrospective,multicenter,"(1) evaluate the effectiveness of EVT for mild LVO patients 
+(2) examine whether effectiveness of EVT differs due to END that occurs before endovascular treatment","Hospital arrival within 24h of last known well (LKW); baseline NIHSS <6; anterior circulation LVO (ICA, M1 MCA, or proximal M2 MCA) confirmed on vascular imaging
+”Only ENDs that occurred before the initiation of EVT or in medically treated patients were analyzed” (⇒ no END after EVT analysed)",No specific predetermined exclusion criteria (supplement),"1,083 (from 36,339 → 24,596 within 24h → 15,436 NIHSS <6 → 1,083 anterior LVO)",1083,"Not reported, adults",Not reported (mean only),,67.2 ± 13.1 years,67.2,"669 (61.8%) male
+414 (38.2%) female",0.6176,2 (IQR 1–4),,2,"• Median LKW to hospital arrival time of 4.3 h [1.6–10.9]
+• Occlusion sites: extracranial ICA 223 (20.6%), intracranial ICA 69 (6.4%), M1 MCA 377 (34.8%), M2 or distal MCA 337 (31.1%), tandem occlusion 77 (7.1%)
+• Collateral grade (baseline): poor 71 (6.9%), intermediate 380 (37.1%), good 573 (56.0%)
+• Stroke mechanism: large artery atherosclerosis 386 (38.2%), cardioembolism 328 (32.5%), other determined etiology 47 (4.7%), undetermined etiology 249 (24.7%), TIA as index stroke 73 (6.7%)
+• Vascular risk factors: hypertension 666 (61.5%), diabetes 315 (29.1%), dyslipidemia 276 (25.5%), smoking 412 (38.0%), atrial fibrillation 304 (28.1%)
+• Treatments: IVT 117/1,083 (10.8%), EVT 149/1,083 (13.8%)
+• Outcomes: excellent functional status (90-day mRS 0–1) 576 (53.8%); mortality within 90 days 36 (3.4%); any hemorrhage 172 (15.8%); significant hemorrhage 51 (4.7%)
+• Median time from LKW to END: 24.5 h [13.5–41.9] (85% within 48 h)",NIHSS <6,5,"Univariable analysis:
+  • Extracranial ICA occlusion (without tandem): END+ 56/207 (27.1%) vs END− 167/876 (19.1%), P<0.01
+
+Multivariate logistic regression (included clinically relevant variables or with univariate P values < 0.20)
+  • Extracranial ICA occlusion (aOR 1.72, 95% CI 1.09–2.73)
+  • Tandem occlusion (aOR 2.79, 95% CI 1.57–4.95)","Extracranial ICA occlusion, Tandem occlusion","  • Extracranial ICA occlusion (without tandem): aOR 1.72 (95% CI 1.09–2.73). 
+  • Tandem occlusion: aOR 2.79 (95% CI 1.57–4.95)
+Adjusted for age, male sex, occluded artery, NIHSS score, LKW to arrival, Hypertension, Diabetes, Advanced WMH, Baseline ASPECTS, collateral grade at baseline",Extracranial ICA occlusion,"  • Extracranial ICA occlusion (without tandem): 27.1% in END vs 19.1% in no END (P<0.01)",None reported,none,"Baseline demographics (age, sex), comorbidities (hypertension, diabetes, atrial fibrillation, dyslipidemia, coronary artery disease, previous stroke/TIA, current smoking), baseline NIHSS, occlusion site (extracranial ICA, intracranial ICA, M1 MCA, proximal M2 MCA, tandem), IVT, time from onset to arrival","CT and MRI, Vascular imaging (CTA/MRA) for LVO confirmation (specific modality not detailed)","CT, MRI","62.8% (15,436/24,596 of those arriving within 24h had NIHSS <6, in supplement)",62.8%,,"Anterior circulation: ICA (extracranial or intracranial), M1 MCA, or proximal M2 MCA","ICA, MCA","M1, M2","1,083/15,436 (7.0%) of NIHSS <6 patients had anterior LVO",,0.07,"  • NIHSS increase ≥2 points from baseline or increase ≥1 point in consciousness subscores (1a, 1b, 1c) or increase ≥1 point in motor subscores (5a, 5b, 6a, 6b)
+  • also defined as any new neurological symptoms or signs that occurred during hospitalization directly due to the index stroke
+  • mild END (NIHSS increase <4) and severe END (NIHSS score increase ≥4)",2,During hospitalization,,"19.1% (207/1083)
+Mild END (NIHSS increase <4): 9.0% (97/1083)
+Severe END (NIHSS increase ≥4): 10.1% (109/1083)
+
+NB 97+109=206 and not 207",0.191,leptomeningeal collaterals insufficiency ⇒ even subtle changes in cerebral perfusion pressure may alter hemodynamics to the extent that may cause END,"Univariable analysis:
+  • Baseline NIHSS (median [IQR]): END− 2 [1–4] vs END+ 3 [1–4], P=0.03
+  • Hypertension: END− 518/876 (59.1%) vs END+ 148/207 (71.5%), P<0.01
+
+Multivariate logistic regression (included clinically relevant variables or with univariate P values < 0.20)
+  • history of hypertension (adjusted OR, 1.49 [1.03–2.14]) 
+  • higher NIHSS (adjusted OR 1.12 per 1-point increase, [1.02–1.23])
+
+Adjusted for age, male sex, occludd artery, NIHSS score, LKW to arrival, Hypertension, Diabetes, Advanced WMH, Baseline ASPECTS, collateral grade at baseline (supplemental table III)","Higher baseline NIHSS, Hypertension","  • History of Hypertension: aOR 1.49 (95% CI 1.03–2.14)
+  • Higher baseline NIHSS: aOR 1.12 per 1-point increase (95% CI 1.02–1.23)
+Adjusted for age, male sex, occluded artery, NIHSS score, LKW to arrival, Hypertension, Diabetes, Advanced WMH, Baseline ASPECTS, collateral grade at baseline","Higher baseline NIHSS, Hypertension","  • Higher baseline NIHSS: median 3 [IQR 1–4] in END vs 2 [1–4] in no END (P=0.03)
+  • History of Hypertension: 71.5% in END vs 59.1% in no END (P<0.01)","Yes, maximal medical therapy, with IVT if indicated","Yes, 117/1083 (10.8%)",Yes,0.108000000000,per institutional protocols based on national guidelines at the time of practice,"Yes, 126/1083 (11.6%) of all population, and 126/876 (14.4%) of no END population",Yes,"Not detailed (registry-based, at discretion of treating physicians)","Yes, 4 mild END (NIHSS score increase <4), 19 in severe END (NIHSS score increase ≥4)",Yes,0.111,"END, not further detailed","  • mRS 0-1 at 3 months (excellent outcome) → 521 (60.0%) in END- vs 55 (27.1%) in END+, p<0.01
+(outcomes detailed in supplement)","  • mRS 0-2 at 3 months → 675 (77.8%) in END- vs 91 (44.8%) in END+, p<0.01
+  • overall distribution of mRS three months after stroke","  • mortality up to three months after stroke → 21 (2.4%) in END- vs 15 (7.4%) in END+, p<0.01
+  • any hemorrhagic transformation → 131 (15.0%) in END- vs 41 (19.8%) in END+, p=0.11
+  • significant hemorrhages → 32 (3.7%) in END- vs 19 (9.2%) in END+, p<0.01","  • END occurred in 19.1% (207/1,083) of minor stroke patients with anterior LVO, 85% of patients developed END within 48 h of the LKW time
+  • Hypertension, higher baseline NIHSS, extracranial ICA occlusion, and tandem lesions independently predicted END
+  • EVT did not improve 90-day functional outcome (mRS 0–1  PS-matched OR 0.99 [0.63–1.54]) and increased hemorrhage risk (significant hemorrhage PS-matched OR 4.51 [1.59–12.80], any hemorrhage PS-matched OR 3.17 [95% CI, 1.76–5.69])
+  • EVT showed no benefit regardless of whether END occurred before EVT or not","  • EVT may not be beneficial for mild LVO patients (NIHSS <6) and may increase hemorrhage risk
+  • Extracranial ICA and tandem lesions might help identify patients at higher risk for END
+  • Results support a conservative initial approach with close monitoring rather than routine EVT in minor stroke with LVO","  • East Asian population (higher prevalence of intracranial stenosis, may limit generalizability)
+  • Observational registry study (no randomization)
+  • Variable imaging protocols and treatment decisions across 16 centers","Kim, B.J.
+Menon, B.K.
+Yoo, J.
+Han, J.H.
+Kim, B.J.
+Kim, C.K.
+Kim, J.G.
+Kim, J.-T.
+Park, H.
+Baik, S.H.
+Han, M.-K.
+Kang, J.
+Kim, J.Y.
+Lee, K.-J.
+Park, J.-M.
+Kang, K.
+Lee, S.J.
+Cha, J.-K.
+Kim, D.-H.
+Jeong, J.-H.
+Park, T.H.
+Park, S.-S.
+Lee, K.B.
+Lee, J.
+Hong, K.-S.
+Cho, Y.-J.
+Park, H.-K.
+Lee, B.-C.
+Yu, K.-H.
+Oh, M.-S.
+Kim, D.-E.
+Ryu, W.-S.
+Choi, K.-H.
+Choi, J.C.
+Kim, J.-G.
+Kwon, J.-H.
+Kim, W.-J.
+Shin, D.-I.
+Yum, K.S.
+Sohn, S.-I.
+Hong, J.-H.
+Kim, C.
+Lee, S.-H.
+Lee, J.
+Almekhlafi, M.A.
+Demchuk, A.
+Bae, H.-J.",yes,"Master Thesis - Predictors of END in LVO minor str…ll text screen ▸ all included for data extraction, Master Thesis - Predictors of END in LVO minor str…xt screen ▸ maybes ▸ included for data extraction","  • END vs no END as secondary analysis (not primary focus of the study)
+  • I find this paper really well made, statistically speaking 
+  • Small EVT group (13.8%) ⇒ limited statistical power for subgroup analyses",https://doi.org/10.3389/fneur.2022.955725,,,"Itabashi et al., “Impact of Patency of the Carotid Terminus and Middle Cerebral Artery on Early Clinical Outcomes in Patients with Acute Internal Carotid Artery Occlusion and Mild Symptoms.” (https://www.notion.so/Itabashi-et-al-Impact-of-Patency-of-the-Carotid-Terminus-and-Middle-Cerebral-Artery-on-Early-Clin-30ac5a45dadf81569a69fc3d4f86d38e?pvs=21)",Extracted,Kim_et_al._-_2022_-_Effectiveness_and_safety_of_EVT_in_patients_with_acute_LVO_and_low_NIHSS.pdf,Effectiveness_and_safety_of_EVT.pdf,"B.J. Kim, Department of Neurology and Cerebrovascular Center, Seoul National University College of Medicine, Seoul National University Bundang Hospital, Seongnam-si, South Korea",,"Broccolini et al., “Early Neurological Deterioration in Patients with Minor Stroke Due to Isolated M2 Occlusion Undergoing Medical Management.” (https://www.notion.so/Broccolini-et-al-Early-Neurological-Deterioration-in-Patients-with-Minor-Stroke-Due-to-Isolated-M-30ac5a45dadf8111ae21c4ca5b3c8e13?pvs=21)",Pending,,"February 20, 2026 8:46 PM (GMT+1)",48m,"February 20, 2026 7:58 PM (GMT+1)",Effectiveness and safety of EVT in patients with acute LVO and low NIHSS,Verified,2022,https://zotero.org/skizzolino/items/8TZFNCED
